@@ -4,3 +4,4 @@ advocacy	incidencia, defensa
 outcomes	resultados
 arenas	ámbitos
 accountability	responsabilidad, rendición de cuentas	puede matizarse 'social', 'pública'
+outcomes	resultados, desenlaces
