@@ -1,0 +1,15 @@
+3/28/16 10:27 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     282	 5139	                      29160	                        33918	     2	
+Remaining:       	     267	 4821	                      27389	                        31847	     2	
+Unique:          	     271	 5137	                      29021	                        33778	     2	
+Unique Remaining:	     256	 4819	                      27250	                        31707	     2	
+
+
+Individual File Statistics:
+
+File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+5.0-introduction.txt	            27	                12	             27	                       12	        534	            216	         534	                   216	                             2973	                                 1202	                              2973	                                        1202	                               3475	                                   1404	                                3475	                                          1404	
+5.1-parte1.txt      	           255	               255	            244	                      244	       4605	           4605	        4603	                  4603	                            26187	                                26187	                             26048	                                       26048	                              30443	                                  30443	                               30303	                                         30303	

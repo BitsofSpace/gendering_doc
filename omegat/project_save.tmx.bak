@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 5: Using Documentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T173837Z" creationid="funga" creationdate="20160328T173837Z">
+        <seg>CAPÍTULO 5: Utilizando Documentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T000529Z" creationid="funga" creationdate="20160328T174332Z">
+        <seg>Generalmente, los y las activistas documentan como una herramienta "en busca de justicia" ante un agravio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>No sé si es necesario ya a estas alturas, capítulo 5, la actividad de la WHRD, pero por si acaso se está tomando sólo el capítulo de referencia, lo especifico la primera vez que aparecen las siglas para después sólo hace referencia a éstas últimas.</note>
+      <tuv lang="EN-US">
+        <seg>In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T001143Z" creationid="funga" creationdate="20160329T001143Z">
+        <seg>En otras situaciones, documentar las experencias de la Women Human Rights Defender International Coalition (WHRD), coalición internacional defensora
+de los derechos humanos de las mujeres, ayuda a deafiar a las autoridades que mantienen su control político, religioso, familiar o cultural a través de la invalidación o castigo de activistas o mujeres en general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some situations, documentation helps defenders secure legal representation, which can be a critical early step necessary for a number of outcomes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T000823Z" creationid="funga" creationdate="20160329T000823Z">
+        <seg>En algunas situaciones, documentar ayuda a defensoras y defensores asegurar una representación legal, paso crítico y necesario para obtener numerosos resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can create a specific change in someone’s circumstances or in a policy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T235106Z" creationid="funga" creationdate="20160328T235106Z">
+        <seg>Puede crear un cambio específico en las circunstancias de una persona o en una política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can ensure violations targeted at individuals and groups are never forgotten.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T235439Z" creationid="funga" creationdate="20160328T235411Z">
+        <seg>Puede garantizar que las violaciones dirigidas a individuos y grupos no sean olvidadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can mobilise solidarity locally, nationally or internationally, thereby helping to build social movements and change social attitudes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T235239Z" creationid="funga" creationdate="20160328T235239Z">
+        <seg>Puede detonar solidaridad local, nacional o internacional, ayudando así la construcción de movimientos sociales y un cambio en conductas sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not present an exhaustive list, but provides a discussion of some of the key advocacy strategies that women human rights defenders may adopt—and use documentation to support—to respond to attacks and to overcome obstacles put in our paths because of our activism.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T031029Z" creationid="funga" creationdate="20160329T031029Z">
+        <seg>No se presenta una lista exaustiva sino una discusión con algunas de las estrategias clave de incidencia que las defensoras de derechos humanos pueden adoptar —usando la documentación como apoyo—para responder ante ataques y superar obstáculos que se interponen en nuestro camino debido a nuestro activismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many uses of documentation are directed at generating outcomes in legal arenas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T000504Z" creationid="funga" creationdate="20160329T000504Z">
+        <seg>Muchos usos de la documentación están dirigidos a generar resultados en ámbitos legales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>outrage: escándalo</note>
+      <tuv lang="EN-US">
+        <seg>Telling a story supported by facts can generate public outrage and protest about a human rights situation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T235048Z" creationid="funga" creationdate="20160328T235048Z">
+        <seg>Contar una historia respaldada por hechos puede generar indignación y protesta pública ante una situación de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chapter that follows emphasizes human rights strategies that are somehow legal or more formal in nature and that
+are connected to judicial or intergovernmental processes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T031205Z" creationid="funga" creationdate="20160329T031205Z">
+        <seg>El capítulo siguiente enfatiza estrategias de derechos humanos que son, de cierta manera. de carácter más legal o formales y que están vinculados a procesos judiciales o intergubernamentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>O "muchas razones para documentar".
+También podríamos decir "los y las activistas".</note>
+      <tuv lang="EN-US">
+        <seg>There are many reasons to document violations against women human rights defenders, and activists use that documentation in any number of creative ways.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T000512Z" creationid="funga" creationdate="20160328T174040Z">
+        <seg>Hay muchas razones por las cuales documentar violaciones contra defensoras de derechos humanos. Las personas activistas utilizan esta documentación de muchas maneras creativas.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">5.0-introduction.txt</prop>
+      <prop type="prev">It can ensure violations targeted at individuals and groups are never forgotten.</prop>
+      <prop type="next">Many uses of documentation are directed at generating outcomes in legal arenas.</prop>
+      <note>Alternativa: Y puede legitimar y validar las luchas de las defensoras de derechos humanos en en el campo de la incidencia y justicia social.</note>
+      <tuv lang="EN-US">
+        <seg>And it can legitimise and validate the advocacy and social justice struggles of women human rights defenders around the world.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160328T235834Z" creationid="funga" creationdate="20160328T235715Z">
+        <seg>Y puede legitimar y validar las luchas en incidencia y justicial social de las defensoras de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">5.0-introduction.txt</prop>
+      <prop type="prev">In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</prop>
+      <prop type="next">It does not present an exhaustive list, but provides a discussion of some of the key advocacy strategies that women human rights defenders may adopt—and use documentation to support—to respond to attacks and to overcome obstacles put in our paths because of our activism.</prop>
+      <note>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 **en materia de ** de responsabilidad, justicia y protección de la WHRD a escala regional, nacional e internacional</note>
+      <tuv lang="EN-US">
+        <seg>This chapter explains some of the more formal systems, or “mechanisms”^61 for accountability, justice and protection that exist for WHRDs at the national, regional and international levels.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160329T001912Z" creationid="funga" creationdate="20160329T001912Z">
+        <seg>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 de responsabilidad, justicia y protección de la WHRD a escala regional, nacional e internacional.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

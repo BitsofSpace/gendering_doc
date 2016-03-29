@@ -1,0 +1,6 @@
+social attitudes	conductas sociales
+harm	agravio, daño	agravio está más enfocado a un ámbito legal
+advocacy	incidencia, defensa
+outcomes	resultados
+arenas	ámbitos
+accountability	responsabilidad, rendición de cuentas	puede matizarse 'social', 'pública'
