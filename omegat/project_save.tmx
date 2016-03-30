@@ -117,6 +117,15 @@ Opté por "lucha" en vez de "incidencia".</note>
         <seg>Éstos no son, por supuesto, los únicos resultados fruto de las buenas prácticas de la documentación sobre y realizado por WHRD. Los desenlaces legales suelen apoyarse en y contribuir a la lucha de otros movimientos sociales. </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Part 1 of this chapter presents some guiding questions and creative ways that women human rights
+defenders can use documentation to secure protection while at the same time creating public awareness and demanding change.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="funga" changedate="20160330T032103Z" creationid="funga" creationdate="20160330T032103Z">
+        <seg>•La primera parte de este capítulo presenta algunas cuestiones orientativas y maneras creativas en que las defensoras de derechos humanos puedan utilizy.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">5.0-introduction.txt</prop>
