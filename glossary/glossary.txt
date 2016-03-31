@@ -6,3 +6,6 @@ arenas	ámbitos
 accountability	responsabilidad, rendición de cuentas	puede matizarse 'social', 'pública'
 outcomes	resultados, desenlaces
 advocacy	incidencia, defensa, lucha
+awareness	conciencia	despertar conciencia 
+court	tribunal
+at national, regional and global levels	a escala regional, nacional e internacional
