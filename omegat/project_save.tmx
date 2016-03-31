@@ -87,8 +87,8 @@ de los derechos humanos de las mujeres, ayuda a desafiar a las autoridades que m
       <tuv lang="EN-US">
         <seg>It does not present an exhaustive list, but provides a discussion of some of the key advocacy strategies that women human rights defenders may adopt—and use documentation to support—to respond to attacks and to overcome obstacles put in our paths because of our activism.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160329T031029Z" creationid="funga" creationdate="20160329T031029Z">
-        <seg>No se presenta una lista exaustiva sino una discusión con algunas de las estrategias clave de incidencia que las defensoras de derechos humanos pueden adoptar —usando la documentación como apoyo—para responder ante ataques y superar obstáculos que se interponen en nuestro camino debido a nuestro activismo.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191526Z" creationid="funga" creationdate="20160329T031029Z">
+        <seg>No se presenta una lista exaustiva sino una discusión con algunas de las estrategias clave de incidencia que las defensoras de derechos humanos pueden adoptar —usando la documentación como apoyo— para responder ante ataques y superar obstáculos que se interponen en nuestro camino debido a nuestro activismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,8 +122,8 @@ by and for civil society.</seg>
         <seg>The chapter that follows emphasizes human rights strategies that are somehow legal or more formal in nature and that
 are connected to judicial or intergovernmental processes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160329T031205Z" creationid="funga" creationdate="20160329T031205Z">
-        <seg>El capítulo siguiente enfatiza estrategias de derechos humanos que son, de cierta manera. de carácter más legal o formales y que están vinculados a procesos judiciales o intergubernamentales.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191601Z" creationid="funga" creationdate="20160329T031205Z">
+        <seg>El capítulo siguiente enfatiza estrategias de derechos humanos que son, de cierta manera, de carácter más legal o formales y que están vinculadas a procesos judiciales o intergubernamentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,7 +239,9 @@ United Nations to seek justice and accountability at national, regional and glob
       <prop type="file">5.0-introduction.txt</prop>
       <prop type="prev">In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</prop>
       <prop type="next">It does not present an exhaustive list, but provides a discussion of some of the key advocacy strategies that women human rights defenders may adopt—and use documentation to support—to respond to attacks and to overcome obstacles put in our paths because of our activism.</prop>
-      <note>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 **en materia de ** de responsabilidad, justicia y protección de la WHRD a escala regional, nacional e internacional</note>
+      <note>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 **en materia de ** de responsabilidad, justicia y protección de la WHRD a escala regional, nacional e internacional.
+
+"Rendición de cuentas" como alternativa a "responsabilidad".</note>
       <tuv lang="EN-US">
         <seg>This chapter explains some of the more formal systems, or “mechanisms”^61 for accountability, justice and protection that exist for WHRDs at the national, regional and international levels.</seg>
       </tuv>
