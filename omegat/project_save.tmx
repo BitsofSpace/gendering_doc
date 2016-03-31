@@ -79,8 +79,8 @@ de los derechos humanos de las mujeres, ayuda a deafiar a las autoridades que ma
       <tuv lang="EN-US">
         <seg>It can mobilise solidarity locally, nationally or internationally, thereby helping to build social movements and change social attitudes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160328T235239Z" creationid="funga" creationdate="20160328T235239Z">
-        <seg>Puede detonar solidaridad local, nacional o internacional, ayudando así la construcción de movimientos sociales y un cambio en conductas sociales.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T190151Z" creationid="funga" creationdate="20160328T235239Z">
+        <seg>Puede detonar una solidaridad local, nacional o internacional, ayudando así en la construcción de movimientos sociales y enel cambio de conductas sociales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227,12 +227,12 @@ United Nations to seek justice and accountability at national, regional and glob
       <prop type="file">5.0-introduction.txt</prop>
       <prop type="prev">It can ensure violations targeted at individuals and groups are never forgotten.</prop>
       <prop type="next">Many uses of documentation are directed at generating outcomes in legal arenas.</prop>
-      <note>Alternativa: Y puede legitimar y validar las luchas de las defensoras de derechos humanos en en el campo de la incidencia y justicia social.</note>
+      <note>Alternativa: Y puede legitimar y validar las luchas de las defensoras de derechos humanos en en el campo de la incidencia y justicia socia en todo el mundo.</note>
       <tuv lang="EN-US">
         <seg>And it can legitimise and validate the advocacy and social justice struggles of women human rights defenders around the world.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160328T235834Z" creationid="funga" creationdate="20160328T235715Z">
-        <seg>Y puede legitimar y validar las luchas en incidencia y justicial social de las defensoras de derechos humanos.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T190316Z" creationid="funga" creationdate="20160328T235715Z">
+        <seg>Y puede legitimar y validar las luchas en incidencia y justicial social de las defensoras de derechos humanos en todo el mundo.</seg>
       </tuv>
     </tu>
     <tu>
