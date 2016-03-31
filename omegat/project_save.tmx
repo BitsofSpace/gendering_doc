@@ -168,6 +168,22 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>[^62]: “Special procedures” is a term used in the U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183308Z" creationid="bitsofspace" creationdate="20160331T183308Z">
+        <seg>[^62]: “Procedimientos especiales” es un término empleado en la O.N.U.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and some regional governmental systems for various independent experts, often called special rapporteurs, and working groups.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183457Z" creationid="bitsofspace" creationdate="20160331T183457Z">
+        <seg>y algunos sistemas gubernamentales regionales para distintos expertos y expertas independientes, comúnmente llamados "relatoras o relatores especiales" y grupos de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://es.wikipedia.org/wiki/Examen_Peri%C3%B3dico_Universal</note>
       <tuv lang="EN-US">
         <seg>treaty bodies, “special procedures”^62 the Universal Periodic Review of the U.N.</seg>
