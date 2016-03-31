@@ -21,6 +21,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>https://es.wikipedia.org/wiki/Consejo_de_Derechos_Humanos_de_las_Naciones_Unidas</note>
+      <tuv lang="EN-US">
+        <seg>Human Rights Council, and regional human rights courts and commissions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T182948Z" creationid="bitsofspace" creationdate="20160331T182948Z">
+        <seg>el Consejo de Derechos Humanos y .</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si es necesario ya a estas alturas, capítulo 5, la actividad de la WHRD, pero por si acaso se está tomando sólo el capítulo de referencia, lo especifico la primera vez que aparecen las siglas para después sólo hace referencia a éstas últimas.</note>
       <tuv lang="EN-US">
         <seg>In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</seg>
