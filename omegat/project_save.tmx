@@ -16,11 +16,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Junté ambas frases para evitar redundancia.</note>
       <tuv lang="EN-US">
         <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160329T000529Z" creationid="funga" creationdate="20160328T174332Z">
-        <seg>Generalmente, los y las activistas documentan como una herramienta "en busca de justicia" ante un agravio.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T185339Z" creationid="funga" creationdate="20160328T174332Z">
+        <seg>generalmente como una herramienta "en busca de justicia" ante un agravio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135,13 +136,12 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>O "muchas razones para documentar".
-También podríamos decir "los y las activistas".</note>
+      <note>También podríamos decir "los y las activistas".</note>
       <tuv lang="EN-US">
         <seg>There are many reasons to document violations against women human rights defenders, and activists use that documentation in any number of creative ways.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160329T000512Z" creationid="funga" creationdate="20160328T174040Z">
-        <seg>Hay muchas razones por las cuales documentar violaciones contra defensoras de derechos humanos. Las personas activistas utilizan esta documentación de muchas maneras creativas.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T185309Z" creationid="funga" creationdate="20160328T174040Z">
+        <seg>Hay muchas razones para documentar violaciones contra defensoras de derechos humanos. Las personas activistas utilizan esta documentación de muchas maneras creativas,</seg>
       </tuv>
     </tu>
     <tu>
