@@ -196,12 +196,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
-      <note>https://es.wikipedia.org/wiki/Examen_Peri%C3%B3dico_Universal</note>
+      <note>https://es.wikipedia.org/wiki/Examen_Peri%C3%B3dico_Universal
+
+Junto tratadis y EPU porque ambas son de la ONU y para evitar redundancia. </note>
       <tuv lang="EN-US">
         <seg>treaty bodies, “special procedures”^62 the Universal Periodic Review of the U.N.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T182358Z" creationid="bitsofspace" creationdate="20160331T182358Z">
-        <seg>tratados de las Naciones Unidas, "procedimientos especiales"^62, el Examen Periódico Universal de la ONU,</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192532Z" creationid="bitsofspace" creationdate="20160331T182358Z">
+        <seg>tratados y el Examen Periódico Universal de las Naciones Unidas (ONU), los "procedimientos especiales"^62,</seg>
       </tuv>
     </tu>
     <tu>
