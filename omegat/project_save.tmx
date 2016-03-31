@@ -123,6 +123,15 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Redacción ambigüa de la frase.</note>
+      <tuv lang="EN-US">
+        <seg>Their mandates are to report and advise on human rights situations in countries or based on themes or experiences of groups of people.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183634Z" creationid="bitsofspace" creationdate="20160331T183634Z">
+        <seg>Sus mandatos son reportar y aconsejar sobre situaciones de derechos humanos en países, basándose en temas y experiencias de grupos de personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>O "muchas razones para documentar".
 También podríamos decir "los y las activistas".</note>
       <tuv lang="EN-US">
