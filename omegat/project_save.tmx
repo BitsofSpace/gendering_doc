@@ -5,6 +5,9 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>1. También "Utilizando la documentación"
+
+</note>
       <tuv lang="EN-US">
         <seg>CHAPTER 5: Using Documentation</seg>
       </tuv>
