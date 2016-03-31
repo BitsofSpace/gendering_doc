@@ -79,6 +79,15 @@ de los derechos humanos de las mujeres, ayuda a deafiar a las autoridades que ma
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Most of the initiatives described in this section pertain to actions
+by and for civil society.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T181922Z" creationid="bitsofspace" creationdate="20160331T181922Z">
+        <seg>La mayoría de las iniciativas descritas en esta sección pertenecen a acciones realizadas por y para la sociedad civil.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>outrage: escándalo</note>
       <tuv lang="EN-US">
         <seg>Telling a story supported by facts can generate public outrage and protest about a human rights situation.</seg>
@@ -122,8 +131,17 @@ Opté por "lucha" en vez de "incidencia".</note>
         <seg>• Part 1 of this chapter presents some guiding questions and creative ways that women human rights
 defenders can use documentation to secure protection while at the same time creating public awareness and demanding change.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160330T032103Z" creationid="funga" creationdate="20160330T032103Z">
-        <seg>•La primera parte de este capítulo presenta algunas cuestiones orientativas y maneras creativas en que las defensoras de derechos humanos puedan utilizy.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T181807Z" creationid="funga" creationdate="20160330T032103Z">
+        <seg>•La primera parte de este capítulo presenta algunas cuestiones orientativas y maneras creativas en que las defensoras de derechos humanos pueden utilizar la documentación para protegerse, a la vez que despertar conciencia pública y exigir cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Part 2 examines more formal advocacy including use of the courts, judicial systems and the
+United Nations to seek justice and accountability at national, regional and global levels.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T182032Z" creationid="bitsofspace" creationdate="20160331T182032Z">
+        <seg>• Parte 2 examina incidencias más formales, incluyendo el uso de juzgados, sistemas judiciales y las Naciones Unidas en busca de justicia y rendición de cuentas a escala regional, nacional e internacional.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
