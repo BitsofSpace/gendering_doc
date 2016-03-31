@@ -25,8 +25,8 @@
       <tuv lang="EN-US">
         <seg>Human Rights Council, and regional human rights courts and commissions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T182948Z" creationid="bitsofspace" creationdate="20160331T182948Z">
-        <seg>el Consejo de Derechos Humanos y .</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183249Z" creationid="bitsofspace" creationdate="20160331T182948Z">
+        <seg>el Consejo de Derechos Humanos; tribunales regionales de derechos humanos y comisiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,6 +45,14 @@ de los derechos humanos de las mujeres, ayuda a deafiar a las autoridades que ma
       </tuv>
       <tuv lang="ES" changeid="funga" changedate="20160329T000823Z" creationid="funga" creationdate="20160329T000823Z">
         <seg>En algunas situaciones, documentar ayuda a defensoras y defensores asegurar una representación legal, paso crítico y necesario para obtener numerosos resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, “mechanism” also applies to national courts and other systems of justice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183217Z" creationid="bitsofspace" creationdate="20160331T183217Z">
+        <seg>En esta sección, "mecanismo" también aplica a tribunales nacionales y otros sistemas de justicia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125,6 +133,14 @@ También podríamos decir "los y las activistas".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There are regional and global mechanisms, and most accept information from NGOs about human rights issues.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183150Z" creationid="bitsofspace" creationdate="20160331T183150Z">
+        <seg>Hay mecanismso regionales y globales, y la mayoría aceptan información de ONGs sobre asuntos de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Usé "desenlace" como sinónimo de "resultados".
 
 Opté por "lucha" en vez de "incidencia".</note>
@@ -141,6 +157,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T182201Z" creationid="bitsofspace" creationdate="20160331T182201Z">
         <seg>Esta sección aborda en detalle procesos de documentación e incidencia con </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[^61]: The term human rights “mechanism” is generally meant to imply an official human rights “body” or “entity” that monitors or makes decisions about human rights situations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183115Z" creationid="bitsofspace" creationdate="20160331T183115Z">
+        <seg>[^61]: El término "mecanismo de derechos humanos" implica, generalmente, un "organismo" o "entidad" oficial de derechos humanos que monitorea o toma decisiones sobre situaciones de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
