@@ -109,6 +109,14 @@ by and for civil society.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Overall, some argue that there are a few overarching reasons to create and use documentation:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160405T083152Z" creationid="bitsofspace" creationdate="20160405T083152Z">
+        <seg>En general, algunas personas argumentan que hay motivos globales para crear y usar la documentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Aún no tengo claridad si traducir 'accountability' como 'responsabilidad social'. En caso de hacerlo, pongo 'social' como atributo al final por no ser redundante.
 
 Alternativa: 'incidencia para el cambio social, protección, justicia y rendición de cuentas'.</note>
