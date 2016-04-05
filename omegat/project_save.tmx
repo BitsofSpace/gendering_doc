@@ -109,6 +109,17 @@ by and for civil society.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Aún no tengo claridad si traducir 'accountability' como 'responsabilidad social'. En caso de hacerlo, pongo 'social' como atributo al final por no ser redundante.
+
+Alternativa: 'incidencia para el cambio social, protección, justicia y rendición de cuentas'.</note>
+      <tuv lang="EN-US">
+        <seg>Part 1: Advocacy for social change, protection, justice and accountability</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160405T081748Z" creationid="bitsofspace" creationdate="20160405T081748Z">
+        <seg>Parte 1: Incidencia para cambio, protección, justicia y responsabilidad social.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>outrage: escándalo</note>
       <tuv lang="EN-US">
         <seg>Telling a story supported by facts can generate public outrage and protest about a human rights situation.</seg>
