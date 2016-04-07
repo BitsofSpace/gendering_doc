@@ -268,8 +268,8 @@
       <tuv lang="EN-US">
         <seg>In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191316Z" creationid="funga" creationdate="20160329T001143Z">
-        <seg>En otras situaciones, documentar las experencias de la Women Human Rights Defender International Coalition (WHRD), coalición internacional defensora
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T083205Z" creationid="funga" creationdate="20160329T001143Z">
+        <seg>En otras situaciones, documentar las experencias de la Women Human Rights Defender International Coalition (WHRD-IC), coalición internacional defensora
 de los derechos humanos de las mujeres, ayuda a desafiar a las autoridades que mantienen su control político, religioso, familiar o cultural a través de la invalidación o castigo de activistas —o mujeres en general.</seg>
       </tuv>
     </tu>
@@ -787,6 +787,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>such as sex workers or LGBT people, defenders may choose certain strategies over others in order to avoid immediate arrest&lt;t0/&gt; When WHRDs are criminalized, certain factors must be taken into account&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T083055Z" creationid="bitsofspace" creationdate="20160407T083055Z">
+        <seg>como trabajadoras sexuales o personas LGTB, las y los defensoras pueden escoger ciertas estrategias con el fin de evitar arresto inmediato.&lt;t0/&gt; Cuando defensoras de derechos humanos son criminalizadas, se deben tomar en cuenta determinados factores.&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://es.wikipedia.org/wiki/Examen_Peri%C3%B3dico_Universal
 
 Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </note>
@@ -846,8 +854,8 @@ United Nations to seek justice and accountability at national, regional and glob
       <tuv lang="EN-US">
         <seg>This chapter explains some of the more formal systems, or “mechanisms”^61 for accountability, justice and protection that exist for WHRDs at the national, regional and international levels.</seg>
       </tuv>
-      <tuv lang="ES" changeid="funga" changedate="20160329T001912Z" creationid="funga" creationdate="20160329T001912Z">
-        <seg>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 de responsabilidad, justicia y protección de la WHRD a escala regional, nacional e internacional.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T083219Z" creationid="funga" creationdate="20160329T001912Z">
+        <seg>Este capítulo explica algunos de los sistemas o "mecanismos" más formales^61 de responsabilidad, justicia y protección de las defensoras de derechos humanos a escala regional, nacional e internacional.</seg>
       </tuv>
     </tu>
   </body>
