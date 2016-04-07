@@ -101,6 +101,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, having international exposure can add a level of protection for WHRDs and our advocacy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104450Z" creationid="bitsofspace" creationdate="20160407T104450Z">
+        <seg>Sin embargo, tener visibilidad internacional puede agregar sumar una capa de protección a las defensoras de derechos humanos y nuestra defensa y promoción.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si éste es el sentido de la frase originalmente.</note>
       <tuv lang="EN-US">
         <seg>Are defenders in these situations more likely to have partners in advocacy?</seg>
@@ -737,6 +745,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061939Z" creationid="bitsofspace" creationdate="20160407T061939Z">
         <seg>Algunas situaciones requieren flexibilidad y modificar estrategias de incidencia conforme pasa el tiempo y cambian las circunstancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes WHRDs are less likely to be antagonized by government actors or others if those in power know the case will be scrutinized.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104616Z" creationid="bitsofspace" creationdate="20160407T104616Z">
+        <seg>A veces es menos probable que defensoras sean enfrentadas por agentes gubernamentales u otros si los que están en el poder saben que el caso puede ser inspeccionado.</seg>
       </tuv>
     </tu>
     <tu>
