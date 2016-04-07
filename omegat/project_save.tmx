@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Activists creating and using documentation must remember that, whatever their chosen strategies, they may be relying on systems that can be hostile, or that are sometimes seen to fail women.&lt;/f0&gt; Using documentation for political and cultural outcomes is courageous, and often entails seeking long-term change as much as it also entails seeking more immediate justice and accountability in a particular case.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095745Z" creationid="bitsofspace" creationdate="20160407T095745Z">
-        <seg>&lt;f0&gt;Las personas activistas que crean y usan documentación deben tener presente que, independientemente de las estrategias que escojan, pueden estar dependiendo de sistemas que pueden ser hostiles y fallidos hacia mujeres.&lt;/f0&gt; Usar la documentación para resultados políticos y culturales es valiente y suele implicar .</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095823Z" creationid="bitsofspace" creationdate="20160407T095745Z">
+        <seg>&lt;f0&gt;Las personas activistas que crean y usan documentación deben tener presente que, independientemente de las estrategias que escojan, pueden estar dependiendo de sistemas que pueden ser hostiles y fallidos hacia mujeres.&lt;/f0&gt; Usar la documentación para resultados políticos y culturales es valiente y suele implicar tanto la búsqueda de cambios a largo plazo como una justicia más inmediata y rendición de cuentas ante un caso particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +518,14 @@ by and for civil society.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One critical concern is that women human rights defenders must assess &lt;f0&gt;at the local level&lt;/f0&gt; the socio-</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100008Z" creationid="bitsofspace" creationdate="20160407T100008Z">
+        <seg>Un asunto crítico es que las defensoras de derechos humanso deben evaluar &lt;f0&gt;a escala locall&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overall, some argue that there are a few overarching reasons to create and use documentation:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160405T083152Z" creationid="bitsofspace" creationdate="20160405T083152Z">
@@ -650,6 +658,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="funga" changedate="20160328T235048Z" creationid="funga" creationdate="20160328T235048Z">
         <seg>Contar una historia respaldada por hechos puede generar indignación y protesta pública ante una situación de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That kind of longterm engagement in these spaces can require tenacity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095901Z" creationid="bitsofspace" creationdate="20160407T095901Z">
+        <seg>Ese tipo de compromiso longitudinal en estos espacios puede demandar perserverancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,6 +1017,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054016Z" creationid="bitsofspace" creationdate="20160407T035350Z">
         <seg>o para la justicia social en general)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>political and economic impacts as well as advantages and disadvantages of engaging with U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100046Z" creationid="bitsofspace" creationdate="20160407T100046Z">
+        <seg>los impactos políticos y económicos, además de las ventajas y desventajas de relacionarse con la O.N.U</seg>
       </tuv>
     </tu>
     <tu>
