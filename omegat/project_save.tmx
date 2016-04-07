@@ -56,6 +56,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Deciding what to do with documentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051347Z" creationid="bitsofspace" creationdate="20160407T051347Z">
+        <seg>Decidir qué hacer con la documentación</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>También se puede mantener 'statu quo'.</note>
       <tuv lang="EN-US">
         <seg>Documenting for human rights-related purposes implies that something is wrong, and the status quo is not good enough.</seg>
@@ -99,6 +107,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192615Z" creationid="bitsofspace" creationdate="20160331T182948Z">
         <seg>el Consejo de Derechos Humanos, y los tribunales y comisiones regionales de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a harm is done to women human rights defenders, the person, people and institutions who are responsible ought to be held accountable.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051337Z" creationid="bitsofspace" creationdate="20160407T051337Z">
+        <seg>Si una defensora de derechos humanos sufre un perjuicio, la persona o personas e instituciones responsables deben rendir cuentas.</seg>
       </tuv>
     </tu>
     <tu>
