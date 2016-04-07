@@ -887,6 +887,15 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
     </tu>
     <tu>
+      <note>tengo dudas con esta frase</note>
+      <tuv lang="EN-US">
+        <seg>• How are decisions about security made when arrests are likely because of a law that criminalizes identities and expressions of sexuality or gender, rather than any advocacy actions the defenders take?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T085905Z" creationid="bitsofspace" creationdate="20160407T085905Z">
+        <seg>• ¿Cómo se toman decisiones en torno a la seguridad cuando la probabilidad de detención es alta debido a que la ley criminaliza identidades y expresiones de sexualidad o género, en vez de cualquier acción de defensa y promoción que las defensoras toman?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>• How are risk assessments made more complicated than in other situations?</seg>
       </tuv>
@@ -926,6 +935,14 @@ United Nations to seek justice and accountability at national, regional and glob
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T195032Z" creationid="bitsofspace" creationdate="20160331T182032Z">
         <seg>• La segunda parte examina incidencias más formales, incluyendo el uso de juzgados, sistemas judiciales y las Naciones Unidas en busca de justicia y rendición de cuentas a escala regional, nacional e internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• What are the implications for confidentiality of defenders in these circumstances?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T085946Z" creationid="bitsofspace" creationdate="20160407T085946Z">
+        <seg>• ¿Cuáles son las implicaciones en la confidencialidad para las defensoras en estas circunstancias?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
