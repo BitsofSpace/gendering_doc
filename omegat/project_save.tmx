@@ -178,6 +178,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>So for most violations of rights, the remedy (or “solution”) has been to make a formal complaint with police or other official “body”, file a case, and undergo litigation to prove that the violation was committed by the alleged perpetrator, with a judge or jury finally punishing the wrongdoer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T042206Z" creationid="bitsofspace" creationdate="20160407T042206Z">
+        <seg>Para la mayoría de las violaciones de los derechos, el remedio (o "solución") ha sido realizar una queja formal ante un agente policial u otro tipo de "entidad" oficial, interponer una demanda, llevar a cabo un litigio para demostrar que la violación fue cometida por el presunto autor y que finalmente un o una juez o juzgado castigue al infractor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>outrage: escándalo</note>
       <tuv lang="EN-US">
         <seg>Telling a story supported by facts can generate public outrage and protest about a human rights situation.</seg>
