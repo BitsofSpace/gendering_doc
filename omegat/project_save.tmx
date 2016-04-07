@@ -338,6 +338,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 4 on How to Document for fuller analysis.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061134Z" creationid="bitsofspace" creationdate="20160407T061134Z">
+        <seg>Véase Capítulo 4 "Cómo documentar" para un análisis más profundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So for most violations of rights, the remedy (or “solution”) has been to make a formal complaint with police or other official “body”, file a case, and undergo litigation to prove that the violation was committed by the alleged perpetrator, with a judge or jury finally punishing the wrongdoer.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055206Z" creationid="bitsofspace" creationdate="20160407T042206Z">
@@ -381,8 +389,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>The ability to share the narratives of women human rights defenders with accuracy and in a timely way underpins all of these efforts, whether the desired outcomes are about reducing immediate threats, &lt;t0/&gt;changing a policy, or creating long-term attitude change.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060904Z" creationid="bitsofspace" creationdate="20160407T060904Z">
-        <seg>La capacidad de compartir narrativas de defensoras de derechos humanos con precisión y &lt;t0/&gt;changing a policy, or creating long-term attitude change.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061114Z" creationid="bitsofspace" creationdate="20160407T060904Z">
+        <seg>La capacidad de compartir narrativas de defensoras de derechos humanos con precisión y de manera oportuna sustenta todos estos esfuerzos, ya sea que los resultados deseables están enfocados a reducir amenazas inmediatas&lt;t0/&gt;cambiar una política o crear cambios a largo plazo en comportamientos.</seg>
       </tuv>
     </tu>
     <tu>
