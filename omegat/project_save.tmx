@@ -25,6 +25,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Good documentation is the foundation of all of these objectives.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035958Z" creationid="bitsofspace" creationdate="20160407T035958Z">
+        <seg>Una buenda documentación es el cimiento de todos estos objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://es.wikipedia.org/wiki/Consejo_de_Derechos_Humanos_de_las_Naciones_Unidas</note>
       <tuv lang="EN-US">
         <seg>Human Rights Council, and regional human rights courts and commissions.</seg>
@@ -222,6 +230,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035601Z" creationid="bitsofspace" creationdate="20160407T035540Z">
         <seg>Procurar justicia y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together and individually, these categories help to shape advocacy choices of WHRDs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035810Z" creationid="bitsofspace" creationdate="20160407T035810Z">
+        <seg>Juntas y juntos, a la vez que individualmente, estas categorías ayudan a dar forma a las decisiones en la defensa y promoción que realzia WHRD.</seg>
       </tuv>
     </tu>
     <tu>
