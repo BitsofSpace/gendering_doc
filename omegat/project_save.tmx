@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;[Cao Shunli died a few weeks after she was transferred to the hospital.]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102750Z" creationid="bitsofspace" creationdate="20160407T102750Z">
+        <seg>&lt;s1/&gt;[Cao Shunli muere varias semanas después de ser transferida al hospital.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A group of U.N.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T101952Z" creationid="bitsofspace" creationdate="20160407T101952Z">
@@ -293,6 +301,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095028Z" creationid="bitsofspace" creationdate="20160407T095028Z">
         <seg>¿Ha recibido alguna vez información sobre defensoras de derechos humanos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Her health deteriorated while she was in detention and she was transferred to hospital in a critical condition on 19 February 2014&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102728Z" creationid="bitsofspace" creationdate="20160407T102728Z">
+        <seg>Su salud se deterioró mientras estuvo detenida y fue transferida al hospital en condiciones críticas en 19 de febrero de 2014.</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +724,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Subsequent to her detention, Ms. Cao’s whereabouts were unknown until she was charged with the crime of provocation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102657Z" creationid="bitsofspace" creationdate="20160407T102657Z">
+        <seg>Posterior a su detención, sus paraderos fueron desconocidos hasta que fue acusada de crimen de provocación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>outrage: escándalo</note>
       <tuv lang="EN-US">
         <seg>Telling a story supported by facts can generate public outrage and protest about a human rights situation.</seg>
@@ -1065,6 +1089,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192743Z" creationid="bitsofspace" creationdate="20160331T183457Z">
         <seg>y en algunos sistemas gubernamentales regionales para distintos expertas y expertos independientes, comúnmente llamados "relatoras o relatores especiales" y grupos de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>be placed in additional danger if their cases are publicised at the international level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102852Z" creationid="bitsofspace" creationdate="20160407T102852Z">
+        <seg>estar en situaciones de mayor peligro si sus casos se visiblizan a escala internacional.</seg>
       </tuv>
     </tu>
     <tu>
