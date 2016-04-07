@@ -20,3 +20,4 @@ in the aftermath 	a raíz de, fruto de, después
 redress	reparación, compensación, resarcimiento, indemnización	redress
 repackaged	reformulado, adaptado
 grounding in	fundamentar en
+shadow report	informe paralelo
