@@ -122,6 +122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contexts may determine whether more public or more “underground” strategies are chosen.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062304Z" creationid="bitsofspace" creationdate="20160407T062304Z">
+        <seg>Los contextos pueden determinar si se optan por estrategias más públicas o "bajo perfil".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deciding what to do with documentation</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051347Z" creationid="bitsofspace" creationdate="20160407T051347Z">
@@ -152,6 +160,22 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040537Z" creationid="bitsofspace" creationdate="20160407T040537Z">
         <seg>Documentar con propósitos relacionados con los derechos humanos implica que algo está mal y que el estado actual no es suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extremely hostile political climates, or election cycles, for instance, may expand or limit the choices that defenders make.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062240Z" creationid="bitsofspace" creationdate="20160407T062240Z">
+        <seg>Climas politicos extremadamente hostiles o ciclos de elecciones, por ejemplo, pueden potenciar o lmitar las decisiones que los y las defensores realizan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062307Z" creationid="bitsofspace" creationdate="20160407T062307Z">
+        <seg>Por</seg>
       </tuv>
     </tu>
     <tu>
@@ -663,6 +687,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062157Z" creationid="bitsofspace" creationdate="20160407T062157Z">
         <seg>determinar— lo que WHRD puede hacer con la documentación y lo que puede lograrse eficazmente a través de la incidencia y lucha social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>instance, if advocacy is grounded in defending rights of people whose behaviour or identities are criminalised,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062348Z" creationid="bitsofspace" creationdate="20160407T062348Z">
+        <seg>ejemplo, si la defensa y promoción está basado en defender los derechos de personas cyo comportamiento o identidades están siendo criminalizados,</seg>
       </tuv>
     </tu>
     <tu>
