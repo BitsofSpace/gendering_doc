@@ -735,6 +735,14 @@ are connected to judicial or intergovernmental processes.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following text is from a March 2014 press release issued by several U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T101715Z" creationid="bitsofspace" creationdate="20160407T101715Z">
+        <seg>El siguiente texto es del boletín de prensa de marzo 2014 emitido por varios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idea of using documentation to create change is far reaching, and is simply based in &lt;f0&gt;eliciting a change in circumstances or in understanding&lt;/f0&gt;, whether related to safety, attitudes, policies, or the climate surrounding activism.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054459Z" creationid="bitsofspace" creationdate="20160407T040409Z">
@@ -814,8 +822,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>They discussed the ways and means of how to kill us, kill me and kill other human rights defenders while cooperating with the U.N”&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100818Z" creationid="bitsofspace" creationdate="20160407T100818Z">
-        <seg>Discutieron los cómos y medios de matarnos, matarme a mí y a otras defensoras de derechos humanos mientras cooperamos con la O.N.U.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T101511Z" creationid="bitsofspace" creationdate="20160407T100818Z">
+        <seg>Discutieron los cómos y medios de matarnos, matarme a mí y a otras defensoras de derechos humanos mientras cooperábamos con la O.N.U.</seg>
       </tuv>
     </tu>
     <tu>
