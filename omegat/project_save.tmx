@@ -501,6 +501,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See, for instance, “Human rights groups see global crackdown ‘not seen in a generation’,” http://www.theguardian.com/law/2015/aug/26/ngos-face-restrictions-laws-human-rights-generation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T093630Z" creationid="bitsofspace" creationdate="20160407T093630Z">
+        <seg>Lee, por ejemplo, "Grupos de derechos humanos presencian medidas severas globales 'insólitas desde hace una generación'” http://www.theguardian.com/law/2015/aug/26/ngos-face-restrictions-laws-human-rights-generation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sex work is illegal in Uganda, although providing services for sex workers is not.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T071236Z" creationid="bitsofspace" creationdate="20160407T071225Z">
