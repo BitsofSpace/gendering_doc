@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Advocates must continually think about the best strategy or forum to access, given our assessments of our objectives, capacity, expertise and the risks faced.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051934Z" creationid="bitsofspace" creationdate="20160407T051934Z">
-        <seg>Las y los defensores deben pensar constantemente en la mejor estrategia o foro según nuestro diagnóstico de objetivos, capacidades, experiencias y riesgos.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060219Z" creationid="bitsofspace" creationdate="20160407T051934Z">
+        <seg>Las y los defensores deben pensar constantemente en la mejor estrategia o foro según su diagnóstico de objetivos, capacidades, experiencias y riesgos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,7 +305,10 @@ by and for civil society.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Aún no tengo claridad si traducir 'accountability' como 'responsabilidad social'. En caso de hacerlo, pongo 'social' como atributo al final por no ser redundante.
+      <note>En todo el documento se podría proponer conjugar en femenino, en tanto se conjuga como 'persona' para evitar tener que estar todo el rato poniendo 'las y los'.
+
+
+Aún no tengo claridad si traducir 'accountability' como 'responsabilidad social'. En caso de hacerlo, pongo 'social' como atributo al final por no ser redundante.
 
 Alternativa: 'incidencia para el cambio social, protección, justicia y rendición de cuentas'.
 </note>
@@ -336,8 +339,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>Some of the considerations advocates need to consider in deciding how to use documentation include:</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T052012Z" creationid="bitsofspace" creationdate="20160407T052012Z">
-        <seg>Algunas de las consideraciones que las y los defensores necesitan considerar a la hora de decidir cómo usar la documentación incluyen:</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060322Z" creationid="bitsofspace" creationdate="20160407T052012Z">
+        <seg>Algunas de las consideraciones que necesitan considerar a la hora de decidir cómo usar la documentación incluyen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,8 +458,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>They developed the entire project so it could be immediately applied to organizing once the initial documentation was done.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T053433Z" creationid="bitsofspace" creationdate="20160407T053433Z">
-        <seg>Desarrollaron el proyecto entero de manera que pudiera ser aplicado inmediatamente como forma de organizar y accionar, una vez que la documentación inicial estuviera acabada.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060342Z" creationid="bitsofspace" creationdate="20160407T053433Z">
+        <seg>Desarrollaron el proyecto entero de manera que pudiera ser aplicado inmediatamente como forma de organización y acción, una vez que la documentación inicial estuviera acabada.</seg>
       </tuv>
     </tu>
     <tu>
