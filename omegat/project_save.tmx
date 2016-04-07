@@ -198,6 +198,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>GUIDING QUESTIONS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084232Z" creationid="bitsofspace" creationdate="20160407T084232Z">
+        <seg>CUESTIONES ORIENTATIVAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Junté ambas frases para evitar redundancia.</note>
       <tuv lang="EN-US">
         <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
@@ -220,6 +228,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054304Z" creationid="bitsofspace" creationdate="20160407T035958Z">
         <seg>Una buena documentación es el cimiento de todos estos objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How are different advocacy decisions made when the real or perceived identity or behaviour of the defenders involved places them immediately at risk of detention—simply because of who they are seen to be?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084225Z" creationid="bitsofspace" creationdate="20160407T084225Z">
+        <seg>¿Cómo se toman diferentes decisiones de defensa y promoción cuando la identidad real o percibida o las acciones de las defensoras involucaradas los coloca inmediaamente en riesgo de arresto—simplemente por cómo son percibidos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -716,6 +732,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What other things must</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084314Z" creationid="bitsofspace" creationdate="20160407T084314Z">
+        <seg>¿Qué otros aspectos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Women wearing mini-skirts are sometimes harassed or arrested, as well.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T072056Z" creationid="bitsofspace" creationdate="20160407T072056Z">
@@ -752,6 +776,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192743Z" creationid="bitsofspace" creationdate="20160331T183457Z">
         <seg>y en algunos sistemas gubernamentales regionales para distintos expertas y expertos independientes, comúnmente llamados "relatoras o relatores especiales" y grupos de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>be taken into account?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084318Z" creationid="bitsofspace" creationdate="20160407T084318Z">
+        <seg>deben tomarse en cuenta?</seg>
       </tuv>
     </tu>
     <tu>
@@ -819,6 +851,22 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055943Z" creationid="bitsofspace" creationdate="20160407T051639Z">
         <seg>usada para diferentes ámbitos de incidencia y audiencia, también para construir coaliciones más amplias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• How are risk assessments made more complicated than in other situations?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084307Z" creationid="bitsofspace" creationdate="20160407T084307Z">
+        <seg>• ¿Cómo se complejizan los diagnósticos de riesgos con respecto a otras situaciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• How is coalition work or solidarity affected?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084344Z" creationid="bitsofspace" creationdate="20160407T084344Z">
+        <seg>• ¿Cómo afecta el trabajo o solidaridad de la coalición?</seg>
       </tuv>
     </tu>
     <tu>
