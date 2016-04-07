@@ -226,8 +226,8 @@
       <tuv lang="EN-US">
         <seg>GUIDING QUESTIONS FOR ASSESSING ADVOCACY SITES:</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094840Z" creationid="bitsofspace" creationdate="20160407T094840Z">
-        <seg>CUESTIONES ORIENTATIVAS PARA ASESORAR </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094944Z" creationid="bitsofspace" creationdate="20160407T094840Z">
+        <seg>CUESTIONES ORIENTATIVAS PARA ASESORAR LUGARES DE DEFENSA Y PROMOCIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -253,6 +253,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054304Z" creationid="bitsofspace" creationdate="20160407T035958Z">
         <seg>Una buena documentación es el cimiento de todos estos objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has it received in­ formation on women human rights defenders before?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095028Z" creationid="bitsofspace" creationdate="20160407T095028Z">
+        <seg>¿Ha recibido alguna vez información sobre defensoras de derechos humanos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +294,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055755Z" creationid="bitsofspace" creationdate="20160407T051337Z">
         <seg>Si una defensora de derechos humanos sufre un perjuicio, las personas e instituciones responsables deben rendir cuentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If yes, was the outcome useful?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095041Z" creationid="bitsofspace" creationdate="20160407T095041Z">
+        <seg>Si es el caso, ¿el resultado ha sido útil?</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,6 +360,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183217Z" creationid="bitsofspace" creationdate="20160331T183217Z">
         <seg>En esta sección, "mecanismo" también aplica a tribunales nacionales y otros sistemas de justicia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there an immediate possibility for future constructive outcomes?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095057Z" creationid="bitsofspace" creationdate="20160407T095057Z">
+        <seg>¿Hay una posibilidad inmediata de futuros resultados constructivos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1104,14 @@ United Nations to seek justice and accountability at national, regional and glob
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T085946Z" creationid="bitsofspace" creationdate="20160407T085946Z">
         <seg>• ¿Cuáles son las implicaciones en la confidencialidad para las defensoras en estas circunstancias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• What is the history with that particular site of advocacy, or mechanism?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095009Z" creationid="bitsofspace" creationdate="20160407T095009Z">
+        <seg>• ¿Cuál es la relación con dicho lugar de defensa y promoción o mecanismo?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
