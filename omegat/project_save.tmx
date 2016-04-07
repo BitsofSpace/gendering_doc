@@ -346,6 +346,15 @@ de los derechos humanos de las mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
     </tu>
     <tu>
+      <note>Asumo que acá "appearence" hace referencia a physical appearence.</note>
+      <tuv lang="EN-US">
+        <seg>Laws may criminalize identity directly, or defenders’ appearance or advocacy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T071801Z" creationid="bitsofspace" creationdate="20160407T071801Z">
+        <seg>Las leyes pueden criminalizar a las y los defensores, tanto su identidad directamente, como su aspecto físico o actividades de incidencia y lucha social.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Many uses of documentation are directed at generating outcomes in legal arenas.</seg>
       </tuv>
@@ -399,6 +408,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T071202Z" creationid="bitsofspace" creationdate="20160407T071202Z">
         <seg>La policia detuvo a dos funcionarios y confiscaron documentos, computadoras y otros materiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Police have engaged in various forms of harassment, &lt;t0/&gt;claiming that all activities related to sex work are illegal&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T071359Z" creationid="bitsofspace" creationdate="20160407T071359Z">
+        <seg>La policia ha entablado varias formas de acoso, alegando que todas las personas activistas relacionadas con el trabajo sexual son ilegales.</seg>
       </tuv>
     </tu>
     <tu>
