@@ -203,8 +203,25 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>To protect women human rights defenders</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035404Z" creationid="bitsofspace" creationdate="20160407T035404Z">
-        <seg>Para proteger defensoras de derechos humanos.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035548Z" creationid="bitsofspace" creationdate="20160407T035404Z">
+        <seg>Proteger defensoras de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Por no repetir 'procurar' dos veces, la segunda vez no lo incluyo.</note>
+      <tuv lang="EN-US">
+        <seg>To seek accountability through telling the truth about violations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035703Z" creationid="bitsofspace" creationdate="20160407T035703Z">
+        <seg>rendición de cuentas mediante la visibilización de casos de violación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To seek justice, and</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035601Z" creationid="bitsofspace" creationdate="20160407T035540Z">
+        <seg>Procurar justicia y</seg>
       </tuv>
     </tu>
     <tu>
