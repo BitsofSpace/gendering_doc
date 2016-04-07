@@ -1,11 +1,10 @@
 social attitudes	conductas sociales
 harm	agravio, daño	agravio está más enfocado a un ámbito legal
-advocacy	incidencia, defensa
+advocacy	defensa y promoción, incidencia, defensa, lucha
 outcomes	resultados
 arenas	ámbitos
 accountability	responsabilidad, rendición de cuentas	puede matizarse 'social', 'pública'
 outcomes	resultados, desenlaces
-advocacy	incidencia, defensa, lucha
 awareness	conciencia	despertar conciencia 
 court	tribunal
 at national, regional and global levels	a escala regional, nacional e internacional
