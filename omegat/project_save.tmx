@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Protection&lt;/f0&gt; of WHRDs refers to putting in place “systems” to prevent future or additional abuses.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040836Z" creationid="bitsofspace" creationdate="20160407T040836Z">
+        <seg>&lt;f0&gt;La protección&lt;/f0&gt; de WHRD hace referencia a establecer "sistemas" para prevenir futuros o escalamiento de abusos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>1. También "Utilizando la documentación"
 
 </note>
@@ -143,6 +151,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035311Z" creationid="bitsofspace" creationdate="20160405T081748Z">
         <seg>Parte 1: Defensa y promoción para el cambio, la protección, la justicia y la responsabilidad social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection can take many forms: it can be preventive and “future-based”, or designed to address</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040919Z" creationid="bitsofspace" creationdate="20160407T040919Z">
+        <seg>La protección puede tomar muchas formas: puede ser preventiva o "basada en el futuro", o puede estar diseñada para abordar</seg>
       </tuv>
     </tu>
     <tu>
