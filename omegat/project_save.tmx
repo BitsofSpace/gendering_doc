@@ -223,6 +223,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>GUIDING QUESTIONS FOR ASSESSING ADVOCACY SITES:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094840Z" creationid="bitsofspace" creationdate="20160407T094840Z">
+        <seg>CUESTIONES ORIENTATIVAS PARA ASESORAR </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Junté ambas frases para evitar redundancia.</note>
       <tuv lang="EN-US">
         <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
@@ -294,6 +302,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T041639Z" creationid="bitsofspace" creationdate="20160407T041639Z">
         <seg>El concepto de "justicia" incorpora ideas fundadas sobre el principio de castigo ante un mal inflingido por otra persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a world of limited resources for activism, WHRDs must make smart decisions about where we choose to make our claims.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094749Z" creationid="bitsofspace" creationdate="20160407T094749Z">
+        <seg>En un mundo de recursos limitados para activismos, las defensoras de derechos humanos deben tomar decisiones inteligentes sobre las trincheras desde donde formulan sus reclamos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +454,26 @@ by and for civil society.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not all places for advocacy will be equally beneficial or equally challenging.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094821Z" creationid="bitsofspace" creationdate="20160407T094821Z">
+        <seg>No todos los lugares para la defensa y promoción son igualmente beneficiosos o desafiantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, non-State actors are directly accountable, as well, through national and sometimes international criminal law.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055719Z" creationid="bitsofspace" creationdate="20160407T045953Z">
         <seg>Por supuesto, los y las agentes no estatales también son directamente responsables por medio de leyes penales nacionales, y a veces internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, this poses an added layer of challenge for women human rights defenders, as women’s, human rights, and sexual and reproductive rights groups are often caught in this dragnet, and as WHRDs as individuals face additional risks and harassment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094637Z" creationid="bitsofspace" creationdate="20160407T094637Z">
+        <seg>Por supuesto, ésto plantea una capa adicional a los retos que enfrentan las defensoras de derechos humanos, en tanto grupos de mujeres, defensoras de derechos humanos, sexuales y reproductivos que son atrapadas en esta red de arrastre, sufriendo riesgos y acoso adicionales a nivel individual.</seg>
       </tuv>
     </tu>
     <tu>
