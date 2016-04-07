@@ -16,6 +16,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>También se puede mantener 'statu quo'.</note>
+      <tuv lang="EN-US">
+        <seg>Documenting for human rights-related purposes implies that something is wrong, and the status quo is not good enough.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040537Z" creationid="bitsofspace" creationdate="20160407T040537Z">
+        <seg>Documentar con propósitos relacionados con los derechos humanos implica que algo está mal y que el estado actual no es suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Junté ambas frases para evitar redundancia.</note>
       <tuv lang="EN-US">
         <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
@@ -152,6 +161,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191601Z" creationid="funga" creationdate="20160329T031205Z">
         <seg>El capítulo siguiente enfatiza estrategias de derechos humanos que son, de cierta manera, de carácter más legal o formales y que están vinculadas a procesos judiciales o intergubernamentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The idea of using documentation to create change is far reaching, and is simply based in &lt;f0&gt;eliciting a change in circumstances or in understanding&lt;/f0&gt;, whether related to safety, attitudes, policies, or the climate surrounding activism.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040409Z" creationid="bitsofspace" creationdate="20160407T040409Z">
+        <seg>La idea de usar la documentación para generar cambios es trascendental y sencillamente basado en &lt;f0&gt;provocar cambios en circunstancias o en la comprensión&lt;/f0&gt;, ya sea relacionado con la seguridad, comportamientos, políticas o el climax que envuelve el activismo.</seg>
       </tuv>
     </tu>
     <tu>
