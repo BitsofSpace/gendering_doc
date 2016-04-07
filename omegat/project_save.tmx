@@ -49,6 +49,17 @@
       </tuv>
     </tu>
     <tu>
+      <note>http://www.cesr.org/section.php?id=70
+
+</note>
+      <tuv lang="EN-US">
+        <seg>For a current discussion and more information about accountability and justice, see OHCHR and the Center for Economic and Social Rights, Who will be Accountable: human rights and the post-2015 development agenda (2013).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T044440Z" creationid="bitsofspace" creationdate="20160407T044440Z">
+        <seg>Para conocer más la discusión en curso y más información sobre responsabilidad y justicia social, véase OHCHR y el Centro por los Derechos Económicos y Sociales, "Quién rendirá cuentas: derechos humanso y agenda de desarrollo post-2015 (2013)".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Junté ambas frases para evitar redundancia.</note>
       <tuv lang="EN-US">
         <seg>Generally, activists use documentation as a tool to “seek justice” after a harm has been done.</seg>
