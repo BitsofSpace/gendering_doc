@@ -307,6 +307,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transitional justice generally is concerned about legacies of “massive human rights abuses” and can include systems that are put into place in the aftermath of contexts of conflict and state repression.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T042740Z" creationid="bitsofspace" creationdate="20160407T042740Z">
+        <seg>La justicia de transición generalmente se aboca a los legados de "abusos masivos contra los derechos humanos" y puede incluir establecer sistemas a raíz de contextos de conflicto y represión estatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[^61]: The term human rights “mechanism” is generally meant to imply an official human rights “body” or “entity” that monitors or makes decisions about human rights situations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183115Z" creationid="bitsofspace" creationdate="20160331T183115Z">
