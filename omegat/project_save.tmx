@@ -105,8 +105,8 @@
       <tuv lang="EN-US">
         <seg>In addition, governments are ultimately accountable for abuses committed by non-State or private actors, including family and community members and corporate actors, where there is lack of diligence on their part to prevent, control, or punish violations or to protect human rights.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T045857Z" creationid="bitsofspace" creationdate="20160407T045857Z">
-        <seg>Además, los gobiernos son, en última instancia, responsables por los abusos realizados por agentes no-estatales o privados, incluyendo familiares,  miembros de comunidades y agentes corporativos, en situaciones donde hay una falta de diligencia por su parte en prevenir, controlar o castigar violaciones o proteger derechos humanos.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T045958Z" creationid="bitsofspace" creationdate="20160407T045857Z">
+        <seg>Además, los gobiernos son, en última instancia, responsables por los abusos realizados por agentes no estatales o privados, incluyendo familiares,  miembros de comunidades y agentes corporativos, en situaciones donde hay una falta de diligencia por su parte en prevenir, controlar o castigar violaciones o proteger derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +198,14 @@ by and for civil society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T181922Z" creationid="bitsofspace" creationdate="20160331T181922Z">
         <seg>La mayoría de las iniciativas descritas en esta sección pertenecen a acciones realizadas por y para la sociedad civil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, non-State actors are directly accountable, as well, through national and sometimes international criminal law.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T050119Z" creationid="bitsofspace" creationdate="20160407T045953Z">
+        <seg>Por supuesto, los y las agentes no estatales también son directamente responsables por medio leyes nacionales, y a veces internacionales, de penales.</seg>
       </tuv>
     </tu>
     <tu>
