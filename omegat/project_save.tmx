@@ -157,8 +157,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>Protection can take many forms: it can be preventive and “future-based”, or designed to address</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040919Z" creationid="bitsofspace" creationdate="20160407T040919Z">
-        <seg>La protección puede tomar muchas formas: puede ser preventiva o "basada en el futuro", o puede estar diseñada para abordar</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T041015Z" creationid="bitsofspace" creationdate="20160407T040919Z">
+        <seg>La protección puede tomar muchas formas: puede ser preventiva o "con vistas al futuro", o puede estar diseñada para acompañar a</seg>
       </tuv>
     </tu>
     <tu>
@@ -303,6 +303,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T035350Z" creationid="bitsofspace" creationdate="20160407T035350Z">
         <seg>o para la justicia social, en general)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>someone immediately at risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T041059Z" creationid="bitsofspace" creationdate="20160407T040943Z">
+        <seg>alguien que está en una situación inmediata de riesgo.</seg>
       </tuv>
     </tu>
     <tu>
