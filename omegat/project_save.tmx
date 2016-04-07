@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f2&gt;They argue that justice for women and WHRDs could or should include more than remedies from courts or judicial systems.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T043013Z" creationid="bitsofspace" creationdate="20160407T043013Z">
+        <seg>&lt;/f2&gt;Argumentan que la justicia para mujeres y WHRDs puede o debería incluir más que remedios de juzgados o sistemas judiciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;However, feminists have argued that demands related to gender-sensitive and gender-&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;responsive justice go far beyond punishment of perpetrators.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160407T042939Z" creationid="bitsofspace" creationdate="20160407T042939Z">
+        <seg>&lt;f0&gt;Sin embargo, las y los feministas han argumentado que las demandas relacionadas con&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt; la justicia como respuesta a temas de género van más allá del castigo a los infractores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Protection&lt;/f0&gt; of WHRDs refers to putting in place “systems” to prevent future or additional abuses.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T040836Z" creationid="bitsofspace" creationdate="20160407T040836Z">
