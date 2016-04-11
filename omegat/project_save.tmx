@@ -443,8 +443,8 @@
       <tuv lang="EN-US">
         <seg>GALZ activists have asserted that the government has persistently monitored and harassed the organization for years.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050345Z" creationid="bitsofspace" creationdate="20160411T050345Z">
-        <seg>Las y los activistas de GALZ han declarado que </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050428Z" creationid="bitsofspace" creationdate="20160411T050345Z">
+        <seg>Las y los activistas de GALZ han declarado que el gobierno ha monitoreado y acosado a la organización de manera persistente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1365,6 +1365,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="funga" changedate="20160329T182451Z" creationid="funga" creationdate="20160329T032718Z">
         <seg>Éstos no son, por supuesto, los únicos resultados fruto de las buenas prácticas de la documentación sobre y realizado por WHRD. Los desenlaces legales suelen apoyarse en y contribuir a la lucha de otros movimientos sociales. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They also note that there have been significant delays in cases brought to challenge the government and police&lt;/f4&gt;&lt;f5&gt;&lt;t6/&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050506Z" creationid="bitsofspace" creationdate="20160411T050506Z">
+        <seg>También afirman que hay atrasos significativos en los casos que retan al gobierno y la policia.</seg>
       </tuv>
     </tu>
     <tu>
