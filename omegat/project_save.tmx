@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>21; and Security in a Box’s Digital Threats to the LGBTI Community at https://securityinabox.org/en/lgbti-africa/digital-threats-african-lgbti-community&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T033511Z" creationid="bitsofspace" creationdate="20160411T033511Z">
+        <seg>21; y documentación de Security in a Box "Amenazas digitales a la comunidad LGTI" en https://securityinabox.org/en/lgbti-africa/digital-threats-african-lgbti-community&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f2&gt;They argue that justice for women and WHRDs could or should include more than remedies from courts or judicial systems.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055137Z" creationid="bitsofspace" creationdate="20160407T043013Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102750Z" creationid="bitsofspace" creationdate="20160407T102750Z">
         <seg>&lt;s1/&gt;[Cao Shunli muere varias semanas después de ser transferida al hospital.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;GenderIT.org, Survey on sexual activism, morality and the internet, available at http://www.genderit.org/articles/sur-&lt;/t0&gt;&lt;t1&gt;vey-sexual-activism-morality-and-internet; AWID, Our Right to Safety: Women Human Rights Defenders’ Holistic&lt;/t1&gt;&lt;t2&gt;Approach to Protection; p.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T033312Z" creationid="bitsofspace" creationdate="20160411T033312Z">
+        <seg>&lt;t0&gt;Genderit.org/es, encuesta sobre activismo sexual, moralidad e Internet, disponible en http://www.genderit.org/es/articles/encuesta-sobre-activismo-sexual-moralidad-e-internet &lt;/t0&gt;&lt;t1&gt;; AWID, Nuestro derecho a la seguridad: Holísitica de defensoras de derechos humanos&lt;/t1&gt;&lt;t2&gt;Aproximación a la protección; p.</seg>
       </tuv>
     </tu>
     <tu>
