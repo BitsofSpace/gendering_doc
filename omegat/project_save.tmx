@@ -1195,6 +1195,14 @@ are connected to judicial or intergovernmental processes.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hacking was not just a defacement, as some files were also destroyed and malicious code was installed (this is computer program code which is intended to damage the operating system and contents).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044501Z" creationid="bitsofspace" creationdate="20160411T044501Z">
+        <seg>El hackeo no sólo fue una modificación del sitio sino que algunos archivos fueron destruidos e instalaron código malicioso (código de un programa informático con la intención de dañar el sistema operativo y sus contenidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The idea of using documentation to create change is far reaching, and is simply based in &lt;f0&gt;eliciting a change in circumstances or in understanding&lt;/f0&gt;, whether related to safety, attitudes, policies, or the climate surrounding activism.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054459Z" creationid="bitsofspace" creationdate="20160407T040409Z">
