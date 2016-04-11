@@ -897,6 +897,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leyla was been nominated for a number of awards, including the 2014 Nobel Peace Prize.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054209Z" creationid="bitsofspace" creationdate="20160411T054209Z">
+        <seg>Leyla ha sido nominada por numerosos premios, incluyendo el Premio Bobel de la Paz (2014).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make a list of who might want to get a hold of your data or communications.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040915Z" creationid="bitsofspace" creationdate="20160411T040915Z">
@@ -1122,6 +1130,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She has been in detention since July, 2014 in a prison known for torturing inmates.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054238Z" creationid="bitsofspace" creationdate="20160411T054238Z">
+        <seg>Lleva detenida desde julio 2014, en una cárcel notoria por torturar a sus internados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She is the founder and chair of Azerbaijan’s Institute for Peace and Democracy.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T053857Z" creationid="bitsofspace" creationdate="20160411T053857Z">
@@ -1342,8 +1358,8 @@ are connected to judicial or intergovernmental processes.</seg>
       <tuv lang="EN-US">
         <seg>The government of Azerbaijan has antagonized Leyla because of her efforts to expose truths about corruption and human rights situations.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054030Z" creationid="bitsofspace" creationdate="20160411T054030Z">
-        <seg>El gobierno de Azerbaijan has antagonized Leyla because of her efforts to expose truths about corruption and human rights situations.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054140Z" creationid="bitsofspace" creationdate="20160411T054030Z">
+        <seg>El gobierno de Azerbaijan se ha opuesto a Leyla por sus esfuerzos para visibilizar la corrupción y situaciones de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1743,6 +1759,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104132Z" creationid="bitsofspace" creationdate="20160407T104132Z">
         <seg>Mientras las defensoras de derechos de las mujeres no pueden predecir con precisión las derivas de usar la documentación a escala internacional, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While in detention, Leyla claimed to have been denied legal representation, beaten and denied medical attention.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054325Z" creationid="bitsofspace" creationdate="20160411T054325Z">
+        <seg>MIentras estuvo detenida y apaleada, Lelya declaró que le negaron representación legal y asistencia médica,</seg>
       </tuv>
     </tu>
     <tu>
