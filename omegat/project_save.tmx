@@ -425,6 +425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, seeking justice through the courts can be a lengthy and expensive process requiring legal and other expertise in order to navigate effectively.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T051851Z" creationid="bitsofspace" creationdate="20160411T051851Z">
+        <seg>Por ejemplo, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information go to https://www.takebackthetech.net/frequently-asked-questions.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T032829Z" creationid="bitsofspace" creationdate="20160411T032829Z">
@@ -758,6 +766,15 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
     </tu>
     <tu>
+      <note>También se puede decir "recursos humanos".</note>
+      <tuv lang="EN-US">
+        <seg>It is important to consider the human capacity and expertise at hand as well as financial resources available when determining what advocacy strategy or forum to use.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T051814Z" creationid="bitsofspace" creationdate="20160411T051814Z">
+        <seg>Es importante considerar, a la hora de escoger una estrategia o foro de incidencia, las capacidades humanas y expertía con la que se cuenta, además de recursos financieros disponibles </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>It is therefore vital for activists to know how to protect ourselves against threats to the information we collect and use.</seg>
       </tuv>
@@ -1061,6 +1078,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T092943Z" creationid="bitsofspace" creationdate="20160407T092943Z">
         <seg>Algunos alegan que los cargos se sostuvieron para poder seguir perpetuando tácticas de intimidación por parte del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some fora require extensive time, expertise and money.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T051829Z" creationid="bitsofspace" creationdate="20160411T051829Z">
+        <seg>Algunos foros requieren de mucho tiempo, expertía y dinero.</seg>
       </tuv>
     </tu>
     <tu>
