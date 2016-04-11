@@ -36,3 +36,5 @@ dragnet	red de arrastre
 dismay	consternación
 groundbreaking	innovadores
 chair	presidenta
+government officials	autoridades del gobierno
+government bodies	organismos del gobierno
