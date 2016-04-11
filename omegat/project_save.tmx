@@ -427,8 +427,8 @@
       <tuv lang="EN-US">
         <seg>For example, seeking justice through the courts can be a lengthy and expensive process requiring legal and other expertise in order to navigate effectively.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052050Z" creationid="bitsofspace" creationdate="20160411T051851Z">
-        <seg>Por ejemplo, reclamar justicia por la via judicial puede ser un proceso longitudinal y caro al requerir experiencia legal y de otros tipos para </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052157Z" creationid="bitsofspace" creationdate="20160411T051851Z">
+        <seg>Por ejemplo, reclamar justicia por la via judicial puede ser un proceso de largo aliento y caro ya que requiere de mucha experiencia (tanto legal como otros tipos) para orientarse eficazmente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +950,14 @@ by and for civil society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100008Z" creationid="bitsofspace" creationdate="20160407T100008Z">
         <seg>Un asunto crítico es que las defensoras de derechos humanso deben evaluar &lt;f0&gt;a escala locall&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other options are not expensive, but also require a degree of expertise, including, for instance, working</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052227Z" creationid="bitsofspace" creationdate="20160411T052227Z">
+        <seg>Otras opciones no son tan demandantes de recursos, pero también requieren de cierto grado de experiencia, por ejemplo, manejar medios</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1930,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084813Z" creationid="bitsofspace" creationdate="20160407T084813Z">
         <seg>no exponen el estado de VIH+ de sus clientes en contextos dodne la transmisión está criminalizada o que protegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with media.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052232Z" creationid="bitsofspace" creationdate="20160411T052232Z">
+        <seg>audiovisuales.</seg>
       </tuv>
     </tu>
     <tu>
