@@ -162,6 +162,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>ALTERNATIVA en gerundio: Protegiéndonos a nosotras mismas y a nuestra documentación</note>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 6: Digital Security: Protecting ourselves and our documentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T020457Z" creationid="bitsofspace" creationdate="20160411T020457Z">
+        <seg>CAPÍTULO 6: Seguridad digital: Protegernos a nosotras mismas y a nuestra documentación</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Clearly defining the objective and desired outcome of any use of documentation is essential to ensuring choosing the best strategy, tactics and sites to meet those goals.</seg>
       </tuv>
@@ -545,6 +554,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084630Z" creationid="bitsofspace" creationdate="20160407T084630Z">
         <seg>¿O menos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many WHRDs rely on using the internet and information and communications technologies (ICTs) to share important information about cases and strategies and other sensitive information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T020551Z" creationid="bitsofspace" creationdate="20160411T020551Z">
+        <seg>Muchas defensoras de derechos humanos dependen del uso de Internet y tecnologías de la información y comunicación (TICs) para compartir información importante sobre casos, estrategias y datos sensibles.</seg>
       </tuv>
     </tu>
     <tu>
