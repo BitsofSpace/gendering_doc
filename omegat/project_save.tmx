@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;immediate resources to access immediate solutions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044918Z" creationid="bitsofspace" creationdate="20160411T044918Z">
+        <seg>recursos inmediatospara acceder a soluciones rápidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;[Cao Shunli died a few weeks after she was transferred to the hospital.]</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102750Z" creationid="bitsofspace" creationdate="20160407T102750Z">
@@ -1146,6 +1154,22 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The WHRD-IC had to deactivate the website until the malicious code could be removed and the website re-uploaded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044804Z" creationid="bitsofspace" creationdate="20160411T044804Z">
+        <seg>La WHRD-IC tuvo que desactivar el sitio hasta que se pudo eliminar el código malicioso y volvera a subir la página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The WHRD-IC worked to fix this problem with activists who understand technology and digital safety.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044838Z" creationid="bitsofspace" creationdate="20160411T044838Z">
+        <seg>La WHRD-IC pudo arreglar este problema junto con activistas que comprenden las tecnologías y la seguridad digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The WHRDs, some of whom had already engaged in various forms of street theater protests, had been planning a multi-city protest against sexual harassment.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T091353Z" creationid="bitsofspace" creationdate="20160407T091353Z">
@@ -1525,6 +1549,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104132Z" creationid="bitsofspace" creationdate="20160407T104132Z">
         <seg>Mientras las defensoras de derechos de las mujeres no pueden predecir con precisión las derivas de usar la documentación a escala internacional, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the WHRD-IC was able to fix the problems within a few days, most organizations do not have</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044902Z" creationid="bitsofspace" creationdate="20160411T044902Z">
+        <seg>Mientras la WHRD-IC pudo arreglar el problema en el transcurso de varios días, la mayoría de las organizaciones no cuentan con</seg>
       </tuv>
     </tu>
     <tu>
