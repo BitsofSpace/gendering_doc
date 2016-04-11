@@ -321,6 +321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information go to https://www.takebackthetech.net/frequently-asked-questions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T032829Z" creationid="bitsofspace" creationdate="20160411T032829Z">
+        <seg>Para más información puedes visitar https://www.takebackthetech.net/es/acerca-de-%C2%A1dominemos-la-tecnolog%C3%ADa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on reprisals, see the International Service for Human Rights, Reprisals Handbook, at http://www.ishr.ch/news/reprisals-handbook</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104341Z" creationid="bitsofspace" creationdate="20160407T104341Z">
