@@ -441,6 +441,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GALZ activists have asserted that the government has persistently monitored and harassed the organization for years.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050345Z" creationid="bitsofspace" creationdate="20160411T050345Z">
+        <seg>Las y los activistas de GALZ han declarado que </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GUIDING QUESTIONS</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084232Z" creationid="bitsofspace" creationdate="20160407T084232Z">
@@ -617,6 +625,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T063027Z" creationid="bitsofspace" creationdate="20160407T063027Z">
         <seg>En 2012, en Uganda, la policia hicieron una redada en un centro social de la Red de Organización de Mujeres por la Defensa y Promoción de Derechos Humanos (WONETHA), un grupo que defiende los derechos de trabajadoras sexuales y brindan información sobre la salud sexual y reproductiva. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2014, police stormed a GALZ training workshop on digital story-telling and digital security and arrested the youth coordinator and the training facilitator.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050327Z" creationid="bitsofspace" creationdate="20160411T050327Z">
+        <seg>En 2014, la policia entró a la fuerza en el taller de GALZ sobre narrativas digitales y seguridad digital y detuvieron al coordinar de juventud y el facilitador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1239,6 +1255,15 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054459Z" creationid="bitsofspace" creationdate="20160407T040409Z">
         <seg>La idea de usar la documentación para generar cambios es trascendental y meramente basado en &lt;f0&gt;provocar cambios en circunstancias o en la comprensión&lt;/f0&gt;, ya sea relacionado con la seguridad, comportamientos, políticas o el climax que envuelve el activismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>No estoy segura de esta parte.</note>
+      <tuv lang="EN-US">
+        <seg>The raid occurred just after GALZ released a report on human rights violations and a briefing on the draft constitution.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T050253Z" creationid="bitsofspace" creationdate="20160411T050253Z">
+        <seg>La redada ocurrió poco después de que GALZ lanzó un informe de violaciones de derechos humanos y un informe del proyecto de constitución.</seg>
       </tuv>
     </tu>
     <tu>
