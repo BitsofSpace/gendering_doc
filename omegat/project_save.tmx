@@ -1990,8 +1990,16 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>or regional authorities, including the Special Rapporteurs on Human Rights Defenders or other Special Rapporteurs for their action, if U.N.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T053720Z" creationid="bitsofspace" creationdate="20160411T053720Z">
-        <seg>o autoridades regionales, incluyendo los ""</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123544Z" creationid="bitsofspace" creationdate="20160411T053720Z">
+        <seg>o autoridades regionales, incluyendo los y las Relotaras Especiales de Defensores de Derechos Humanos o que cubren otros temas, si la O.N.U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or regional-level intervention is desired.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123606Z" creationid="bitsofspace" creationdate="20160411T123606Z">
+        <seg>o una intervención a escala regional es requerida.</seg>
       </tuv>
     </tu>
     <tu>
