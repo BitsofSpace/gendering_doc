@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION ALERTS OR URGENT APPEALS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052940Z" creationid="bitsofspace" creationdate="20160411T052940Z">
+        <seg>ALERTAS DE ACCIÓN O LLAMAMIENTOS URGENTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADDITIONAL GUIDING QUESTIONS</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052340Z" creationid="bitsofspace" creationdate="20160411T052340Z">
