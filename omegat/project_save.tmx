@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure of lists of members of organizations, including their names and contact information</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T024130Z" creationid="bitsofspace" creationdate="20160411T024130Z">
+        <seg>Divulgación de listas de integrantes de organizaciones, incluyendo sus nombres e información de contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extremely hostile political climates, or election cycles, for instance, may expand or limit the choices that defenders make.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062240Z" creationid="bitsofspace" creationdate="20160407T062240Z">
@@ -355,6 +363,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hacking of email accounts and websites</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T024210Z" creationid="bitsofspace" creationdate="20160411T024210Z">
+        <seg>Hackeo de cuentas de correo y sitios web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harassment, cyberstalking and image manipulation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T024201Z" creationid="bitsofspace" creationdate="20160411T024201Z">
+        <seg>Acoso, ciberacoso y manipulación de imágenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has it received in­ formation on women human rights defenders before?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095028Z" creationid="bitsofspace" creationdate="20160407T095028Z">
@@ -400,6 +424,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094205Z" creationid="bitsofspace" creationdate="20160407T094205Z">
         <seg>Los y las defensoras de derechos humanos se enfrenten cada vez más a retos en la defensa y promoción, mientras los gobiernos encuentran maneras progresivamente más creativas de aplicar restricciones en el compromiso y disidencia política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identity theft</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T024217Z" creationid="bitsofspace" creationdate="20160411T024217Z">
+        <seg>Robo de identidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -739,6 +771,15 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094039Z" creationid="bitsofspace" creationdate="20160407T093931Z">
         <seg>Las restricciones en la organización de la sociedad civil se generaliza en el Sur y Norte global: una de las estimaciones revela que desde 2013, más de 60 países han aprobado o introducido cláusulas en la legislación que limita la actividad de las ONGs. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>No entiendo esta frase.</note>
+      <tuv lang="EN-US">
+        <seg>Risks to digital security can also be directly linked to risks to physical “simply” be trying to intimidate individual defenders or their organizations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T024324Z" creationid="bitsofspace" creationdate="20160411T024324Z">
+        <seg>Los riesgos a la seguridad digital pueden vincularse directamente con riesgos físicos</seg>
       </tuv>
     </tu>
     <tu>
