@@ -475,6 +475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How bad are the consequences if you fail?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041256Z" creationid="bitsofspace" creationdate="20160411T041256Z">
+        <seg>¿Cómo de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How likely is it that you will need to protect it?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040946Z" creationid="bitsofspace" creationdate="20160411T040946Z">
@@ -1476,6 +1484,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040731Z" creationid="bitsofspace" creationdate="20160411T040731Z">
         <seg>Anota una lista de datos que quieres preservar, dónde están guardadas, quién tiene acceso a ellos y qué les impide que lo hagan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Write down what your adversary might want to do with your private data</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041240Z" creationid="bitsofspace" creationdate="20160411T041240Z">
+        <seg>Anota qué adversidades pueden afectar tus datos privados.</seg>
       </tuv>
     </tu>
     <tu>
