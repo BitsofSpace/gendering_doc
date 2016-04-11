@@ -1440,6 +1440,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Write down a list of data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040731Z" creationid="bitsofspace" creationdate="20160411T040731Z">
+        <seg>Anota una lista de datos que quieres preservar, dónde están guardadas, quién tiene acceso a ellos y qué les impide que lo hagan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[^61]: The term human rights “mechanism” is generally meant to imply an official human rights “body” or “entity” that monitors or makes decisions about human rights situations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183115Z" creationid="bitsofspace" creationdate="20160331T183115Z">
