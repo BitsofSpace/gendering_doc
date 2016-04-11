@@ -180,6 +180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confiscation of computers, phones and other equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T023951Z" creationid="bitsofspace" creationdate="20160411T023951Z">
+        <seg>Sustracción de computadoras, celulares y otros equipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contexts may determine whether more public or more “underground” strategies are chosen.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062304Z" creationid="bitsofspace" creationdate="20160407T062304Z">
