@@ -329,6 +329,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Alternativa a "sophistication"= complejidad</note>
+      <tuv lang="EN-US">
+        <seg>Government surveillance (along with that of other authorities) has moved into the cybersphere with great sophistication.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T021123Z" creationid="bitsofspace" creationdate="20160411T021123Z">
+        <seg>La vigilancia gubernamental (en paralelo a la de otras autoridades) se ha extendido al ciberespacio con gran sofisticación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Has it received in­ formation on women human rights defenders before?</seg>
       </tuv>
@@ -505,6 +514,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191526Z" creationid="funga" creationdate="20160329T031029Z">
         <seg>No se presenta una lista exaustiva sino una discusión con algunas de las estrategias clave de incidencia que las defensoras de derechos humanos pueden adoptar —usando la documentación como apoyo— para responder ante ataques y superar obstáculos que se interponen en nuestro camino debido a nuestro activismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is therefore vital for activists to know how to protect ourselves against threats to the information we collect and use.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T021202Z" creationid="bitsofspace" creationdate="20160411T021202Z">
+        <seg>Por lo tanto, es vital que activistas sepan protegerse contra amenazas hacia la información que recolectamos y usamos.</seg>
       </tuv>
     </tu>
     <tu>
