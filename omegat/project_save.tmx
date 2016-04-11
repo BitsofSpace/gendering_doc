@@ -240,6 +240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAMPAIGNS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T124722Z" creationid="bitsofspace" creationdate="20160411T124722Z">
+        <seg>CAMPAÑAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CASE STUDIES: THREATS TO INFORMATION, WEBSITES AND OFFICES</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T043838Z" creationid="bitsofspace" creationdate="20160411T043838Z">
@@ -337,6 +345,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061613Z" creationid="bitsofspace" creationdate="20160407T061613Z">
         <seg>Definir los objetivos o metas de la incidencia y lucha social debería estar determinado por lo que se perciba como estratégico y factible en el momento. &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demands may include launching an investigation into reported abuses, releasing a WHRD from detention, or creating a fair trial in which perpetrators can be held accountable.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T124630Z" creationid="bitsofspace" creationdate="20160411T124630Z">
+        <seg>Las demandas pueden incluir el inicio de una investigación sobre casos reportados, liberar una defensora de derecho humano de la cárcel, o crear un juicio justo en el que los perpetradores son hechos responsables de sus actos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1490,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T034525Z" creationid="bitsofspace" creationdate="20160411T034525Z">
         <seg>Hay muchos recursos buenos para defensoras de derechos humanos para fortalecer su seguridad en línea y proteger su documentacióne información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a number of organisations that develop action alerts for cases of women human rights defenders, including the Women Human Rights Defenders International Coalition, and some of its members&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T124714Z" creationid="bitsofspace" creationdate="20160411T124714Z">
+        <seg>Hay muchas organizaciones que desarrollan alertas de acción para casos de defensoras de derechos humanos, incluyendo la Coalición Internacioanl de Defensoras de Derechos Humanos y algunas de sus integrantes. </seg>
       </tuv>
     </tu>
     <tu>
