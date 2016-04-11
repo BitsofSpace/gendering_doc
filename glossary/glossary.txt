@@ -35,3 +35,4 @@ rampant	generalizar, extender, avanza
 dragnet	red de arrastre
 dismay	consternación
 groundbreaking	innovadores
+chair	presidenta
