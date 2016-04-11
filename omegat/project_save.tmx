@@ -716,6 +716,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In general, urgent appeals are sent to possible allies who are asked to write or sign letters about a documented case and then to forward the corresponding demands to specific authorities in a government.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123857Z" creationid="bitsofspace" creationdate="20160411T123857Z">
+        <seg>En general, los llamamientos urgentes son enviados en cuanto antes a posibles aliados para que escriban o envíen cartas sobre el caso documentado a autoridades específicas del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si es necesario ya a estas alturas, capítulo 5, la actividad de la WHRD, pero por si acaso se está tomando sólo el capítulo de referencia, lo especifico la primera vez que aparecen las siglas para después sólo hace referencia a éstas últimas.</note>
       <tuv lang="EN-US">
         <seg>In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</seg>
@@ -1049,6 +1057,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Petitions are similar, in that they are designed to collect</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123914Z" creationid="bitsofspace" creationdate="20160411T123914Z">
+        <seg>Las peticiones son similares, en tanto que son diseñadas para recolectar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Police arrested two staff and confiscated documents, computers and other materials.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T071202Z" creationid="bitsofspace" creationdate="20160407T071202Z">
@@ -1319,6 +1335,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T053226Z" creationid="bitsofspace" creationdate="20160407T053226Z">
         <seg>La ventaja de esta reformulación fue dar vida a la documentación para diferentes usos, públicos y resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The appeals are sometimes newsworthy and can be used to attract media attention to the cause.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123732Z" creationid="bitsofspace" creationdate="20160411T123732Z">
+        <seg>A veces, los llamamientos pueden hacerse noticia y ser usadas para atraer atención mediática sobre la causa.</seg>
       </tuv>
     </tu>
     <tu>
