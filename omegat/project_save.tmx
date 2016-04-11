@@ -244,6 +244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider what resources (human and financial) you have, or your organization has, to invest to protect against these risks and consequences.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041527Z" creationid="bitsofspace" creationdate="20160411T041527Z">
+        <seg>Considera qué recursos (humanos y económicos) tienes o tiene tu organización, para dimensionar cuánto invertir en protegerte contra estos riegos y consecuencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contexts may determine whether more public or more “underground” strategies are chosen.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062304Z" creationid="bitsofspace" creationdate="20160407T062304Z">
@@ -285,6 +293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do a risk assessment and strategize so you can be prepared for those consequences.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041413Z" creationid="bitsofspace" creationdate="20160411T041413Z">
+        <seg>Haz un diagnóstico de riesgos y crea estrategias para estar preparada ante las consecuencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do ally groups work in the space under consideration?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095307Z" creationid="bitsofspace" creationdate="20160407T095307Z">
@@ -297,6 +313,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051536Z" creationid="bitsofspace" creationdate="20160407T051536Z">
         <seg>La documentación puede ser "reformulada" y </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation material ought to be kept securely and copied as necessary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041550Z" creationid="bitsofspace" creationdate="20160411T041550Z">
+        <seg>Los materiales de documentación deben ser guardadas de manera segura y con copia si fuera necesario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,11 +498,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>"Fracasar" me parece una palabra poco apropiada. Más bien </note>
       <tuv lang="EN-US">
         <seg>How bad are the consequences if you fail?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041256Z" creationid="bitsofspace" creationdate="20160411T041256Z">
-        <seg>¿Cómo de </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041353Z" creationid="bitsofspace" creationdate="20160411T041256Z">
+        <seg>Cómo malo es las consecuencias si acceden a ellos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +512,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040946Z" creationid="bitsofspace" creationdate="20160411T040946Z">
         <seg>¿Qué probabilidad hay de que tengas que protegerlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much trouble are you willing to go through in order to try to prevent those consequences?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041432Z" creationid="bitsofspace" creationdate="20160411T041432Z">
+        <seg>¿Cuándo estás dispuesta a esforzarte para prevenir esas consecuencias?</seg>
       </tuv>
     </tu>
     <tu>
