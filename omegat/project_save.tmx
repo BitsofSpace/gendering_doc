@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;immediate resources to access immediate solutions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044918Z" creationid="bitsofspace" creationdate="20160411T044918Z">
-        <seg>recursos inmediatospara acceder a soluciones rápidas.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T045347Z" creationid="bitsofspace" creationdate="20160411T044918Z">
+        <seg>recursos inmediatos para acceder a soluciones rápidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,6 +1388,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192118Z" creationid="bitsofspace" creationdate="20160331T182201Z">
         <seg>Esta sección aborda en detalle procesos de documentación e incidencia con los </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those investigating the cyber-attack learned &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;that the problem originated from a group operating out of Algeria that has a history of targeting human rights organisations.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T045521Z" creationid="bitsofspace" creationdate="20160411T045521Z">
+        <seg>Quienes investigaron el ciberataque pudieron averiguar que tuvo origen en un grupo que opera fuera de Algeria y que tiene un historial de atacar organizaciones de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
