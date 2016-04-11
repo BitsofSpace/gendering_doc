@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;To become more secure, you must determine what you need to protect, and from&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035638Z" creationid="bitsofspace" creationdate="20160411T035638Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Para mejorar tu seguridad, debes determinar qué necesitas proteger y de &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f2&gt;They argue that justice for women and WHRDs could or should include more than remedies from courts or judicial systems.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055137Z" creationid="bitsofspace" creationdate="20160407T043013Z">
@@ -1147,6 +1155,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, in order to determine what solutions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035747Z" creationid="bitsofspace" creationdate="20160411T035747Z">
+        <seg>Por lo tanto, para determinar cuáles son las soluciones</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Usé "desenlace" como sinónimo de "resultados".
 
 Opté por "lucha" en vez de "incidencia".</note>
@@ -1211,6 +1227,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192118Z" creationid="bitsofspace" creationdate="20160331T182201Z">
         <seg>Esta sección aborda en detalle procesos de documentación e incidencia con los </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threats can change depending on where you’re located, what</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035725Z" creationid="bitsofspace" creationdate="20160411T035725Z">
+        <seg>Las amenazas pueden cambiar según dónde estás ubicada y qué</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,10 +1619,26 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whom you need to protect it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035644Z" creationid="bitsofspace" creationdate="20160411T035644Z">
+        <seg>quiénes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>will not expose HIV+ status of their clients where transmission is criminalized, or who will protect</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084813Z" creationid="bitsofspace" creationdate="20160407T084813Z">
         <seg>no exponen el estado de VIH+ de sus clientes en contextos dodne la transmisión está criminalizada o que protegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you’re doing, and with whom you’re working.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035731Z" creationid="bitsofspace" creationdate="20160411T035731Z">
+        <seg>estás haciendo y con quiénes estás trabajando.</seg>
       </tuv>
     </tu>
     <tu>
