@@ -474,6 +474,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>How likely is it that you will need to protect it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040946Z" creationid="bitsofspace" creationdate="20160411T040946Z">
+        <seg>¿Qué probabilidad hay de que tengas que protegerlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://es.wikipedia.org/wiki/Consejo_de_Derechos_Humanos_de_las_Naciones_Unidas</note>
       <tuv lang="EN-US">
         <seg>Human Rights Council, and regional human rights courts and commissions.</seg>
@@ -654,6 +662,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It might be an individual, a government agency or a corporation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040929Z" creationid="bitsofspace" creationdate="20160411T040929Z">
+        <seg>Puede ser un individuo, un agente del gobierno o una corporación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It supports</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051417Z" creationid="bitsofspace" creationdate="20160407T051417Z">
@@ -707,6 +723,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084630Z" creationid="bitsofspace" creationdate="20160407T084630Z">
         <seg>¿O menos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a list of who might want to get a hold of your data or communications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040915Z" creationid="bitsofspace" creationdate="20160411T040915Z">
+        <seg>Haz una lista de quiénes podrían querer acceder a tus datos o comunicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1412,6 +1436,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104132Z" creationid="bitsofspace" creationdate="20160407T104132Z">
         <seg>Mientras las defensoras de derechos de las mujeres no pueden predecir con precisión las derivas de usar la documentación a escala internacional, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who do you want to protect it from?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040739Z" creationid="bitsofspace" creationdate="20160411T040739Z">
+        <seg>¿De quiénes los quieres proteger?</seg>
       </tuv>
     </tu>
     <tu>
