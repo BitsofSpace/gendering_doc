@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>12 Goals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133029Z" creationid="bitsofspace" creationdate="20160411T133029Z">
+        <seg>12 metas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12 Women Fighting for Justice.” In addition to educating about the content of the Beijing Platform, the website asserted, “these 12 women human rights defenders share a refusal to quit in the face of highly gendered harassment, violence, and persecution.&lt;t0/&gt;”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133045Z" creationid="bitsofspace" creationdate="20160411T133045Z">
+        <seg>12 mujeres luchando por la Justicia". .&lt;t0/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20 years.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133024Z" creationid="bitsofspace" creationdate="20160411T133024Z">
+        <seg>20 años</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21; and Security in a Box’s Digital Threats to the LGBTI Community at https://securityinabox.org/en/lgbti-africa/digital-threats-african-lgbti-community&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T033511Z" creationid="bitsofspace" creationdate="20160411T033511Z">
@@ -1529,6 +1553,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T043957Z" creationid="bitsofspace" creationdate="20160411T043957Z">
         <seg>La página web fue reemplazada por una pantalla negra que incluía un texto amenanzante denunciando al activismo de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their campaign materials noted, “Beijing Platform for Action.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133020Z" creationid="bitsofspace" creationdate="20160411T133020Z">
+        <seg>Sus materiales de campaña hacen mención a "Plataforma de Acción de Beijing.</seg>
       </tuv>
     </tu>
     <tu>
