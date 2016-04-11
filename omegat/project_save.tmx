@@ -992,6 +992,14 @@ Alternativa: 'incidencia para el cambio social, protecci√≥n, justicia y rendici√
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Surveillance Self-Defence; https://ssd.eff.org/en/module/introduction-threat-modeling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040113Z" creationid="bitsofspace" creationdate="20160411T040113Z">
+        <seg>Autodefensa contra la vigilancia; https://ssd.eff.org/es/module/una-introduccion-al-modelaje-de-amenazas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take Back The Tech!</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031115Z" creationid="bitsofspace" creationdate="20160411T031115Z">
