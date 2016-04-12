@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;The current Special Rapporteur has continued to focus on WHRDs.&lt;/t0&gt;&lt;t1&gt;See for instance, his report A/69/259 at para.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T061445Z" creationid="bitsofspace" creationdate="20160412T061445Z">
+        <seg>&lt;t0&gt;El actual Relator Especial ha continuado enfocándose a defensoras de derechos humanos.&lt;/t0&gt;&lt;t1&gt;Véase, por ejemplo, su informe A/69/259 at para.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good place to start is by doing what is called a “Threat Modeling” process.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035250Z" creationid="bitsofspace" creationdate="20160411T034855Z">
@@ -2699,6 +2707,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055943Z" creationid="bitsofspace" creationdate="20160407T051639Z">
         <seg>usada para diferentes ámbitos de incidencia y audiencia, también para construir coaliciones más amplias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>violence against women, and the independent expert on cultural rights are four positions that have been</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T061347Z" creationid="bitsofspace" creationdate="20160412T061347Z">
+        <seg>violencia contra mujeres </seg>
       </tuv>
     </tu>
     <tu>
