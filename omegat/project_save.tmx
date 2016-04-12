@@ -2026,6 +2026,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This advocacy may involve working with human rights groups and NGOs, requesting investigations from independent human rights commissions, filing cases in court, or seeking legal relief from governmental administrative bodies that enact judicial functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T060625Z" creationid="bitsofspace" creationdate="20160412T060625Z">
+        <seg>Esta incidencia y lucha puede implicar trabajar con grupos de derechos humanos y ONGs, requerir investigaciónes a comisiones de derechos humanos independientes, presentar casos al tribunal o buscar </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This could lead to other activists, organizations or movements being penalized.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T103524Z" creationid="bitsofspace" creationdate="20160407T103524Z">
