@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EMERGENCY SUPPORT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T043832Z" creationid="bitsofspace" creationdate="20160412T043832Z">
+        <seg>APOYO DE EMERGENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of concerns include:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T021333Z" creationid="bitsofspace" creationdate="20160411T021333Z">
@@ -606,6 +614,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133636Z" creationid="bitsofspace" creationdate="20160411T133517Z">
         <seg>Generalmente, las campañas se apoyan en una documentación y análisis contundente sobre abusos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, this is with the support and collaboration of NGOs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T043825Z" creationid="bitsofspace" creationdate="20160412T043825Z">
+        <seg>Generalmente, a travñes del apoyo y colaboración de ONGs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2013,8 +2029,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>While campaigns on behalf of WHRDs are usually conceived of and launched by activist and social justice organizations, in certain circumstances, allies in U.N.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160411T134022Z" creationid="bitsofspace" creationdate="20160411T134022Z">
-        <seg>Mientras que las campañas</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T043742Z" creationid="bitsofspace" creationdate="20160411T134022Z">
+        <seg>Aunque las campañas en nombre de las defensoras de derechos humanos suelen ser concebidas y lanzadas por organizaciones activistas y de juisicia osical, en ciertas cicunstancias, aliados de</seg>
       </tuv>
     </tu>
     <tu>
@@ -2103,6 +2119,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055918Z" creationid="bitsofspace" creationdate="20160407T051440Z">
         <seg>un abanico de usos y objetivos, a veces simultáneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>agencies take initiative to call attention to these causes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T043806Z" creationid="bitsofspace" creationdate="20160412T043806Z">
+        <seg>organismos de la O.N.U toman iniciativas para llamar atención sobre estas causas.</seg>
       </tuv>
     </tu>
     <tu>
