@@ -2028,8 +2028,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>This advocacy may involve working with human rights groups and NGOs, requesting investigations from independent human rights commissions, filing cases in court, or seeking legal relief from governmental administrative bodies that enact judicial functions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T060625Z" creationid="bitsofspace" creationdate="20160412T060625Z">
-        <seg>Esta incidencia y lucha puede implicar trabajar con grupos de derechos humanos y ONGs, requerir investigaciónes a comisiones de derechos humanos independientes, presentar casos al tribunal o buscar </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T060817Z" creationid="bitsofspace" creationdate="20160412T060625Z">
+        <seg>Esta incidencia y lucha puede implicar trabajar con grupos de derechos humanos y ONGs, requerir investigaciónes a comisiones de derechos humanos independientes, presentar casos al tribunal o buscar reparación legal de organismos administrativos del gobierno que desempeñan funciones judiciales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2271,6 +2271,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T054325Z" creationid="bitsofspace" creationdate="20160411T054325Z">
         <seg>MIentras estuvo detenida y apaleada, Lelya declaró que le negaron representación legal y asistencia médica,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While seeking justice through courts has been successful in many instances, women’s rights advocates also have to be realistic regarding expectations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T060917Z" creationid="bitsofspace" creationdate="20160412T060917Z">
+        <seg>Aunque buscar justicia a través de tribunales ha sido exitoso en muchas ocasiones, las defensoras de derechos de la mujer tienene que ser realistas con respecto a sus expectativas.</seg>
       </tuv>
     </tu>
     <tu>
