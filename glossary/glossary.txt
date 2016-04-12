@@ -38,3 +38,4 @@ groundbreaking	innovadores
 chair	presidenta
 government officials	autoridades del gobierno
 government bodies	organismos del gobierno
+appeals	solicitudes
