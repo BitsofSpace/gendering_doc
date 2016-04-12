@@ -1386,6 +1386,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some NGOs are able to respond to immediate appeals that are well documented or well argued with &lt;t0/&gt;basic facts&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T052429Z" creationid="bitsofspace" creationdate="20160412T052429Z">
+        <seg>Algunas ONGs son capaces de responder a solicitudes inmediatas que estén bien documentados o bien argumentados con fundamentos de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some assert that charges were maintained in order to allow additional and ongoing intimidation tactics by the government.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T092943Z" creationid="bitsofspace" creationdate="20160407T092943Z">
@@ -1983,6 +1991,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T045553Z" creationid="bitsofspace" creationdate="20160407T045553Z">
         <seg>Según las leyes internacionales de derechos humanos, los Estados son directamente responsables por cualquier violación fruto de la acción del Estado o política en sus territorios.&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various human rights groups or even some government embassies can be of assistance in these emergency situations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T052540Z" creationid="bitsofspace" creationdate="20160412T052540Z">
+        <seg>Divesos grupos de derechos humanos o embajadas del gobierno pueden ayudar en estas situaciones de emergencia,</seg>
       </tuv>
     </tu>
     <tu>
