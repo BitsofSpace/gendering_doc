@@ -229,6 +229,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>And in some situations, Front Line Defenders provides support within 24 hours to defenders at immediate risk; see https://www.frontlinedefend-ers.org/emergency.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T052228Z" creationid="bitsofspace" creationdate="20160412T052228Z">
+        <seg>Y en algunas situaciones, Front Line Defenders ofrece apoyo en 24 horas a defensoras en riesgo inmediato; véase https://www.frontlinedefend-ers.org/emergency </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si éste es el sentido de la frase originalmente.</note>
       <tuv lang="EN-US">
         <seg>Are defenders in these situations more likely to have partners in advocacy?</seg>
@@ -557,6 +565,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052157Z" creationid="bitsofspace" creationdate="20160411T051851Z">
         <seg>Por ejemplo, reclamar justicia por la via judicial puede ser un proceso de largo aliento y caro ya que requiere de mucha experiencia (tanto legal como otros tipos) para orientarse eficazmente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, the Urgent Action Fund provides emergency funding within 72 hours of receiving a relevant request; see http://urgentaction­fund.org/what-we-do/rapid-response-grantmaking/.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160412T052154Z" creationid="bitsofspace" creationdate="20160412T052154Z">
+        <seg>Por ejemplo, el Fondo de Acción Urgente brinda financiación en el lapso de 72 horas de haber recibido una petición relevante; véase http://urgentaction­fund.org/what-we-do/rapid-response-grantmaking/</seg>
       </tuv>
     </tu>
     <tu>
