@@ -3259,6 +3259,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is true for issues such as the death penalty, military occupation, crackdowns on NGO activism, torture and patterns of assaults against women in times of conflict, as &lt;t1/&gt;just some examples.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233839Z" creationid="bitsofspace" creationdate="20160413T233839Z">
+        <seg>Ésto aplica para temas como la pena de muerte, ocupación militar, represión de activismo de ONGs, tortura y patrones de acoso contra mujeres en contextos de conflictos, como algunos ejemplos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This part of Chapter 5 focuses on using documentation for more formal advocacy at national, United</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T030626Z" creationid="bitsofspace" creationdate="20160413T030607Z">
