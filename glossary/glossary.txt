@@ -71,3 +71,5 @@ prominence	importancia, relevancia
 malfeasance	mala conducta
 raising	suscitar, alzar, levantar
 passage of a resolution	aprobación de la resolución
+enforcement	aplicación, ejecución, cumplimiento
+eventual decisio	decisión final
