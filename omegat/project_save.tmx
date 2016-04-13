@@ -516,6 +516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee on Migrant Workers (CMW)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060813Z" creationid="bitsofspace" creationdate="20160413T060813Z">
+        <seg>Comité sobre Trabajadores y Trabajadoras Migrantes (CMW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committee on the Elimination of Discrimination against Women (CEDAW)</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060616Z" creationid="bitsofspace" creationdate="20160413T060616Z">
@@ -528,6 +536,22 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060549Z" creationid="bitsofspace" creationdate="20160413T055742Z">
         <seg>Comité sobre la Eliminación de Discriminación Racial (CERD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committee on the Rights of Persons with Disabilities (CRPD)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060913Z" creationid="bitsofspace" creationdate="20160413T060913Z">
+        <seg>Comité sobre los Derechos de las Personas con Discapacidad (CPRD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committee on the Rights of the Child (CRC)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060755Z" creationid="bitsofspace" creationdate="20160413T060755Z">
+        <seg>Comité sobre los Derechos de los Niños y Niñas (CRC)</seg>
       </tuv>
     </tu>
     <tu>
