@@ -605,6 +605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Documentation is only one part of transforming these systems,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050555Z" creationid="bitsofspace" creationdate="20160413T050555Z">
+        <seg>La documentación es sólo una parte en transformar estos sistemas,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Documentation material ought to be kept securely and copied as necessary.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041550Z" creationid="bitsofspace" creationdate="20160411T041550Z">
@@ -781,6 +789,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T104341Z" creationid="bitsofspace" creationdate="20160407T104341Z">
         <seg>Para más información sobre repesalias, véase 'Manual de Represalias del Servicio Internacional de Derechos Humanos' en http://www.ishr.ch/news/reprisals-handbook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on the Rapporteurship see http://oas.org/en/iachr/defenders/default.asp</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050430Z" creationid="bitsofspace" creationdate="20160413T050430Z">
+        <seg>Para más información sobre la Relatoría, véase http://oas.org/en/iachr/defenders/default.asp</seg>
       </tuv>
     </tu>
     <tu>
@@ -1893,8 +1909,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>The Rapporteurship on Human Rights Defenders was recently created to replace the Unit</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050412Z" creationid="bitsofspace" creationdate="20160413T050412Z">
-        <seg>Las Relatorías en Defensores de Derechos Humanos se creó recientemente como reemplazo a la Unidad</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050505Z" creationid="bitsofspace" creationdate="20160413T050412Z">
+        <seg>Las Relatorías Defensoras y Defensores de Derechos Humanos se creó recientemente como reemplazo a la Unidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -2604,6 +2620,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Women human rights defenders have many opportunities to work at domestic and intergovernmental</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050529Z" creationid="bitsofspace" creationdate="20160413T050529Z">
+        <seg>Las defensoras de derechos humanos tienen muchas oportunidades para trabajar en contextos nacionales e intergubernamentales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Women human rights defenders often seek justice and accountability though “formal” means, including</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T055958Z" creationid="bitsofspace" creationdate="20160412T055958Z">
@@ -2724,6 +2748,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>but it is often foundational.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050706Z" creationid="bitsofspace" creationdate="20160413T050706Z">
+        <seg>pero suele ser los cimientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>can be used for media campaigns, for lobbying, to make presentations to churches and other religious groups or for any other strategic purposes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T053810Z" creationid="bitsofspace" creationdate="20160407T053810Z">
@@ -2795,6 +2827,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>levels to make social justice demands.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050545Z" creationid="bitsofspace" creationdate="20160413T050545Z">
+        <seg>para formular demandas de justicia social.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>en sus raíces</note>
       <tuv lang="EN-US">
         <seg>make our demands—with solid documentation at the foundation.</seg>
@@ -2841,6 +2881,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T043743Z" creationid="bitsofspace" creationdate="20160411T043743Z">
         <seg>guarda copias y registros de a quiénes envías cada contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on Human Rights Defenders&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050448Z" creationid="bitsofspace" creationdate="20160413T050448Z">
+        <seg>en Defensores y Defensoras de Derechos Humanos.</seg>
       </tuv>
     </tu>
     <tu>
