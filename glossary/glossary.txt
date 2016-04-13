@@ -67,3 +67,5 @@ bring about	contribuir, provocar
 stamina	resistencia, fuerza, energía
 trends	pautas, tendencias, orientaciones, dinámicas
 issue	dictar, emitir
+prominence	importancia, relevancia
+malfeasance	mala conducta
