@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A recommendation to a government from a U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233217Z" creationid="bitsofspace" creationdate="20160413T233217Z">
+        <seg>Una recomendación formulada por la O.N.U a una entidad del gobierno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION ALERTS OR URGENT APPEALS</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052940Z" creationid="bitsofspace" creationdate="20160411T052940Z">
@@ -3000,8 +3008,8 @@ are connected to judicial or intergovernmental processes.</seg>
       <tuv lang="EN-US">
         <seg>There are many other examples of the evolving standards and bodies within the U.N., including on issues of racial discrimination [The Convention on the Elimination of All Forms of Racial Discrimination], disabilities [Convention on the Rights of Persons with Disabilities], and on issues that some are reluctant to see as valid human rights concerns, including violence and discrimination based on sexual orientation and gender identity, rights to food, water and other economic rights, rights related to development, and concerns about human rights impacts of exploitative corporate policies.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T231022Z" creationid="bitsofspace" creationdate="20160413T230511Z">
-        <seg>Hay muchos otros ejemplos de estándares que evolucionan y organismos dentro de la O.N.U, incluyendo asuntos de discriminación racial [la Convención de Eliminación de Todas las Formas de Discriminación Racial], discapacidades [Convención de Derechos de Personas con Discapacidades] y sobre asuntos que algunos son reacios en ver como prioridades de derechos humanos reales como la violencia y discrminación basada en la orientación sexual e identidad de género, derecho a la comida y agua, derechos económicos, derechos relacionados con el desarrollo y otras  , </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233154Z" creationid="bitsofspace" creationdate="20160413T230511Z">
+        <seg>Hay muchos otros ejemplos de estándares que evolucionan y organismos dentro de la O.N.U, incluyendo asuntos de discriminación racial [la Convención de Eliminación de Todas las Formas de Discriminación Racial], discapacidades [Convención de Derechos de Personas con Discapacidades] y sobre asuntos que algunos son reacios en ver como prioridades de derechos humanos reales como la violencia y discrminación basada en la orientación sexual e identidad de género, derecho a la comida y agua, derechos económicos, derechos relacionados con el desarrollo y otras problemáticas sobre los impactos de políticas corporativas explotadoras en los derechos humanos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3936,6 +3944,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T170752Z" creationid="bitsofspace" creationdate="20160413T170752Z">
         <seg>comprometerse con determinados lugares o en paralelo con las</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>entity—such as the treaty bodies or the Universal Periodic Review process (both discussed below)—is important both symbolically and strategically.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233326Z" creationid="bitsofspace" creationdate="20160413T233326Z">
+        <seg>—como los tratados o el proceso del Examen Periódico Universal (ambos explicados más adelante)—es importante, tanto simbólica como estratégicamente.</seg>
       </tuv>
     </tu>
     <tu>
