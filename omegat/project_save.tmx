@@ -2924,6 +2924,14 @@ are connected to judicial or intergovernmental processes.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The outcomes from the &lt;s0/&gt;U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233538Z" creationid="bitsofspace" creationdate="20160413T233538Z">
+        <seg>Los resultados del sistema de la O.N.U &lt;s0/&gt;U.N.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The petitions are assessed through a process that includes a report with recommendations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042821Z" creationid="bitsofspace" creationdate="20160413T042821Z">
@@ -3132,6 +3140,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T215716Z" creationid="bitsofspace" creationdate="20160413T192311Z">
         <seg>Estos temas conviven con otros que han adquirido importancia, pero que han sido invisibles en el pasado, incluyendo el derecho al agua, derechos relacionados con el clima y el medioambiente, y los derechos relacionados con las implicaciones de mala conducta corporativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These recommendations are devised in accordance with internationally recognised human rights standards, and can have direct application for the national context of the State concerned.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233441Z" creationid="bitsofspace" creationdate="20160413T233441Z">
+        <seg>Estas recomendaciones se elaboran según los estándares internacionales reconocidos de derechos humanos y pueden aplicarse directamente en el contexto nacional del Estado en cuestión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4396,6 +4412,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T083055Z" creationid="bitsofspace" creationdate="20160407T083055Z">
         <seg>como trabajadoras sexuales o personas LGTB, las y los defensoras pueden escoger ciertas estrategias con el fin de evitar arresto inmediato.&lt;t0/&gt; Cuando defensoras de derechos humanos son criminalizadas, se deben tomar en cuenta determinados factores.&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>system can generate useful international scrutiny on key human rights issues in a particular country.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233645Z" creationid="bitsofspace" creationdate="20160413T233645Z">
+        <seg>puede generar un escrutinio internacional útil sobre temas claves de derechos humanos en un país determinado.</seg>
       </tuv>
     </tu>
     <tu>
