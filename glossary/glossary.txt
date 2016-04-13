@@ -43,3 +43,4 @@ nuance	matizar
 outrage	indignación
 in tandem	conjuntamente
 persued	reinvindicar
+background information	antecedentes
