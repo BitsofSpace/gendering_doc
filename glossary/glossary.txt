@@ -62,3 +62,4 @@ remedies	remedios, soluciones, medios
 engage	participar, comprometerse, emplear
 building blocks	componente, pilar
 challenges	retos, desafíos,
+retaliation	represalia
