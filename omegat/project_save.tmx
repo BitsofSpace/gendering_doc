@@ -733,6 +733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the specific aspects of the situation,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222135Z" creationid="bitsofspace" creationdate="20160413T222135Z">
+        <seg>Según los aspectos específicos de la situación,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the type of results sought by women human rights defenders, it may be more—or less—useful to engage with the U.N.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165801Z" creationid="bitsofspace" creationdate="20160413T164919Z">
@@ -1796,8 +1804,8 @@ by and for civil society.</seg>
       <tuv lang="EN-US">
         <seg>National constitutions and laws provide for accountability in formal legal and judicial systems that include courts, legal jurisprudence, law enforcement units, and other judicial entities.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222037Z" creationid="bitsofspace" creationdate="20160413T222037Z">
-        <seg>Las constituciones y leyes nacionales </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222125Z" creationid="bitsofspace" creationdate="20160413T222037Z">
+        <seg>Las constituciones y leyes nacionales habilitan la rendición de cuentas en sistemas legales formulares y sistemas judiciales que incluye tribunales, jurisprudencia, unidades de aplicación de leyes y otras entidades judiciales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4044,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031158Z" creationid="bitsofspace" creationdate="20160411T031158Z">
         <seg>las tecnologías para erradicar la violencia contra mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the national courts are often a place for a focus on individual responsibility, while regional and interna-</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222203Z" creationid="bitsofspace" creationdate="20160413T222203Z">
+        <seg>los tribunales nacionales suelen ser un lugar para enfocarse en responsabilidades indviduales, mientras que organismos regionales e internacionales</seg>
       </tuv>
     </tu>
     <tu>
