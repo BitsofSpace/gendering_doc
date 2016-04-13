@@ -3371,6 +3371,15 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>No me cuadra tanto esta frase</note>
+      <tuv lang="EN-US">
+        <seg>impose additional challenges, including the fact that resources generally must be expended at the domestic level to seek national court remedies for justice and accountability before a regional court system can be engaged&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T153233Z" creationid="bitsofspace" creationdate="20160413T153233Z">
+        <seg>implican retos adicionales, incluyendo el hecho que los recursos generalmente pueden gastarse a nivel local en busca de medios judiciales nacionales de justicia y rendición de cuentas antes de recurrir a un sistema judicial regional. &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>instance, if advocacy is grounded in defending rights of people whose behaviour or identities are criminalised,</seg>
       </tuv>
