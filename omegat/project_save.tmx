@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Whether it is to win legal judgment or to sway public opinion, defenders can use these international bodies in tandem&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031211Z" creationid="bitsofspace" creationdate="20160413T031211Z">
-        <seg>Sea para ganar un juicio legal o cambiar la opinión pública, las defensoras pueden usar estos organismos internacionales conjuntamente.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031216Z" creationid="bitsofspace" creationdate="20160413T031211Z">
+        <seg>Sea para ganar un juicio legal o cambiar la opinión pública, las defensoras pueden usar estos organismos internacionales conjuntamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2819,6 +2819,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T084813Z" creationid="bitsofspace" creationdate="20160407T084813Z">
         <seg>no exponen el estado de VIH+ de sus clientes en contextos dodne la transmisión está criminalizada o que protegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with domestic efforts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031253Z" creationid="bitsofspace" creationdate="20160413T031253Z">
+        <seg>apoyado por esfuerzos nacionales.</seg>
       </tuv>
     </tu>
     <tu>
