@@ -85,3 +85,4 @@ hindered	vinculantes
 ramifications	consecuencias, implicaciones
 concerns	intereses, inquietudes, prioridades
 reluctant	reacio
+crackdowns	represión
