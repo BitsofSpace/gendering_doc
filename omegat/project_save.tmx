@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;photo footnote&gt; Cambodian WHRDs celebrate their court victory, June 2012.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054207Z" creationid="bitsofspace" creationdate="20160413T054207Z">
+        <seg>&lt;photo footnote&gt; Defensoras de derechos humanos de Cambodia celebran su victoria judicial, Junio 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Since that time, Chile has reformed many of its laws regarding sexual orientation.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T040954Z" creationid="bitsofspace" creationdate="20160413T040954Z">
@@ -1770,6 +1778,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some activists believe that the presence of the international observers helped to secure this victory&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054119Z" creationid="bitsofspace" creationdate="20160413T054119Z">
+        <seg>Algunos activistas creen que la presencia de observadores internacionales ayudó a asegurar esta victoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some assert that charges were maintained in order to allow additional and ongoing intimidation tactics by the government.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T092943Z" creationid="bitsofspace" creationdate="20160407T092943Z">
@@ -3164,6 +3180,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052232Z" creationid="bitsofspace" creationdate="20160411T052232Z">
         <seg>audiovisuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with the European Social Charter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054248Z" creationid="bitsofspace" creationdate="20160413T054248Z">
+        <seg>con los estatus sociales europeos.</seg>
       </tuv>
     </tu>
     <tu>
