@@ -500,6 +500,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee against Torture (CAT)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060705Z" creationid="bitsofspace" creationdate="20160413T060705Z">
+        <seg>Comité contra la Tortura (CAT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committee on Economic, Social and Cultural Rights (CESCR)</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055725Z" creationid="bitsofspace" creationdate="20160413T055725Z">
@@ -508,10 +516,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee on the Elimination of Discrimination against Women (CEDAW)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060616Z" creationid="bitsofspace" creationdate="20160413T060616Z">
+        <seg>Comité sobre la Eliminación de Discriminación contra Mujeres (CEDAW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committee on the Elimination of Racial Discrimination (CERD)</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055742Z" creationid="bitsofspace" creationdate="20160413T055742Z">
-        <seg>Comité sobre la Erradicación (CERD)</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060549Z" creationid="bitsofspace" creationdate="20160413T055742Z">
+        <seg>Comité sobre la Eliminación de Discriminación Racial (CERD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +1974,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054541Z" creationid="bitsofspace" creationdate="20160413T054541Z">
         <seg>Los Estados someten informes periódicos que son revisados por el Comité, organismo que también puede tomar decisiones sobre los casos de denuncias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subcommittee on Prevention of Torture (SPT)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060714Z" creationid="bitsofspace" creationdate="20160413T060714Z">
+        <seg>Subcomité sobre Prevención de Tortura (SPT)</seg>
       </tuv>
     </tu>
     <tu>
