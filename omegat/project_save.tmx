@@ -500,6 +500,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee on Economic, Social and Cultural Rights (CESCR)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055725Z" creationid="bitsofspace" creationdate="20160413T055725Z">
+        <seg>Comité sobre Derechos Económicos, Sociales y Culturales (CESCR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committee on the Elimination of Racial Discrimination (CERD)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055742Z" creationid="bitsofspace" creationdate="20160413T055742Z">
+        <seg>Comité sobre la Erradicación (CERD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confiscation of computers, phones and other equipment</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T023951Z" creationid="bitsofspace" creationdate="20160411T023951Z">
@@ -1008,6 +1024,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041432Z" creationid="bitsofspace" creationdate="20160411T041432Z">
         <seg>¿Cuándo estás dispuesta a esforzarte para prevenir esas consecuencias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Human Rights Committee (CCPR)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055706Z" creationid="bitsofspace" creationdate="20160413T055706Z">
+        <seg>Comité de Derechos Humanos (CCPR)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2294,14 @@ are connected to judicial or intergovernmental processes.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are 10 human rights treaty bodies that monitor implementation of the core international</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055652Z" creationid="bitsofspace" creationdate="20160413T055652Z">
+        <seg>Existen 10 convenios de derechos humanos que monitorean la implementación de los tratados internacionales medulares sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are 5 questions you should ask</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040424Z" creationid="bitsofspace" creationdate="20160411T040424Z">
@@ -2592,6 +2624,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T042740Z" creationid="bitsofspace" creationdate="20160407T042740Z">
         <seg>La justicia de transición generalmente se aboca a los legados de "abusos masivos contra los derechos humanos" y puede incluir establecer sistemas a raíz de contextos de conflicto y represión estatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treaty bodies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055612Z" creationid="bitsofspace" creationdate="20160413T055612Z">
+        <seg>Convenios</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,6 +3032,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052431Z" creationid="bitsofspace" creationdate="20160411T052431Z">
         <seg>los objetivos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human rights treaties :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055657Z" creationid="bitsofspace" creationdate="20160413T055657Z">
+        <seg>derechos humanos:</seg>
       </tuv>
     </tu>
     <tu>
