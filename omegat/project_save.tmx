@@ -673,6 +673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For detailed information, see the IACHR / OAS 2010 case application at https://www.cidh.oas.org/demandas/12.502ENG.pdf</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T040517Z" creationid="bitsofspace" creationdate="20160413T040517Z">
+        <seg>Para más detalles, véase IACHR / OAS 2010 caso de aplicación en https://www.cidh.oas.org/demandas/12.502ENG.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in some cases, defenders at risk within a particular country may</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100219Z" creationid="bitsofspace" creationdate="20160407T100219Z">
