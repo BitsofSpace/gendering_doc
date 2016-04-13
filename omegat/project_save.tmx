@@ -1270,6 +1270,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It hears cases that are referred by the Commission, if the Commission has failed to resolve the issue in its own deliberations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055148Z" creationid="bitsofspace" creationdate="20160413T055148Z">
+        <seg>Atiende casos referidos por la Comisión si la anterior falla en resolver </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>También se puede decir "recursos humanos".</note>
       <tuv lang="EN-US">
         <seg>It is important to consider the human capacity and expertise at hand as well as financial resources available when determining what advocacy strategy or forum to use.</seg>
@@ -1971,6 +1979,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Commission also has a Rapporteurship on the Rights of Women and a Rapporteurship on the Rights of Lesbian, Gay, Trans, Bisexual and Intersex Persons, the first special procedure of any international body on those topics&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055039Z" creationid="bitsofspace" creationdate="20160413T055039Z">
+        <seg>La Comisión también tiene una Relatoría sobre los Derechos de las Mujeres y de las Lesbianas, Gays, Trans, Bisexuales e Intersex, lo que constituye el primer procedimiento especial de un organismo internacional en estas materias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Commission can decide to refer cases to the Inter-American Court, which provides additional advocacy opportunities for defenders, as noted above.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042913Z" creationid="bitsofspace" creationdate="20160413T042913Z">
@@ -1999,6 +2015,22 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T052812Z" creationid="bitsofspace" creationdate="20160407T052812Z">
         <seg>La Coalición de Gays y Lesbianas de Kenya (GALCK), junto con activistas de Mujeres Minoritarias en Acción (MWA), otro grupo de activista de Kenya, crearon un informe detallado del país en el cual documentaron las realidades de lesbianas en Kenya, fundamentado en un análisis sobre la autonomía del cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inter-American Court is the judicial body of the Inter-American system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055108Z" creationid="bitsofspace" creationdate="20160413T055108Z">
+        <seg>La Corte Inter-Americana es un organismo judicial del sistema Inter-Americano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inter-American Court of Human Rights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055048Z" creationid="bitsofspace" creationdate="20160413T055048Z">
+        <seg>La Corte Inter-Americana en Derechos Humanos</seg>
       </tuv>
     </tu>
     <tu>
