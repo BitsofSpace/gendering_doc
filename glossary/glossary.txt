@@ -46,3 +46,4 @@ persued	reinvindicar
 background information	antecedentes
 subsequently	posteriormente
 hearings	audiencia
+conduct	dirigir
