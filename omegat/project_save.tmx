@@ -2034,6 +2034,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some independent experts are verbally cha&lt;f0&gt;l&lt;/f0&gt;lenged in official sessions; they are sometimes accused of “exceeding their mandates” or not being impartial.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T063810Z" creationid="bitsofspace" creationdate="20160413T063810Z">
+        <seg>Algunos expertos y expertas independientes son enfrentados verbalmente en las sesiones oficiales; a veces son acusados de "exceder sus mandatos" o no ser imparciales..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the considerations advocates need to consider in deciding how to use documentation include:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060322Z" creationid="bitsofspace" creationdate="20160407T052012Z">
@@ -2620,6 +2628,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042800Z" creationid="bitsofspace" creationdate="20160413T042800Z">
         <seg>Éstas pueden ser sometidas por individuos, grupos de individuos y ONGs reconocidas en cualquiera de los Estados de la OAS,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These efforts to publicly challenge special procedures’ reputations are also clear attempts to punish defense of human rights and to stifle dissent.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T063846Z" creationid="bitsofspace" creationdate="20160413T063846Z">
+        <seg>Estos esfuerzos con el fin de enfrentar públicamente </seg>
       </tuv>
     </tu>
     <tu>
