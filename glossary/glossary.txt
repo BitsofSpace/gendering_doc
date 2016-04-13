@@ -86,3 +86,4 @@ ramifications	consecuencias, implicaciones
 concerns	intereses, inquietudes, prioridades
 reluctant	reacio
 crackdowns	represión
+push forward	impulsar, avanzar
