@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Country visits and reports&lt;/f0&gt;: The Commission issues annual, thematic and country reports.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T041514Z" creationid="bitsofspace" creationdate="20160413T041514Z">
+        <seg>&lt;f0&gt;Visitas a países e informes&lt;/f0&gt;: la Comisión publica informes anuales, temáticos y contextualizados en países determinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;However, feminists have argued that demands related to gender-sensitive and gender-&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;responsive justice go far beyond punishment of perpetrators.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T042939Z" creationid="bitsofspace" creationdate="20160407T042939Z">
