@@ -1601,6 +1601,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rapporteurs conduct country visits, issue reports with recommendations and otherwise advise the Commission about specific petitions and cases.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043709Z" creationid="bitsofspace" creationdate="20160413T043709Z">
+        <seg>Los y las relatoras dirigen visitas a países, publican infomes con recomendaciones y dan consejo a la Comisión sobre peticioens y casos específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently, the</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T041822Z" creationid="bitsofspace" creationdate="20160413T041822Z">
@@ -2295,6 +2303,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192118Z" creationid="bitsofspace" creationdate="20160331T182201Z">
         <seg>Esta sección aborda en detalle procesos de documentación e incidencia con los </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This system utilizes information and documentation received from various sources to assess how different groups of people or different rights are being protected in OAS Member States.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043555Z" creationid="bitsofspace" creationdate="20160413T043555Z">
+        <seg>El sistema utiliza información y documentación recibida por diversas fuentes para evaluar cómo diferentes grupos de personas o diferentes derechos están siendo protegidos por Estados miembros de la OAS.</seg>
       </tuv>
     </tu>
     <tu>
