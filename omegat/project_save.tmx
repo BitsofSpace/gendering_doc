@@ -3581,6 +3581,15 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>quité contexto nacional y regional porque sale dos veces en la frase y es un poco redunante</note>
+      <tuv lang="EN-US">
+        <seg>national and local levels may in some cases be—or may feel—limited.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T180018Z" creationid="bitsofspace" creationdate="20160413T180018Z">
+        <seg>puede ser o sentirse, en algunos casos, limitados.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>national legal systems, and the other systems, mechanisms and bodies that exist on regional and international levels.</seg>
       </tuv>
