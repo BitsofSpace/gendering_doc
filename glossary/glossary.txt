@@ -42,3 +42,4 @@ appeals	solicitudes
 nuance	matizar
 outrage	indignación
 in tandem	conjuntamente
+persued	reinvindicar
