@@ -381,6 +381,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>And, of course, WHRDs have been particularly successful at creating and raising the profile of “women human rights defenders” as a legitimate human rights topic!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T215900Z" creationid="bitsofspace" creationdate="20160413T215900Z">
+        <seg>Y, por supuesto, las defensoras de derechos humanos han tenido particular éxito en crear y alzar el perfil de las "defensoras de derechos humanos" como un tema legítimo de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si éste es el sentido de la frase originalmente.</note>
       <tuv lang="EN-US">
         <seg>Are defenders in these situations more likely to have partners in advocacy?</seg>
@@ -1217,6 +1225,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102435Z" creationid="bitsofspace" creationdate="20160407T102435Z">
         <seg>consejo de derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Human rights analysis evolves over time.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T215920Z" creationid="bitsofspace" creationdate="20160413T215920Z">
+        <seg>El análisis de derechos humamos evoluciona a lo largo del tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,6 +3152,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165829Z" creationid="bitsofspace" creationdate="20160413T165829Z">
         <seg>Las defensoras de derechos humanos pueden escoger dedicar más recursos a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHRDs and gender-responsive documentation help to quicken the pace of that evolution.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220003Z" creationid="bitsofspace" creationdate="20160413T220003Z">
+        <seg>Las defensoras y la documentación sensible a temas de género ayuda a aligerar el paso de esta evolución.</seg>
       </tuv>
     </tu>
     <tu>
