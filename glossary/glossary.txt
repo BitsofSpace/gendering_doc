@@ -80,3 +80,4 @@ comprise	incluir, abarcar, comprender
 subject to	expuestos a
 claims	demandas, derechos, reclamaciones
 albeit	aunque, no obstante
+pivotal	fundamental, esencial, central
