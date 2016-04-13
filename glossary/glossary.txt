@@ -77,3 +77,4 @@ unhindered	libre, sin obstáculos
 rule of law	estado de derecho, principio de legalidad	 rule of law
 not unexpectedly	como es de esperar
 comprise	incluir, abarcar, comprender
+subject to	expuestos a
