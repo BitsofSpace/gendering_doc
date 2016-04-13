@@ -58,3 +58,5 @@ briefings	informe
 briefings	reunión informativa, exposición, informe
 ongoing	en curso
 mandate holders	titulares del mandato
+remedies	remedios, soluciones, medios
+engage	participar, comprometerse, emplear
