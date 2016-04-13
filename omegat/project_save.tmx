@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Special mechanisms: &lt;/f0&gt;The Commission has a system of special mechanisms that include thematic and country rapporteurs, and Units.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043519Z" creationid="bitsofspace" creationdate="20160413T043519Z">
+        <seg>&lt;f0&gt;Mecanismos especiales: &lt;/f0&gt;La Comisión tiene un sistema de mecanismos especiales que incluye relatoras y unidades vinculadas a países y temas determinados..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Thematic hearings.&lt;/f0&gt; The Commission holds regular sessions twice a year during which there are hearings on individual cases and thematic concerns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043339Z" creationid="bitsofspace" creationdate="20160413T043339Z">
+        <seg>&lt;f0&gt;Audiencias temáticas.&lt;/f0&gt; La Comisión programa sesiones regulares dos veces al año en las que hay audiencias de casos individuales y cuestiones temáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Whether it is to win legal judgment or to sway public opinion, defenders can use these international bodies in tandem&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031216Z" creationid="bitsofspace" creationdate="20160413T031211Z">
@@ -1992,6 +2008,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054459Z" creationid="bitsofspace" creationdate="20160407T040409Z">
         <seg>La idea de usar la documentación para generar cambios es trascendental y meramente basado en &lt;f0&gt;provocar cambios en circunstancias o en la comprensión&lt;/f0&gt;, ya sea relacionado con la seguridad, comportamientos, políticas o el climax que envuelve el activismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number and themes of the hearings are decided by the Commission, but it is possible for NGOs to lobby for attention to certain topics.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043426Z" creationid="bitsofspace" creationdate="20160413T043426Z">
+        <seg>Error 500: Unexpected Error: null</seg>
       </tuv>
     </tu>
     <tu>
