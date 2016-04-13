@@ -53,3 +53,4 @@ Appeal Court	tribunal de apelaciones
 Charter	estatutos
 complaint	quejas, denuncias
 binding	vinculante
+assembly and association	reunión y asociación
