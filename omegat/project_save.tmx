@@ -516,6 +516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Committee on Enforced Disappearance (CED)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T061031Z" creationid="bitsofspace" creationdate="20160413T061031Z">
+        <seg>Comité sobre Desapariciones Forzadas (CED)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Committee on Migrant Workers (CMW)</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T060813Z" creationid="bitsofspace" creationdate="20160413T060813Z">
@@ -1830,6 +1838,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061134Z" creationid="bitsofspace" creationdate="20160407T061134Z">
         <seg>Véase Capítulo 4 "Cómo documentar" para un análisis más profundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See http://www.ohchr.org/en/hrbodies/Pages/HumanRightsBodies.aspx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T061201Z" creationid="bitsofspace" creationdate="20160413T061201Z">
+        <seg>Véase http://www.ohchr.org/SP/HRBodies/Pages/HumanRightsBodies.aspx</seg>
       </tuv>
     </tu>
     <tu>
