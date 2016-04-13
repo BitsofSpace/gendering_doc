@@ -540,6 +540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decisions of the Court are binding and the States concerned are obliged to comply with them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055427Z" creationid="bitsofspace" creationdate="20160413T055427Z">
+        <seg>Las decisiones de la Corte son vinculantes y los Estados involucrados están obligados a cumplir con ellas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defending the Defender—Women Human Rights Defenders in Uganda Face Unlawful Criminalization; AWID; http://www.awid.org/news-and-analysis/defending-defender-women-human-rights-defenders-uganda-face-unlawful</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T062527Z" creationid="bitsofspace" creationdate="20160407T062527Z">
@@ -1273,8 +1281,8 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       <tuv lang="EN-US">
         <seg>It hears cases that are referred by the Commission, if the Commission has failed to resolve the issue in its own deliberations.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055148Z" creationid="bitsofspace" creationdate="20160413T055148Z">
-        <seg>Atiende casos referidos por la Comisión si la anterior falla en resolver </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055234Z" creationid="bitsofspace" creationdate="20160413T055148Z">
+        <seg>Atiende casos referidos por la Comisión si la anterior falla en resolverlos con sus propias deliberaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,6 +2011,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Court has been and can continue to be used to obtain legal remedy for violations against women human rights defenders and women, generally.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055303Z" creationid="bitsofspace" creationdate="20160413T055303Z">
+        <seg>La Corte ha sido y sigue siendo usada para obtener soluciones legales para violaciones contra defensoras de derechos humanos y mujeres en general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Electronic Frontier Foundation claims:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035346Z" creationid="bitsofspace" creationdate="20160411T035346Z">
@@ -2015,6 +2031,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T052812Z" creationid="bitsofspace" creationdate="20160407T052812Z">
         <seg>La Coalición de Gays y Lesbianas de Kenya (GALCK), junto con activistas de Mujeres Minoritarias en Acción (MWA), otro grupo de activista de Kenya, crearon un informe detallado del país en el cual documentaron las realidades de lesbianas en Kenya, fundamentado en un análisis sobre la autonomía del cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inter-American Commission</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055433Z" creationid="bitsofspace" creationdate="20160413T055433Z">
+        <seg>La Comisión Inter-Americana</seg>
       </tuv>
     </tu>
     <tu>
