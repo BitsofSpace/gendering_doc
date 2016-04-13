@@ -83,3 +83,4 @@ albeit	aunque, no obstante
 pivotal	fundamental, esencial, central
 hindered	vinculantes
 ramifications	consecuencias, implicaciones
+concerns	intereses, inquietudes, prioridades
