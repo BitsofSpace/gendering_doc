@@ -64,3 +64,4 @@ building blocks	componente, pilar
 challenges	retos, desafíos,
 retaliation	represalia
 bring about	contribuir, provocar
+stamina	resistencia, fuerza, energía
