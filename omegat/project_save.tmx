@@ -695,8 +695,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the type of results sought by women human rights defenders, it may be more—or less—useful to engage with the U.N.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T164919Z" creationid="bitsofspace" creationdate="20160413T164919Z">
-        <seg>Según el tipo de </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165801Z" creationid="bitsofspace" creationdate="20160413T164919Z">
+        <seg>Según el tipo de resultado que buscan las defensoras de derechos humanos, puede ser más o menos útil participar con organismos de la O.N.U</seg>
       </tuv>
     </tu>
     <tu>
@@ -3052,6 +3052,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHRDs &lt;f0&gt;can choose to devote more resources to&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165829Z" creationid="bitsofspace" creationdate="20160413T165829Z">
+        <seg>Las defensoras de derechos humanos pueden escoger dedicar más recursos a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WHRDs can do any of the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062011Z" creationid="bitsofspace" creationdate="20160413T062011Z">
@@ -3610,6 +3618,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123544Z" creationid="bitsofspace" creationdate="20160411T053720Z">
         <seg>o autoridades regionales, incluyendo los y las Relotaras Especiales de Defensores de Derechos Humanos o que cubren otros temas, si la O.N.U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or regional bodies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165806Z" creationid="bitsofspace" creationdate="20160413T165806Z">
+        <seg>o regionales.</seg>
       </tuv>
     </tu>
     <tu>
