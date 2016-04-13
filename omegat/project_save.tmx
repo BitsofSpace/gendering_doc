@@ -1843,6 +1843,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Commission can decide to refer cases to the Inter-American Court, which provides additional advocacy opportunities for defenders, as noted above.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042913Z" creationid="bitsofspace" creationdate="20160413T042913Z">
+        <seg>La Comisión puede decidir referirse a casos de la Corte Interamericana, lo cual brinda oportunidades complementarias de defensa y promoción, como se comenta anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Electronic Frontier Foundation claims:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035346Z" creationid="bitsofspace" creationdate="20160411T035346Z">
@@ -1984,6 +1992,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054459Z" creationid="bitsofspace" creationdate="20160407T040409Z">
         <seg>La idea de usar la documentación para generar cambios es trascendental y meramente basado en &lt;f0&gt;provocar cambios en circunstancias o en la comprensión&lt;/f0&gt;, ya sea relacionado con la seguridad, comportamientos, políticas o el climax que envuelve el activismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The petitions are assessed through a process that includes a report with recommendations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042821Z" creationid="bitsofspace" creationdate="20160413T042821Z">
+        <seg>Las peticiones se evaluan a través de un procedimiento que incluye un informe con recomendaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2147,15 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T130415Z" creationid="bitsofspace" creationdate="20160411T130415Z">
         <seg>Estas campañas pueden incluir una combinación de llamamientos urgentes, mensajes de solidaridad, protestas y marchas masivas, ruedas de prensa y otros trabajos relacionado con medios de comunicación; también presionar autoridades y organismos del gobierno a prevenir y detener las violaciones contra las defensoras de derechos humanos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>OAS significa...?</note>
+      <tuv lang="EN-US">
+        <seg>These can be submitted by individuals, groups of individuals and NGOs recognized in any OAS Member State.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042800Z" creationid="bitsofspace" creationdate="20160413T042800Z">
+        <seg>Éstas pueden ser sometidas por individuos, grupos de individuos y ONGs reconocidas en cualquiera de los Estados de la OAS,</seg>
       </tuv>
     </tu>
     <tu>
