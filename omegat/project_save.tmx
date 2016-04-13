@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Petitions and Individual cases.&lt;/f0&gt; The Commission can receive and investigate “petitions” alleging human rights violations of any of the rights protected in the American Convention on Human Rights or the American Declaration of the Rights and Duties of Man.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042715Z" creationid="bitsofspace" creationdate="20160413T042715Z">
+        <seg>&lt;f0&gt;Peticiones y casos individuales.&lt;/f0&gt; La comisión puede recibir e investigar "peticiones" alegando violaciones de cualquiera de los derechos protegidos por la Convención Americana de Derechos Humanos o la Declaración Americana de Derechos y Deberes del Hombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Protection&lt;/f0&gt; of WHRDs refers to putting in place “systems” to prevent future or additional abuses.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T083724Z" creationid="bitsofspace" creationdate="20160407T040836Z">
@@ -2517,8 +2525,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>Women human rights defenders can also use this mechanism by supplying information to and subsequently lobbying the Commission to conduct a country visit and include a focus on women human rights defenders in the final report.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T041917Z" creationid="bitsofspace" creationdate="20160413T041917Z">
-        <seg>Las defensoras de derechos humanos también pueden usar este mecanismo bri</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T042502Z" creationid="bitsofspace" creationdate="20160413T041917Z">
+        <seg>Las defensoras de derechos humanos también pueden usar este mecanismo a través del aporte de información y, posteriormente, presionar a la Comisión a realizar una visita de campo e incluir un enfoque de defensoras de derechos humanos en su informe final.</seg>
       </tuv>
     </tu>
     <tu>
