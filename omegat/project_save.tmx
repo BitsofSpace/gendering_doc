@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Whether it is to win legal judgment or to sway public opinion, defenders can use these international bodies in tandem&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031211Z" creationid="bitsofspace" creationdate="20160413T031211Z">
+        <seg>Sea para ganar un juicio legal o cambiar la opinión pública, las defensoras pueden usar estos organismos internacionales conjuntamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;immediate resources to access immediate solutions.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T045347Z" creationid="bitsofspace" creationdate="20160411T044918Z">
@@ -2439,6 +2447,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041240Z" creationid="bitsofspace" creationdate="20160411T041240Z">
         <seg>Anota qué adversidades pueden afectar tus datos privados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, where national systems fail, and when WHRDs want to highlight abuses on a regional or international stage, there can be great value in taking concerns beyond national borders.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031125Z" creationid="bitsofspace" creationdate="20160413T031125Z">
+        <seg>Sin emargo, en los casos que los sistemas nacionales fracasan, y cuando defensoras de derechos humanos quieren destacar abusos en un ámbito regional o internacioanl, puede ser de gran valor trascender a un contexto internacional.</seg>
       </tuv>
     </tu>
     <tu>
