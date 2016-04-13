@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;At the national level&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220533Z" creationid="bitsofspace" creationdate="20160413T220533Z">
+        <seg>&lt;f0&gt;Contexto nacional&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Country visits and reports&lt;/f0&gt;: The Commission issues annual, thematic and country reports.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T041514Z" creationid="bitsofspace" creationdate="20160413T041514Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T171331Z" creationid="bitsofspace" creationdate="20160413T171331Z">
         <seg>Participar en la mayoría de los sistemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equally important, but harder to measure, are the victories over time as consciousness changes about gender and human rights, and as more people understand gender based violations and the contexts that shape them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220517Z" creationid="bitsofspace" creationdate="20160413T220517Z">
+        <seg>Igualmente importante, pero más difícil medir, son las victorias a lo largo del tiempo en cuanto los cambios de consciencia sobre derechos humanos y de género y la comprensión creciente de violaciones basadas en el género y los contextos que las moldean.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,6 +2847,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>These victories are often concrete, and can include the creation of a specific report, the passage of a resolution, defenders-related language contained within</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220403Z" creationid="bitsofspace" creationdate="20160413T220403Z">
+        <seg>Estas victorias suelen ser concretas y pueden incluir la creación de un informe específico, la aprobación de una resolución, lenguaje relacionado con defensores </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Usé "desenlace" como sinónimo de "resultados".
 
 Opté por "lucha" en vez de "incidencia".</note>
@@ -3633,6 +3657,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031143Z" creationid="bitsofspace" creationdate="20160411T031143Z">
         <seg>es un llamado a todas las personas, especialmente mujeres y niñas, a tomar el control sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>it, or the detail of one government officially saying to another “these are our concerns about these activists”.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220413Z" creationid="bitsofspace" creationdate="20160413T220413Z">
+        <seg> o el detalle de que un gobierno le diga oficialmente a otro "estas son las priroridades de estos activistas".</seg>
       </tuv>
     </tu>
     <tu>
