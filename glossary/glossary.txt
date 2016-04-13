@@ -52,3 +52,4 @@ evictions	desalojos
 Appeal Court	tribunal de apelaciones
 Charter	estatutos
 complaint	quejas, denuncias
+binding	vinculante
