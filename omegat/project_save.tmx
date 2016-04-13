@@ -1401,8 +1401,8 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       <tuv lang="EN-US">
         <seg>In recent years, WHRDs have been promoting a focus on human rights of sex workers, maternal mortality and other reproductive rights issues, sexual orientation, gender identity and gender expression, and intersex issues, as only some examples.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T192235Z" creationid="bitsofspace" creationdate="20160413T192235Z">
-        <seg>En los últimos años, las defensoras han promocionado un enfoque de derechos humanos en el trabajo sexual, la mortalidad materna y otros temas como los derechos reproductivos, la orientación sexual, identidad de género y expresi</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T192247Z" creationid="bitsofspace" creationdate="20160413T192235Z">
+        <seg>En los últimos años, las defensoras han promocionado un enfoque de derechos humanos en el trabajo sexual, la mortalidad materna y otros temas como los derechos reproductivos, la orientación sexual, identidad de género y expresión de género.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2796,6 +2796,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T063846Z" creationid="bitsofspace" creationdate="20160413T063846Z">
         <seg>Estos esfuerzos con el fin de enfrentar públicamente </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These exist alongside other human rights issues that have gained prominence but which had been invisible in the past, including the rights to water, rights related to climate and the environment, and rights implications of corporate malfeasance.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T192311Z" creationid="bitsofspace" creationdate="20160413T192311Z">
+        <seg>Estos temas conviven con otros que han </seg>
       </tuv>
     </tu>
     <tu>
