@@ -596,6 +596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cases that capture the public’s interest may be helped or hindered because of the high public profile of the issue or the people involved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224743Z" creationid="bitsofspace" creationdate="20160413T224743Z">
+        <seg>Los casos que atrapan atención pública pueden ayudar o ser vinculantes debido al perfil público alto del tema o de las personas involucradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clearly defining the objective and desired outcome of any use of documentation is essential to ensuring choosing the best strategy, tactics and sites to meet those goals.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060805Z" creationid="bitsofspace" creationdate="20160407T060805Z">
@@ -2129,6 +2137,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ramifications can be significant (although either positive or negative) if the cases involve people who already are well known or who carry particular power, such as government officials.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224929Z" creationid="bitsofspace" creationdate="20160413T224929Z">
+        <seg>Las ramificaciones pueden ser significantes (ya sea positiva o negativa) en los casos que involucran personas que ya son conocidas o que tienen un poder particular, como los oficiales de gobierno, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rapid documentation can sometimes enable defenders to access emergency support to secure safety through physically leaving a situation or locale.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T051230Z" creationid="bitsofspace" creationdate="20160412T050434Z">
@@ -3504,6 +3520,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040739Z" creationid="bitsofspace" creationdate="20160411T040739Z">
         <seg>¿De quiénes los quieres proteger?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will cases be picked up in national level media?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224947Z" creationid="bitsofspace" creationdate="20160413T224947Z">
+        <seg>¿Los medios nacionales van a cubrir el caso?</seg>
       </tuv>
     </tu>
     <tu>
