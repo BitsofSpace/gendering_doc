@@ -2997,6 +2997,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>There are many other examples of the evolving standards and bodies within the U.N., including on issues of racial discrimination [The Convention on the Elimination of All Forms of Racial Discrimination], disabilities [Convention on the Rights of Persons with Disabilities], and on issues that some are reluctant to see as valid human rights concerns, including violence and discrimination based on sexual orientation and gender identity, rights to food, water and other economic rights, rights related to development, and concerns about human rights impacts of exploitative corporate policies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T230511Z" creationid="bitsofspace" creationdate="20160413T230511Z">
+        <seg>Hay muchos otros ejemplos de estándares que evolucionan y organismos dentro de la O.N.U, incluyendo asuntos de discriminación racial [la Convención de Eliminiación de Todas las Formas de Discriminación Racial], </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>También podríamos decir "los y las activistas".</note>
       <tuv lang="EN-US">
         <seg>There are many reasons to document violations against women human rights defenders, and activists use that documentation in any number of creative ways.</seg>
@@ -3958,8 +3966,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>has established a treaty body on eliminating discrimination against women [the Convention on the Elimination of All Forms of Discrimination Against Women], special rapporteurs on violence against women and human rights defenders, and a Working Group on discrimination against women in law and practice.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T230248Z" creationid="bitsofspace" creationdate="20160413T230248Z">
-        <seg>ha establecido un convenio para eliminar la discriminación contra las mujeres [la Convención de la Eliminación de Todas las Formas de Discriminación contra las Mujeres]</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T230338Z" creationid="bitsofspace" creationdate="20160413T230248Z">
+        <seg>ha establecido un convenio para eliminar la discriminación contra las mujeres [la Convención de la Eliminación de Todas las Formas de Discriminación contra las Mujeres], relatores y relatoras especiales sobre la violencia contra las mujeres y defensores y defensoras de derechos humanos y un Grupo de Trabajo sobre la discriminación contra mujeres en la ley y la práctica.</seg>
       </tuv>
     </tu>
     <tu>
