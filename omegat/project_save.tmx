@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A recommendation from a U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T183518Z" creationid="bitsofspace" creationdate="20160413T183518Z">
+        <seg>Una recomendación de la O.N.U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION ALERTS OR URGENT APPEALS</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052940Z" creationid="bitsofspace" creationdate="20160411T052940Z">
@@ -3324,6 +3332,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yet, while results may not be immediate, over time, there have been many trends and definitive successes related to gender and defense of human rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T183511Z" creationid="bitsofspace" creationdate="20160413T183511Z">
+        <seg>Sin embargo, aunque los resultados pueden no ser inmediatos, a lo largo del tiempo, ha habido muchas dinámicas y exitos definitivos relacionados con el género y la defensa de derechos humanos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[^61]: The term human rights “mechanism” is generally meant to imply an official human rights “body” or “entity” that monitors or makes decisions about human rights situations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T183115Z" creationid="bitsofspace" creationdate="20160331T183115Z">
@@ -3699,6 +3715,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T165806Z" creationid="bitsofspace" creationdate="20160413T165806Z">
         <seg>o regionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or regional body is most effective when it coexists with commitments from a government to actually implement it!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T183553Z" creationid="bitsofspace" creationdate="20160413T183553Z">
+        <seg>u organismo regional es más eficaz cuando convive con el compromiso de los gobiernos de realmente implementarlas.</seg>
       </tuv>
     </tu>
     <tu>
