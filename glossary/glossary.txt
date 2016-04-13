@@ -50,3 +50,4 @@ conduct	dirigir
 foundational	cimientos, 	foundational
 evictions	desalojos
 Appeal Court	tribunal de apelaciones
+Charter	estatutos
