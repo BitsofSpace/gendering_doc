@@ -70,3 +70,4 @@ issue	dictar, emitir
 prominence	importancia, relevancia
 malfeasance	mala conducta
 raising	suscitar, alzar, levantar
+passage of a resolution	aprobación de la resolución
