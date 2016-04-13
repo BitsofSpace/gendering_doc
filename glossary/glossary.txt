@@ -41,3 +41,4 @@ government bodies	organismos del gobierno
 appeals	solicitudes
 nuance	matizar
 outrage	indignación
+in tandem	conjuntamente
