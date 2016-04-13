@@ -383,6 +383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attend Committee meetings, which are generally held in Geneva, and deliver official “oral</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062412Z" creationid="bitsofspace" creationdate="20160413T062355Z">
+        <seg>Asistir a encuentros del Comité que suelen realizarse en Geneva y proporcionan declaraciones "orales"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awards sometimes bring a form of legitimacy and public recognition, including in the media^80.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T053817Z" creationid="bitsofspace" creationdate="20160412T053817Z">
@@ -2076,8 +2084,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>Submit written information prior to the examination of countries (this documentation is</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062127Z" creationid="bitsofspace" creationdate="20160413T062127Z">
-        <seg>Enviar información escrita antes</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062142Z" creationid="bitsofspace" creationdate="20160413T062127Z">
+        <seg>Enviar información escrita antes de la evaluación de los países (esta documentación suele </seg>
       </tuv>
     </tu>
     <tu>
@@ -3269,6 +3277,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>often called a “shadow report” because it works alongside the official government submission)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062259Z" creationid="bitsofspace" creationdate="20160413T062259Z">
+        <seg>llamarse "informe paralelo" porque trabaja extraoficialmente a la propuesta del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>on Human Rights Defenders&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050448Z" creationid="bitsofspace" creationdate="20160413T050448Z">
@@ -3393,6 +3409,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T041059Z" creationid="bitsofspace" creationdate="20160407T040943Z">
         <seg>alguien que está en una situación inmediata de riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>statements” during the sessions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062419Z" creationid="bitsofspace" creationdate="20160413T062419Z">
+        <seg>oficiales durante las sesiones,</seg>
       </tuv>
     </tu>
     <tu>
