@@ -2974,8 +2974,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>U.N.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T170757Z" creationid="bitsofspace" creationdate="20160413T170757Z">
-        <seg>Nacionaes Unidas</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T170820Z" creationid="bitsofspace" creationdate="20160413T170757Z">
+        <seg>Naciones Unidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3356,6 +3356,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and regional mechanisms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T170815Z" creationid="bitsofspace" creationdate="20160413T170815Z">
+        <seg>y mecanismos regionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and regional mechanisms—and the risks or opportunities that international engagement can bring.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T100148Z" creationid="bitsofspace" creationdate="20160407T100148Z">
@@ -3538,6 +3546,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052854Z" creationid="bitsofspace" creationdate="20160411T052854Z">
         <seg>formular demandas—con documentación consistente en su base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>may be useful for raising the visibility of issues relating to WHRDs, but different “sites” may be more or less capable of obtaining concrete reparations for individual victims.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T171235Z" creationid="bitsofspace" creationdate="20160413T171235Z">
+        <seg>lo que puede ser útil para dar visibilidad a temas relacionados con defensoras de derechos humanos, pero dispersarse en varios puntos puede conllevar más o menos capacidades para obtener reparaciones concretas para víctimas individuales.</seg>
       </tuv>
     </tu>
     <tu>
