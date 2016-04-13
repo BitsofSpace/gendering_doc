@@ -57,3 +57,4 @@ assembly and association	reunión y asociación
 briefings	informe
 briefings	reunión informativa, exposición, informe
 ongoing	en curso
+mandate holders	titulares del mandato
