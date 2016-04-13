@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A complaints procedure is a formal name for the body or the system that literally hears complaints about violations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T134429Z" creationid="bitsofspace" creationdate="20160413T134429Z">
+        <seg>Un procedimiento de demanda es el nombre formal para el organismo o sistema que literalmente escucha demandas sobre violaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good place to start is by doing what is called a “Threat Modeling” process.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035250Z" creationid="bitsofspace" creationdate="20160411T034855Z">
@@ -2319,6 +2327,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123950Z" creationid="bitsofspace" creationdate="20160411T123950Z">
         <seg>La Secretaría General de las Naciones Unidas, Ban Ki-Moon fue mandado un llamamiento urgente sobre defensoras de derechos humanos en enero 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160413T134432Z" creationid="bitsofspace" creationdate="20160413T134432Z">
+        <seg>Las Naciones Unidas</seg>
       </tuv>
     </tu>
     <tu>
