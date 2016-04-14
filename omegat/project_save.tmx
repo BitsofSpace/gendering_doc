@@ -3406,8 +3406,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>The Working Group on the issue of discrimination against women in law and practice released a very useful report on family and cultural life in 2015.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130654Z" creationid="bitsofspace" creationdate="20160414T130654Z">
-        <seg>El Grupo de Trabajo sobre la cuestión de discriminación contra las mujeres en materia legal</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T131032Z" creationid="bitsofspace" creationdate="20160414T130654Z">
+        <seg>El Grupo de Trabajo sobre la discriminación contra la mujer en la legislación y en la práctica lanzó un informe muy útil sobre la familia y vida cultural en el 2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3610,6 +3610,14 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130038Z" creationid="bitsofspace" creationdate="20160414T130031Z">
         <seg>Los y las relatoras y los grupos de trabajo son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The report can be found here&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T131050Z" creationid="bitsofspace" creationdate="20160414T131038Z">
+        <seg>El informe se puede encontrar aquí&lt;t0/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
