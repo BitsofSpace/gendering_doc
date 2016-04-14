@@ -2734,8 +2734,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>The Committee also notes with concern the criminal investigations instituted against</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051255Z" creationid="bitsofspace" creationdate="20160414T051255Z">
-        <seg>El Comité también subraya </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051344Z" creationid="bitsofspace" creationdate="20160414T051255Z">
+        <seg>El Comité también subraya su inquietud sobre las investigaciones criminales fundadas contra </seg>
       </tuv>
     </tu>
     <tu>
@@ -2744,6 +2744,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051301Z" creationid="bitsofspace" creationdate="20160414T051216Z">
         <seg>El Comité destaca su preocupación sobre la información que ha recibido de supuestos casos de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Committee urges the State party to take the necessary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051409Z" creationid="bitsofspace" creationdate="20160414T051409Z">
+        <seg>El Comité insta al Estado a tomar las medidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4286,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>investigations and to duly punish the culprits.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051541Z" creationid="bitsofspace" creationdate="20160414T051541Z">
+        <seg>investigaciones imparciales y castigar a los culpables debidamente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is a call to everyone, especially women and girls, to take control of</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031143Z" creationid="bitsofspace" creationdate="20160411T031143Z">
@@ -4331,6 +4347,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T171235Z" creationid="bitsofspace" creationdate="20160413T171235Z">
         <seg>lo que puede ser útil para dar visibilidad a temas relacionados con defensoras de derechos humanos, pero dispersarse en varios puntos puede conllevar más o menos capacidades para obtener reparaciones concretas para víctimas individuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>measures to combat alleged cases of systematic harassment and death threats directed at human</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051429Z" creationid="bitsofspace" creationdate="20160414T051429Z">
+        <seg>necesarias para combatir los casos supuestos de acoso sistemático y amenazas de muerte dirigdas a </seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4592,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rights defenders in general and female defenders of women’s rights in particular, to conduct impartial</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051510Z" creationid="bitsofspace" creationdate="20160414T051510Z">
+        <seg>defensores de derechos humanos en general y defensoras de derechos de las mujeres en particular, conducir </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rights institutions (NHRIs) that have the mandate and resources to promote human rights and to monitor and investigate cases of violations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222906Z" creationid="bitsofspace" creationdate="20160413T222906Z">
@@ -4800,6 +4832,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054248Z" creationid="bitsofspace" creationdate="20160413T054248Z">
         <seg>con los estatus sociales europeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>women defending reproductive rights...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051355Z" creationid="bitsofspace" creationdate="20160414T051355Z">
+        <seg>mujers que defienden derechos reproductivos.</seg>
       </tuv>
     </tu>
     <tu>
