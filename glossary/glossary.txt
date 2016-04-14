@@ -110,3 +110,4 @@ allegation	denuncia
 hard-hitting	directo, enérgica, aguda, contundente
 cross-sector	transversal
 treaty bodies	órganos de tratados
+holders	partidario
