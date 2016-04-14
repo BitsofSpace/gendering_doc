@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;human rights defenders they may defy cultural, religious or social norms about femininity and the role of women in a particular country or society.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053946Z" creationid="bitsofspace" creationdate="20160414T053946Z">
+        <seg>&lt;f0&gt;las defensoras llegan a desafiar normas culturales, religiosas o sociales sobre la feminidad y el rol de las mujer en países o sociedades determinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;immediate resources to access immediate solutions.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T045347Z" creationid="bitsofspace" creationdate="20160411T044918Z">
@@ -1502,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 2002, the Special Representative on Human Rights Defenders wrote:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053829Z" creationid="bitsofspace" creationdate="20160414T053829Z">
+        <seg>En 2002, el Representante Especial de Defensores y Defensoras de Derechos Humanos escribió:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 2012, in Uganda, police raided a Drop In Centre of the Women’s Organization Network for Human Rights Advocacy (WONETHA), a group that defends rights of sex workers and provides information on sexual and reproductive health.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T063027Z" creationid="bitsofspace" creationdate="20160407T063027Z">
@@ -1676,6 +1692,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050832Z" creationid="bitsofspace" creationdate="20160414T050832Z">
         <seg>En ellos, formulan recomendaciones concretas  de acciones que los Estados deberían realizar para cumplir con el tratado en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this context, not only may they face human rights violations for their work as human rights defenders, but even more so because of their gender and the fact that their work may run counter to societal stereotypes about women’s submissive nature, or challenge notions of the society about the status of women&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053950Z" creationid="bitsofspace" creationdate="20160414T053950Z">
+        <seg>En este contexto, </seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2358,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T051230Z" creationid="bitsofspace" creationdate="20160412T050434Z">
         <seg>Una documentación breve puede, a veces, permitir a las defensoras tener acceso a apoyo urgente para abandonar un lugar o situación físicamente con el fin de cuidar su seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rapporteur concerns and recommendations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053810Z" creationid="bitsofspace" creationdate="20160414T053756Z">
+        <seg>la Relatoria Especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3023,8 +3055,8 @@ are connected to judicial or intergovernmental processes.</seg>
       <tuv lang="EN-US">
         <seg>The examples below show some of the breadth of Special</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053742Z" creationid="bitsofspace" creationdate="20160414T053742Z">
-        <seg>Los ejemplos a continuación muestran la amplitud de algunas de las prioridades de </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053807Z" creationid="bitsofspace" creationdate="20160414T053742Z">
+        <seg>Los ejemplos a continuación muestran la amplitud de algunas de las prioridades y recomendaciones de </seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,6 +4073,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052011Z" creationid="bitsofspace" creationdate="20160414T051817Z">
         <seg>El Estado Parte debe asegurar el derecho a la libertad de reunión y asociación </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[W]omen defenders may arouse more hostility than their male colleagues because as women</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053856Z" creationid="bitsofspace" creationdate="20160414T053856Z">
+        <seg>las defensoras de derechos humanos pueden suscitar más hostilidad que sus compañeros hombres porque</seg>
       </tuv>
     </tu>
     <tu>
