@@ -2341,8 +2341,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>See &lt;a0&gt;http://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050043Z" creationid="bitsofspace" creationdate="20160414T050043Z">
-        <seg>Véase &lt;a0&gt;http://www.ohchr.org/SP/ProfessionalInterest/Pages/CoreInstruments.aspx&lt;/a0&gt;</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050055Z" creationid="bitsofspace" creationdate="20160414T050043Z">
+        <seg>Véase &lt;a0&gt;http://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4049,6 +4049,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T053810Z" creationid="bitsofspace" creationdate="20160407T053810Z">
         <seg>puede ser utilizado por campañas mediáticas, cabildeo, presentaciones a iglesias y otros grupos religiosos o para cualquier otra estrategia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can reinforce the advocacy and and to be monitored for their compliance with it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050210Z" creationid="bitsofspace" creationdate="20160414T050210Z">
+        <seg>puede reforzar la defensa y promoción y ser monitoreados  por su conformidad a ello..</seg>
       </tuv>
     </tu>
     <tu>
