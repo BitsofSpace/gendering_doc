@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>..the contributions made by civil society, including non-governmental organizations and</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062123Z" creationid="bitsofspace" creationdate="20160414T062123Z">
+        <seg>..las contribuciones realizadas por la sociedad civil, incluyendo organizaciones no gubernamentales y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12 Goals.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133029Z" creationid="bitsofspace" creationdate="20160411T133029Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061933Z" creationid="bitsofspace" creationdate="20160414T061933Z">
         <seg>&lt;f0&gt;En 2014,&lt;/f0&gt; las "Conclusiones Acordadas" de la CSW incluía un texto a los Estados instando a: :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In 2015&lt;/f0&gt;, although the term “women human rights defenders” was not explicitly used, governments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062059Z" creationid="bitsofspace" creationdate="20160414T062059Z">
+        <seg>&lt;f0&gt;En 2015&lt;/f0&gt;, aunque el término "defensoras de derechos humanos" no se usaba explícitamente, los gobiernos </seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T050319Z" creationid="bitsofspace" creationdate="20160407T050319Z">
         <seg>La rendición de cuentas puede ser impuesta por medios no legales y mecanismos de justicia tradicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledge publicly the important and legitimate role of women human rights defenders in</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061950Z" creationid="bitsofspace" creationdate="20160414T061950Z">
+        <seg>Reconocer públicamente el rol importante y legítimo de las defensoras de derechos humanos en</seg>
       </tuv>
     </tu>
     <tu>
@@ -5257,6 +5281,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>take appropriate, robust and practical steps to protect them&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062032Z" creationid="bitsofspace" creationdate="20160414T062032Z">
+        <seg>toman pasos apropiados, robustos y prácticos para protegerlos&lt;/f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>technology to end violence against women.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031158Z" creationid="bitsofspace" creationdate="20160411T031158Z">
@@ -5269,6 +5301,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222203Z" creationid="bitsofspace" creationdate="20160413T222203Z">
         <seg>los tribunales nacionales suelen ser un lugar para enfocarse en responsabilidades indviduales, mientras que organismos regionales e internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the promotion and protection of human rights, democracy, the rule of law and development and</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062013Z" creationid="bitsofspace" creationdate="20160414T062013Z">
+        <seg>la promoción y protección de derechos humanos, democracia, el estado de derecho, el desarrollo y</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,6 +5412,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>welcomed:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062104Z" creationid="bitsofspace" creationdate="20160414T062104Z">
+        <seg>dieron la bienvenida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>well as the advocacy fact sheets)</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T060456Z" creationid="bitsofspace" creationdate="20160414T060456Z">
@@ -5432,6 +5480,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051355Z" creationid="bitsofspace" creationdate="20160414T051355Z">
         <seg>mujers que defienden derechos reproductivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>women’s and community-based organizations to the implementation of the Platform for Action,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T062225Z" creationid="bitsofspace" creationdate="20160414T062225Z">
+        <seg>organizaciones de mujeres y basadas en la comunidad en la implementación de la Plataforma para la Acción.</seg>
       </tuv>
     </tu>
     <tu>
