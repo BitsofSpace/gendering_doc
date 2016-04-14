@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>29 and 30.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052241Z" creationid="bitsofspace" creationdate="20160414T052241Z">
+        <seg>29 y 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;To become more secure, you must determine what you need to protect, and from&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035638Z" creationid="bitsofspace" creationdate="20160411T035638Z">
@@ -641,6 +649,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051122Z" creationid="bitsofspace" creationdate="20160414T051122Z">
         <seg>COMENTARIOS SOBRE EL COMITÉ CONTRA LA TORTURA (CAT) EN NICARAGUA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMMITTEE ON THE ELIMINATION OF ALL FORMS OF DISCRIMINATION AGAINST WOMEN (CEDAW)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052237Z" creationid="bitsofspace" creationdate="20160414T052237Z">
+        <seg>COMITÉ POR LA ELIMINACIÓN DE DISCRIMINACIÓN CONTRA TODAS LAS FORMAS DE DISCRIMINACIÓN CONTRA MUJERES(CEDAW)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3991,8 +4007,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>[T]he state party should ensure that the right to freedom of assembly and association is guaranteed to</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051817Z" creationid="bitsofspace" creationdate="20160414T051817Z">
-        <seg>El Estado parte</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052011Z" creationid="bitsofspace" creationdate="20160414T051817Z">
+        <seg>El Estado Parte debe asegurar el derecho a la libertad de reunión y asociación </seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,6 +4041,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T043806Z" creationid="bitsofspace" creationdate="20160412T043806Z">
         <seg>organismos de la O.N.U toman iniciativas para llamar atención sobre estas causas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all individuals without discrimination, and release immediately and unconditionally anyone held solely</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052059Z" creationid="bitsofspace" creationdate="20160414T052059Z">
+        <seg>a todos los individuos sin discriminación y liberar inmediatamente e incondicionalmente a cualquier persona detenida por</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,6 +4241,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102048Z" creationid="bitsofspace" creationdate="20160407T102048Z">
         <seg>expertos de la O.N.U expresaron hoy su consternación con respecto a la muerte de Cao Shunli en el hospital el 14 de marzo....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for the peaceful exercise of this right, including students, teachers, human rights defenders (including</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052125Z" creationid="bitsofspace" creationdate="20160414T052125Z">
+        <seg>el ejercicio pacífico de sus derechos, incluyendo estudiantes, profesores y profesoras, defensores y defensoras de derechos humanos (incluyendo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,6 +4904,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T051355Z" creationid="bitsofspace" creationdate="20160414T051355Z">
         <seg>mujers que defienden derechos reproductivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>women’s rights activists), lawyers and trade unionists....</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052207Z" creationid="bitsofspace" creationdate="20160414T052207Z">
+        <seg>activistas de derechos de las mujeres), abogadas y sindicalistas.</seg>
       </tuv>
     </tu>
     <tu>
