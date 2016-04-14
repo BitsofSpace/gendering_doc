@@ -87,3 +87,4 @@ concerns	intereses, inquietudes, prioridades
 reluctant	reacio
 crackdowns	represión
 push forward	impulsar, avanzar
+provisions	disposiciones
