@@ -93,3 +93,5 @@ treaty body	órgano de tratados
 abide	cumplir, atenerse
 findings	hallazgos
 alleged	supuestos
+instituted	establecido, fundado, introducido
+duly 	debidamente
