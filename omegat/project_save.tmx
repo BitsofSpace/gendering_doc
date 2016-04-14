@@ -601,8 +601,8 @@
       <tuv lang="EN-US">
         <seg>At the regional level, the Inter-American Commission (IACHR) and the African Commission also have special rapporteur systems.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130154Z" creationid="bitsofspace" creationdate="20160414T130154Z">
-        <seg>En un ámbito regional, la Comisión Inter-Americana (IACHR) y la Comisión Africana</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130226Z" creationid="bitsofspace" creationdate="20160414T130154Z">
+        <seg>En un ámbito regional, la Comisión Inter-Americana (IACHR) y la Comisión Africana también cuentan con sistemas de relatoría especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2963,6 +2963,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special procedures operate within the Office of the High Commissioner for Human Rights, under the Human Rights Council, to which they report annually; many report also to the General Assembly&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130446Z" creationid="bitsofspace" creationdate="20160414T130446Z">
+        <seg>Los procedimientos especiales operan dentro de la Oficina del Alto Comisionado de Derechos Humanos, bajo el paraguas del Consejo de Derechos Humanos, a quienes se les informa anualmente; muchas personas también informan a la Asamblea General.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start here:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062925Z" creationid="bitsofspace" creationdate="20160413T062925Z">
@@ -4793,6 +4801,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050210Z" creationid="bitsofspace" creationdate="20160414T050210Z">
         <seg>puede reforzar la defensa y promoción y ser monitoreados  por su conformidad a ello..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>comprised of people appointed through the U.N.’s Human Rights Council to report on abuses and advise on particular themes across regions, or on human rights conditions in specific countries&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130353Z" creationid="bitsofspace" creationdate="20160414T130353Z">
+        <seg>compuesto por personas designadas por el Consejo de la O.N.U de Derechos Humanos con el fin de informar sobre los abusos y dar consejo sobre temas particulares en diferentes regiones y países. &lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
