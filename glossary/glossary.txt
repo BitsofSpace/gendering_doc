@@ -97,3 +97,4 @@ instituted	establecido, fundado, introducido
 duly 	debidamente
 state party	Estado Parte
 trade unionists	sindicalistas
+breadth	amplitud
