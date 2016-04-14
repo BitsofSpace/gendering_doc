@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;&lt;f2&gt;T&lt;/f2&gt;hese are only two examples of this work:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T140227Z" creationid="bitsofspace" creationdate="20160414T140227Z">
+        <seg>&lt;s1/&gt;&lt;f2&gt;&lt;/f2&gt;Aquí exponemos sólo dos ejemplos de este trabajo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Although that right allows unhindered access to and communication with international bodies, it also implies national level obligations of States.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222015Z" creationid="bitsofspace" creationdate="20160413T222015Z">
@@ -701,6 +709,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T062842Z" creationid="bitsofspace" creationdate="20160413T062842Z">
         <seg>Construir relaciones en curso con integrantes de los tratados para ayudar a promocionar ciertos temas a </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But all special procedures are mandated to integrate a gender perspective into their research and reporting, so the priorities and documentation of and by WHRDs is particularly valuable—especially when there are discernible gaps in gender analysis or in addressing geopolitical contexts such as the rise in fundamentalisms, heteronormativity and patriarchy, globalization and neo-liberal policies, crises of governance and democracy and militarization.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T140103Z" creationid="bitsofspace" creationdate="20160414T140103Z">
+        <seg>Pero todos los procedimientos especiales tienen el mandato de integrar una perspectiva de género en su investigación y denuncia, por lo que las prioridades y la documentación de las defensoras de derechos humanos es especialmente valiosa—especialmente a la hora de abordar contextos geopolíticos como la emergencia de fundamentalismos, la heteronormatividad y el patriarcado, la globalización y las políticas neoliberales, las recesiones en gobernanza, democracia y militarización. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,6 +3528,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T054507Z" creationid="bitsofspace" creationdate="20160414T054507Z">
         <seg>La Relatora Especial expresa su apoyo total al trabajo localbe de las defensoras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Special Rapporteurs on Human Rights Defenders have produced reports that put forth a strong feminist analysis about women human rights defenders&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T140153Z" creationid="bitsofspace" creationdate="20160414T140153Z">
+        <seg>La Relatoría Especial en Defensoras y Defensoras de Derechos Humanos ha generado informes que ponen sobre la mesa un análisis feminista contundente sobre las defensoras.&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
