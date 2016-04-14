@@ -2339,6 +2339,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;a0&gt;http://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050043Z" creationid="bitsofspace" creationdate="20160414T050043Z">
+        <seg>Véase &lt;a0&gt;http://www.ohchr.org/SP/ProfessionalInterest/Pages/CoreInstruments.aspx&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Annex for additional resources on digital security.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T020952Z" creationid="bitsofspace" creationdate="20160411T020952Z">
@@ -2780,10 +2788,26 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The SPT has a “preventive mandate” and is also allowed to visit detention sites.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050020Z" creationid="bitsofspace" creationdate="20160414T050020Z">
+        <seg>La SPT tiene un "mandato preventivo" y también tiene permitido visitar sitios de detención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Secretary General of the United Nations, Ban Ki-Moon, was sent an urgent appeal about WHRDs in January 2015.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T123950Z" creationid="bitsofspace" creationdate="20160411T123950Z">
         <seg>La Secretaría General de las Naciones Unidas, Ban Ki-Moon fue mandado un llamamiento urgente sobre defensoras de derechos humanos en enero 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Subcommittee on the Prevention of Torture and other Cruel, Inhuman and Degrading Treatment or Punishment (SPT) is grounded in the analysis of the Convention Against Torture, as is the Committee Against Torture, but also focuses on the Optional Protocol to the Convention.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045957Z" creationid="bitsofspace" creationdate="20160414T045957Z">
+        <seg>El Subcomité del Prevención de Tortura y otros Tratos o Castigos Crueles, Inhumanos y Degradantes (SPT) se fundamenta en el análisis de la Convención contra la Tortura y el Comité contra la Tortura, a la vez que se enfoca en el Protocolo Opcional de la Convención.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4608,6 +4632,14 @@ Junto tratados y EPU porque ambas son de la ONU y para evitar redundancia. </not
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192532Z" creationid="bitsofspace" creationdate="20160331T182358Z">
         <seg>tratados y el Examen Periódico Universal de las Naciones Unidas (ONU), los "procedimientos especiales"^62,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>treaty, agree to be legally bound by its provisions,&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045836Z" creationid="bitsofspace" creationdate="20160414T045836Z">
+        <seg>tratado, acuerdan vincularse jurídicamente a las disposiciones</seg>
       </tuv>
     </tu>
     <tu>
