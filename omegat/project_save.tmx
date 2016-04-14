@@ -2618,6 +2618,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rapporteurs are called upon to protect the confidentiality of those submitting information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T133059Z" creationid="bitsofspace" creationdate="20160414T133059Z">
+        <seg>Se les exige a las y los relatores proteger la confidencialidad de las personas informantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rapporteurs conduct country visits, issue reports with recommendations and otherwise advise the Commission about specific petitions and cases.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043709Z" creationid="bitsofspace" creationdate="20160413T043709Z">
@@ -2931,6 +2939,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some rapporteurs have pre-designed online surveys or questionnaires to assist with the documentation process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T133034Z" creationid="bitsofspace" creationdate="20160414T133034Z">
+        <seg>Algunas relatoras y relatores pre-diseñan encuestas y formularios en línea para asistir el proceso de documentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some situations call for flexibility and modifying advocacy strategies as time passes and as circumstances change.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061939Z" creationid="bitsofspace" creationdate="20160407T061939Z">
@@ -2983,6 +2999,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130446Z" creationid="bitsofspace" creationdate="20160414T130446Z">
         <seg>Los procedimientos especiales operan dentro de la Oficina del Alto Comisionado de Derechos Humanos, bajo el paraguas del Consejo de Derechos Humanos, a quienes se les informa anualmente; muchas personas también informan a la Asamblea General.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special rapporteurs rely heavily on information sent to them by a variety of stakeholders; NGO documentation is critical to their reporting about specific cases or patterns of abuse.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T132943Z" creationid="bitsofspace" creationdate="20160414T132943Z">
+        <seg>Las y los relatores especiales dependen en gran medida de la información que les envían distintos agentes y partes interesantes sobre casos específicos o patrones de abuso.</seg>
       </tuv>
     </tu>
     <tu>
