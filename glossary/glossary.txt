@@ -101,3 +101,5 @@ breadth	amplitud
 commendable	locable
 underpinned	respaldada
 fact sheets	fichas
+pledged	comprometerse
+enabling environment 	entorno propicio
