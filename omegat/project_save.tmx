@@ -526,6 +526,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>gendered aquí lo interpreto como "sesgados por el género"</note>
+      <tuv lang="EN-US">
+        <seg>Before the 1990s, women did not consistently engage in these “gendered” spaces”; male activists had generally found these arenas more hospitable to their participation and priorities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045243Z" creationid="bitsofspace" creationdate="20160414T045243Z">
+        <seg>Antes de los 1990s, las mujeres no participaban de manera sistemática en estos espacios sesgados por diferencias de género; los activistas hombres se han acomodado a estos escenarios más hospitalarios para su participación y prioridades.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Beijing Fourth World Conference on Women (“The Beijing Conference”) to honour and pay tribute to women human rights defenders around the world&lt;t0/&gt;.</seg>
       </tuv>
@@ -1579,6 +1588,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191159Z" creationid="funga" creationdate="20160329T000823Z">
         <seg>En algunas situaciones, documentar ayuda a defensoras y defensores asegurar una representación legal, paso crítico y necesario en muchos casos para obtener resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following sections, brief descriptions of various international human rights mechanisms are described with the intention of encouraging women human rights defenders to use these systems—</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045452Z" creationid="bitsofspace" creationdate="20160414T045452Z">
+        <seg>En las siguientes secciones, se describen brevemente varios mecanismos de derechos humanos con la intención de animar a las defensoras a usar estos sistemas—</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3829,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yet, for the last three decades, women have broken through many of the barriers at the U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045311Z" creationid="bitsofspace" creationdate="20160414T045311Z">
+        <seg>Sin embargo, durante las últimas tres décadas, las mujeres han sobrepasado muchas barreras en las Naciones Unidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yet, where national systems fail, and when WHRDs want to highlight abuses on a regional or international stage, there can be great value in taking concerns beyond national borders.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031125Z" creationid="bitsofspace" creationdate="20160413T031125Z">
@@ -3872,6 +3897,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T222629Z" creationid="bitsofspace" creationdate="20160413T222629Z">
         <seg>Y aquí en muchos otras lenguas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and in regional arenas not only with great regularity, but also on the range of issues of great importance to women human rights defenders&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T045411Z" creationid="bitsofspace" creationdate="20160414T045411Z">
+        <seg>y contextos regionales, no sólo en la frecuencia de su participación, sino en el repertorio de temas que son de gran importancia para las defensoras de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
