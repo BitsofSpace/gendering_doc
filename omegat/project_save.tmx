@@ -3485,6 +3485,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Treaty bodies (or the monitoring Committees) meet &lt;f0&gt;a few times a year, and issue Concluding Observations (sometimes also called Concluding Comments) that address specific situations in countries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050710Z" creationid="bitsofspace" creationdate="20160414T050710Z">
+        <seg>Los órganos de tratados (o el comité que monitorea) se reunen varias veces al año y emiten Observaciones Concluyentes (también llamado "Comentarios Concluyentes") que abordan situaciones específicas en los países.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treaty bodies monitor States’ laws, policies and practices, and under certain conditions, can hear cases pertaining to individuals.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050609Z" creationid="bitsofspace" creationdate="20160414T050609Z">
