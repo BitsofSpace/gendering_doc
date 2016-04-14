@@ -92,3 +92,4 @@ compliance	cumplimiento, acuerdo, sumisión
 treaty body	órgano de tratados
 abide	cumplir, atenerse
 findings	hallazgos
+alleged	supuestos
