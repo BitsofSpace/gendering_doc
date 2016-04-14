@@ -105,3 +105,4 @@ pledged	comprometerse
 enabling environment 	entorno propicio
 appointed	designado, nombrado
 convene	convocar
+stakeholders	partes interesadas, agentes, actores
