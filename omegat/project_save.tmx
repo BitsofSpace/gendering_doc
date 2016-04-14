@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;The Guidelines sets out the EU’s roles and aspirations for working with</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061558Z" creationid="bitsofspace" creationdate="20160414T061558Z">
+        <seg>&lt;s1/&gt;Las Orientaciones esbozan los roles y aspiraciones de la UE para traajar con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;[Cao Shunli died a few weeks after she was transferred to the hospital.]</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T102750Z" creationid="bitsofspace" creationdate="20160407T102750Z">
@@ -3084,6 +3092,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The European Court of human rights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061630Z" creationid="bitsofspace" creationdate="20160414T061630Z">
+        <seg>El tribunal Europeo de derechos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The European Instrument for Democracy and Human Rights (EIDHR) has an emergency fund for human rights defenders.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055316Z" creationid="bitsofspace" creationdate="20160414T055316Z">
@@ -3385,6 +3401,22 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T234903Z" creationid="bitsofspace" creationdate="20160413T234903Z">
         <seg>La terminología y lenguaje de las recomendaciones de los organismos de la O.N.U, al igual que sus acciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main vehicle for protection of human rights defenders under the European human rights system is the EU Guidelines on Human Rights Defenders, which was adopted by the Council of the European Union (EU) in 2004&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061524Z" creationid="bitsofspace" creationdate="20160414T061524Z">
+        <seg>La vía principal para la protección de defensoras y defensores de derechos humanos en el sistema europeo de derechos humanos son las orinetaciones de la UE sobre defensoras y defensores de derechos humanos, el cual fue adoptado por el Consejo de la Unión Europea (UE) en 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The monitoring of the Convention is entrusted to the European Court of Human Rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061413Z" creationid="bitsofspace" creationdate="20160414T061413Z">
+        <seg>El monitoreo del Convenio es delegado a la Corte Europea de Derechos Humanos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3808,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T192118Z" creationid="bitsofspace" creationdate="20160331T182201Z">
         <seg>Esta sección aborda en detalle procesos de documentación e incidencia con los </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This system is based on the European Convention for the Protection of Human Rights and Fundamental Freedoms (the “European Convention”).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061354Z" creationid="bitsofspace" creationdate="20160414T061354Z">
+        <seg>Este sistema está basado en la Convención europea para la Protección de Derechos humanos y Libertades Fundamentales (la “Convención europea”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4689,6 +4729,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T063036Z" creationid="bitsofspace" creationdate="20160413T063036Z">
         <seg>http://www.ohchr.org/SP/HRBodies/Pages/TreatyBodies.aspx y http://olddoc.ishr.ch/hrm/tmb/simple_guide_to_treaty_bodies.pdf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human rights defenders and addresses practical means of assisting those at risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T061615Z" creationid="bitsofspace" creationdate="20160414T061615Z">
+        <seg>defensoras y defensores de derechos humanos y abordar medios prácticos para asistir aquellas personas en riesgo.</seg>
       </tuv>
     </tu>
     <tu>
