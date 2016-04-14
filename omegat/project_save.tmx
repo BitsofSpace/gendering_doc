@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>43 and 44.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055024Z" creationid="bitsofspace" creationdate="20160414T055024Z">
+        <seg>43 y 44.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;To become more secure, you must determine what you need to protect, and from&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035638Z" creationid="bitsofspace" creationdate="20160411T035638Z">
@@ -336,8 +344,8 @@
       <tuv lang="EN-US">
         <seg>Action to protect human rights defenders should be underpinned by comprehensive anti-discrimination laws and policies that offer effective legal and other protection against discrimination, including to those who experience multiple or intersectional discrimination.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055004Z" creationid="bitsofspace" creationdate="20160414T055004Z">
-        <seg>La acción con el fin de proteger defensores y defensoras de derechos humanos debe ser respaldada por leyes y políticas integrales y antidiscriminatorias que ofrezcan protección eficaz (incluyendo la legal) a las personas que han experimentado discriminación, también de manera múltiple o interseccional</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055008Z" creationid="bitsofspace" creationdate="20160414T055004Z">
+        <seg>Acción para proteger defensores de derechos humanos tendrían que ser underpinned por comprensibles anti-leyes de discriminación y políticas que la oferta eficaz legal y otra protección en contra discriminación, incluyendo a quienes experimentan múltiples o intersectional discriminación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1680,6 +1688,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular, every activity to strengthen the protection of human rights defenders should be examined for the different impact it may have depending on gender, and for its unintended impact in reinforcing stereotypes and patterns of exclusion&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055238Z" creationid="bitsofspace" creationdate="20160414T055238Z">
+        <seg>En particular, cada actividad que fortalezca la protección de defensoras y defensores de derechos humanos debe ser evaluado para dimensionar el impacto que puede tener según el género y el impacto indeseado de reforzar estereotipos y patrones de exclusión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In recent years, U.N.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T061500Z" creationid="bitsofspace" creationdate="20160413T061500Z">
@@ -2046,6 +2062,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="funga" changedate="20160329T000504Z" creationid="funga" creationdate="20160329T000504Z">
         <seg>Muchos usos de la documentación están dirigidos a generar resultados en ámbitos legales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measures to strengthen the protection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055015Z" creationid="bitsofspace" creationdate="20160414T055015Z">
+        <seg>Medidas para fortalecer la protección</seg>
       </tuv>
     </tu>
     <tu>
@@ -4660,6 +4684,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T051537Z" creationid="bitsofspace" creationdate="20160412T051537Z">
         <seg>obtener los hechos más básicos de un caso para que la defensora pueda acceder a apoyo sin demora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of human rights defenders and create a safe and enabling environment should be reflective of the specific needs of human rights defenders who face discrimination.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055107Z" creationid="bitsofspace" creationdate="20160414T055107Z">
+        <seg>de defensoras y defensores de derechos humanos y crear entorno seguro que invite a la reflexión de necesidades específicas de defensoras y defensores que enfrentan discriminación.</seg>
       </tuv>
     </tu>
     <tu>
