@@ -108,3 +108,4 @@ convene	convocar
 stakeholders	partes interesadas, agentes, actores
 allegation	denuncia
 hard-hitting	directo, enérgica, aguda, contundente
+cross-sector	transversal
