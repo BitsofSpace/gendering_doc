@@ -104,3 +104,4 @@ fact sheets	fichas
 pledged	comprometerse
 enabling environment 	entorno propicio
 appointed	designado, nombrado
+convene	convocar
