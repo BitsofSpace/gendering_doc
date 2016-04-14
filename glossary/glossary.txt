@@ -112,3 +112,5 @@ cross-sector	transversal
 treaty bodies	órganos de tratados
 holders	partidario
 boldness 	audacia
+Human Rights Defenders	Defensoras y Defensoras de Derechos Humanos
+tenure	mandato
