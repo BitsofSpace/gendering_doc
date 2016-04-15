@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Currently, there is no fully functional Asian human rights system, per se, although the ASEAN region is in a process toward developing one.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T064448Z" creationid="bitsofspace" creationdate="20160415T064448Z">
+        <seg>&lt;t0&gt;En la Actualdiad, no existe un sistema totalmente funcional en Asia de Derechos Humanos como tal, aunque la región asiática está en proceso de desarrollar uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;GenderIT.org, Survey on sexual activism, morality and the internet, available at http://www.genderit.org/articles/sur-&lt;/t0&gt;&lt;t1&gt;vey-sexual-activism-morality-and-internet; AWID, Our Right to Safety: Women Human Rights Defenders’ Holistic&lt;/t1&gt;&lt;t2&gt;Approach to Protection; p.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T033312Z" creationid="bitsofspace" creationdate="20160411T033312Z">
@@ -2372,6 +2380,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T225949Z" creationid="bitsofspace" creationdate="20160413T225949Z">
         <seg>Es también un compromiso a este nivel que puede fortalecer la incidencia, lucha y estrategias que las y los defensoras usan en el ámbito nacional. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also true that advances at the regional level create impact on the global level, thereby making this advocacy and the information it rests on even more impactful&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T064413Z" creationid="bitsofspace" creationdate="20160415T064413Z">
+        <seg>También es cierto que los avances en un ámbito regional crean impacto en el escenario internacional, lo que se traduce en que la incidencia y la información sobre la que respalda sea más impactante. &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
