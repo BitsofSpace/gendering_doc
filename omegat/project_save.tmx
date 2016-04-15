@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All three [women] activists have been detained or sentenced purely for their criticism of government</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044136Z" creationid="bitsofspace" creationdate="20160415T044136Z">
+        <seg>Las tres activistas han sido detenidades y sentenciadas por el mero hecho de criticar autoridades del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, since situations can change rapidly for defenders, including risks to security, it is vital that those documenting reassess circumstances at various times and remain in close communication with those whose experiences are being addressed.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T061844Z" creationid="bitsofspace" creationdate="20160407T061844Z">
@@ -2382,6 +2390,15 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T135633Z" creationid="bitsofspace" creationdate="20160414T135633Z">
         <seg>Margaret Sekaggya (abajo), abogada y académica de Uganda, se convirtió en Reportera Especial en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>¿Se refieren aquí que han estado constantemente o en la cárcel o en amenaza de ser detenidas?</note>
+      <tuv lang="EN-US">
+        <seg>Maryam and her sister, Zainab Al-Khawaja (who is also a women’s rights and social media activist), along with Ghada Jamsheer (the head of the Women’s Petition Committee, a group calling for reform of Bahrain’s family laws) have been either facing or in detention as a result of their human rights advocacy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044105Z" creationid="bitsofspace" creationdate="20160415T044105Z">
+        <seg>Maryam y su hermana, Zainab Al-Khawaja (también activista de derechos de las mujeres y medios de comunicación sociales), junto con Ghada Jamsheer (dirigente del Comité de Peticiones de las Mujeres, un grupo que convoca a la reforma de las leyes de familia de Bahrain) están enfrentando y han sido detenidas como resultado de su defensa y promoción de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,6 +5210,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224643Z" creationid="bitsofspace" creationdate="20160413T224643Z">
         <seg>inmediatas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>authorities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044138Z" creationid="bitsofspace" creationdate="20160415T044138Z">
+        <seg>gobierno.</seg>
       </tuv>
     </tu>
     <tu>
