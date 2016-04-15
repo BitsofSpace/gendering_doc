@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advocacy at this level can</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070918Z" creationid="bitsofspace" creationdate="20160415T070918Z">
+        <seg>La defensa y promoción en esta dimensión puede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advocates must continually think about the best strategy or forum to access, given our assessments of our objectives, capacity, expertise and the risks faced.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T060219Z" creationid="bitsofspace" creationdate="20160407T051934Z">
@@ -719,6 +727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At regional human rights bodies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070850Z" creationid="bitsofspace" creationdate="20160415T070850Z">
+        <seg>Órganos de derechos humanos regionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the United Nations (U.N.)</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T225725Z" creationid="bitsofspace" creationdate="20160413T225725Z">
@@ -731,6 +747,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130226Z" creationid="bitsofspace" creationdate="20160414T130154Z">
         <seg>En un ámbito regional, la Comisión Inter-Americana (IACHR) y la Comisión Africana también cuentan con sistemas de relatoría especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, regional systems are also sites where governments interact with and pressure one another, where State accountability is a central goal, and where the pace of advocacy and decision-making can be slow.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070835Z" creationid="bitsofspace" creationdate="20160415T070835Z">
+        <seg>En paralelo, los sistemas regionales también son lugares donde el gobierno interactúa con y se presionan entre sí, donde la rendición de cuentas de los Estados es una meta central y donde el ritmo de la incidencia y toma de decisiones puede ser lenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3159,6 +3183,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070713Z" creationid="bitsofspace" creationdate="20160415T070713Z">
         <seg>Los tribunales regionales y las comisiones regionales de monitoreo comparten funciones similares a los mecanismos globales .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regional systems are a bit of a hybrid between the domestic and the global.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070905Z" creationid="bitsofspace" creationdate="20160415T070905Z">
+        <seg>Los sistemas regionales son un poco híbridos entre los locales y globales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5722,6 +5754,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T054633Z" creationid="bitsofspace" creationdate="20160414T054633Z">
         <seg>aceptano uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>address individual cases (similar to a national court), have direct impact on national governments, and immediately reinforce domestic-level WHRD advocacy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071019Z" creationid="bitsofspace" creationdate="20160415T071019Z">
+        <seg>abordar casos individuales (similares a la tribunal nacional), tener impacto directo en gobiernos nacionales e inmediatamente reforzar incidencia local de las defensoras.</seg>
       </tuv>
     </tu>
     <tu>
