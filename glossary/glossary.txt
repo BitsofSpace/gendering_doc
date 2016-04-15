@@ -129,3 +129,4 @@ stake-holders	partes interesas, actores, accionistas
 oversees	supervisa
 circuitous	tortuoso
 circuitous	enrevesado
+treaty body Committees	órganos creados en virtud de tratados
