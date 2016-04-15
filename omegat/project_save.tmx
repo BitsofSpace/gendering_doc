@@ -5015,8 +5015,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>Three States are in the lead in directing this review and they oversee the production of an “outcome report” that contains a summary of the official session dialogue and recommendations for the State to implement.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T063558Z" creationid="bitsofspace" creationdate="20160415T063558Z">
-        <seg>Tres Estados encabezan la dirección de esta revisión y supervisan la producción de un "informe resultante" que contiene un resumen de la sesión oficial de diálogo y recomendaciones para que el Estado implemente.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071413Z" creationid="bitsofspace" creationdate="20160415T063558Z">
+        <seg>Tres Estados encabezan la dirección de esta revisión y supervisan la producción de un "informe final" que contiene un resumen de la sesión oficial de diálogo y recomendaciones para que el Estado implemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5258,6 +5258,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220003Z" creationid="bitsofspace" creationdate="20160413T220003Z">
         <seg>Las defensoras y la documentación sensible a temas de género ayuda a aligerar el paso de esta evolución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHRDs can also suggest strategic recommendations for use in the outcome report</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071405Z" creationid="bitsofspace" creationdate="20160415T071405Z">
+        <seg>Las defensoras pueden sugerir recomendaciones estratégicas para el informe final.</seg>
       </tuv>
     </tu>
     <tu>
