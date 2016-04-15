@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f1&gt;Each is a space where gender-sensitive human rights analysis must be created and strengthened.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070216Z" creationid="bitsofspace" creationdate="20160415T070216Z">
+        <seg>Cada uno es un espacio se debe crear y fortalecer análisis de derechos humanos con perspectiva de género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f2&gt;They argue that justice for women and WHRDs could or should include more than remedies from courts or judicial systems.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055137Z" creationid="bitsofspace" creationdate="20160407T043013Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043519Z" creationid="bitsofspace" creationdate="20160413T043519Z">
         <seg>&lt;f0&gt;Mecanismos especiales: &lt;/f0&gt;La Comisión tiene un sistema de mecanismos especiales que incluye relatoras y unidades vinculadas a países y temas determinados..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;he following sections give an overview of these advocacy sites and their relevance for WHRD attention.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070137Z" creationid="bitsofspace" creationdate="20160415T070137Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Las siguientes secciones dan una vista general de estos lugares de defensa y promoción y su relevancia para la atención de las defensoras de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3043,6 +3059,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Political Declaration, E/CN.6/2015/L.1, para 10.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070300Z" creationid="bitsofspace" creationdate="20160415T070300Z">
+        <seg>Declaración Política, E/CN.6/2015/L.1, para 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection can take many forms: it can be preventive and “future-based”, or designed to address</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T041015Z" creationid="bitsofspace" creationdate="20160407T040919Z">
@@ -5198,10 +5222,26 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WHRDs play a critical role in these processes, as we often work with ally governments to provide ideas</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070333Z" creationid="bitsofspace" creationdate="20160415T070333Z">
+        <seg>Las defensoras juegan un papel crítico en estos procesos, puesto que solemos trabajar con gobiernos aliados en brindar ideas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WHRDs’ documentation can make critical contributions to each component of the review: activists</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T051820Z" creationid="bitsofspace" creationdate="20160415T051820Z">
         <seg>La documentación de las defensoras de derechos humanos puede crear contribuciones críticas a cada componente de la evaluación: las y los activistas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHRDs’ documentation—and documentation of WHRDs’ experience—can help lay the foundation for these advances.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T070252Z" creationid="bitsofspace" creationdate="20160415T070252Z">
+        <seg>La documentación de las defensoras y sobre ellas ayuda a construir los cimientos de estos avances.</seg>
       </tuv>
     </tu>
     <tu>
