@@ -115,3 +115,5 @@ boldness 	audacia
 Human Rights Defenders	Defensoras y Defensoras de Derechos Humanos
 tenure	mandato
 reporting	denuncia
+highest domestic court	instancia nacional más alta
+issue advisory opinions	dictámenes consultivos
