@@ -117,3 +117,4 @@ tenure	mandato
 reporting	denuncia
 highest domestic court	instancia nacional más alta
 issue advisory opinions	dictámenes consultivos
+emergency protective orders	órdenes de protección de emergencia
