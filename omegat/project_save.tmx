@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Reports&lt;/f0&gt;: At its meetings, the Commission reviews the reports that each State is required to present every two years regarding the implementation of the rights and freedoms contained in the African Charter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054432Z" creationid="bitsofspace" creationdate="20160415T054432Z">
+        <seg>&lt;f0&gt;Informes&lt;/f0&gt;: At its meetings, the Commission reviews the reports that each State is required to present every two years regarding the implementation of the rights and freedoms contained in the African Charter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Special Mechanisms:&lt;/f0&gt;&lt;f1&gt; The Commission has a system of mechanisms that includes rapporteurs, working groups, Committees and a study group that monitor and investigate human rights concerns.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054214Z" creationid="bitsofspace" creationdate="20160415T054214Z">
@@ -1946,6 +1954,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T030843Z" creationid="bitsofspace" creationdate="20160413T030843Z">
         <seg>Además de brindar un resumen de este trabajo en dichos contextos, se ofrece información sobre por qué son útiles y cómo empezar a acceder a ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the previously noted Rapporteurs on defenders and on women in Africa, there are other special procedures that address a series of issues of importance to WHRDs.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054351Z" creationid="bitsofspace" creationdate="20160415T054351Z">
+        <seg>Además de las y los relatores sobre defensores y defensoras y mujeres en África, hay otros procedimientos especiales que abordan una serie de cuestiones de importancia para las defensoras de derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
