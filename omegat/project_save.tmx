@@ -3340,6 +3340,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See UPR Info for more information about UPR processes and how the UPR has addressed concerns of human rights defenders http://www.upr-info.org/IMG/pdf/IA_Human_Rights_Defenders_FactSheet_S1-5.pdf.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071756Z" creationid="bitsofspace" creationdate="20160415T071756Z">
+        <seg>Véase UPR Info para más detalles sobre los procesos de la UPR y cómo la UPR ha abordado estas cuestiones de defensores http://www.upr-info.org/IMG/pdf/IA_Human_Rights_Defenders_FactSheet_S1-5.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See http://www.ohchr.org/en/hrbodies/Pages/HumanRightsBodies.aspx</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T061201Z" creationid="bitsofspace" creationdate="20160413T061201Z">
@@ -6435,6 +6443,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T031143Z" creationid="bitsofspace" creationdate="20160411T031143Z">
         <seg>es un llamado a todas las personas, especialmente mujeres y niñas, a tomar el control sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>issues have featured prominently in questions posed to the States under review, comments made by other States, and recommendations made.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071723Z" creationid="bitsofspace" creationdate="20160415T071723Z">
+        <seg>cuestiones han destacado en las preguntas formuladas a los Estados bajo revisión, comentarios realizados por otros Estados y recomendaciones hechas.</seg>
       </tuv>
     </tu>
     <tu>
