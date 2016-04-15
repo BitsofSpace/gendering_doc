@@ -126,3 +126,4 @@ Joint statement	Declaración conjunta
 drop charges	retirar cargos
 State-driven	impulsado por el Estado
 stake-holders	partes interesas, actores, accionistas
+oversees	supervisa
