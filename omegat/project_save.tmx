@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Human Rights Council: States monitor one another’s human rights records and make recommendations to end violations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044803Z" creationid="bitsofspace" creationdate="20160415T044803Z">
+        <seg>del Consejo de Derechos Humanos: los Estados monitorean entre sí los registros de derechos humanos y formulan recomendaciones para erradicar violaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Human Rights Defenders in 2008.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T135657Z" creationid="bitsofspace" creationdate="20160414T135657Z">
@@ -2156,6 +2164,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T055234Z" creationid="bitsofspace" creationdate="20160413T055148Z">
         <seg>Atiende casos referidos por la Comisión si la anterior falla en resolverlos con sus propias deliberaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a State-driven, “peer review” process within the U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044709Z" creationid="bitsofspace" creationdate="20160415T044709Z">
+        <seg>Se trata de un proceso impulsado por el Estado, revisado entre pares, en el seno</seg>
       </tuv>
     </tu>
     <tu>
