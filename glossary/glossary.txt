@@ -128,3 +128,4 @@ State-driven	impulsado por el Estado
 stake-holders	partes interesas, actores, accionistas
 oversees	supervisa
 circuitous	tortuoso
+circuitous	enrevesado
