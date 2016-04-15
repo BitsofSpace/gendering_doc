@@ -4558,6 +4558,14 @@ are connected to judicial or intergovernmental processes.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The grant application process can be either formal or informal, depending on the organizations’ criteria or whether the grants are on an emergency basis.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T115913Z" creationid="bitsofspace" creationdate="20160415T115913Z">
+        <seg>El proceso de soliicitu de fondos puede ser tanto formal o informal, según el criterio de la organización o si el fondo es de emergencia o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hacking was not just a defacement, as some files were also destroyed and malicious code was installed (this is computer program code which is intended to damage the operating system and contents).</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T044501Z" creationid="bitsofspace" creationdate="20160411T044501Z">
@@ -7649,6 +7657,14 @@ United Nations to seek justice and accountability at national, regional and glob
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Pay for legal and medical fees</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T115758Z" creationid="bitsofspace" creationdate="20160415T115758Z">
+        <seg>• Pagar por gastos legales y médicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Provide safe transport to meetings or court hearings</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T055758Z" creationid="bitsofspace" creationdate="20160412T055758Z">
@@ -7661,6 +7677,22 @@ United Nations to seek justice and accountability at national, regional and glob
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T055650Z" creationid="bitsofspace" creationdate="20160412T055650Z">
         <seg>• Adquisición de equipo (radios, computadoras, celulares)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Support evacuations to safe houses</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T115811Z" creationid="bitsofspace" creationdate="20160415T115811Z">
+        <seg>• Apoyar evacuaciones a casa seguras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Support temporary relocation for WHRDs and their families to other cities or countries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T115832Z" creationid="bitsofspace" creationdate="20160415T115832Z">
+        <seg>•Apoyar reubicación temporal para defensoras y sus familias a otras ciudades o países</seg>
       </tuv>
     </tu>
     <tu>
