@@ -2842,6 +2842,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Research indicates that women’s empowerment initiatives derive legitimacy from accounts of history</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T041020Z" creationid="bitsofspace" creationdate="20160415T040844Z">
+        <seg>Campos de la investigación indican que las iniciativas de empoderamiento de las mujeres obtienen legitimidad de crónicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restrictions on civil society organizing are rampant in the global South and North, with one estimate revealing that since 2013, over 60 countries have passed or introduced legislation that limits NGO activity&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T094039Z" creationid="bitsofspace" creationdate="20160407T093931Z">
@@ -5197,6 +5205,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>commitments to gender equality.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T041115Z" creationid="bitsofspace" creationdate="20160415T041115Z">
+        <seg>con la equidad de género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>comprised of people appointed through the U.N.’s Human Rights Council to report on abuses and advise on particular themes across regions, or on human rights conditions in specific countries&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T130353Z" creationid="bitsofspace" creationdate="20160414T130353Z">
@@ -5329,6 +5345,15 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053700Z" creationid="bitsofspace" creationdate="20160414T053700Z">
         <seg>han articulado sobre las experiencias de las defensoras de derechos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>no entiendo bien la parte de "but equally State commitments to gender equality"</note>
+      <tuv lang="EN-US">
+        <seg>highlighting women’s contributions and challenges to the status quo and religion, but equally State</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T041057Z" creationid="bitsofspace" creationdate="20160415T041001Z">
+        <seg>subrayando las contribuciones de las mujeres y los desafíos al estatus quo y la religión, al igual que los compromisos del Estado</seg>
       </tuv>
     </tu>
     <tu>
