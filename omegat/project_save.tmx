@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;“&lt;/f0&gt;&lt;f1&gt;Communications”&lt;/f1&gt;&lt;f2&gt;: After local remedies have been used, or after a significant delay in process, the Commission can hear cases regarding State violations under the Charter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054942Z" creationid="bitsofspace" creationdate="20160415T054907Z">
+        <seg>&lt;f0&gt;“&lt;/f0&gt;&lt;f1&gt;Comunicaciones”&lt;/f1&gt;&lt;f2&gt;: una vez aplicada medios locales, o después de un retraso significativo en curso, la Comisión puede escuchar, en el marco de la Carta, casos relacionados a violaciones del Estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;photo footnote&gt; Cambodian WHRDs celebrate their court victory, June 2012.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054207Z" creationid="bitsofspace" creationdate="20160413T054207Z">
@@ -1430,6 +1438,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T124447Z" creationid="bitsofspace" creationdate="20160411T124447Z">
         <seg>Para más detalles sobre organizaciones que crean y distribuyen llamamientos sobre defensoras de derechos humanos, ouedes entrar en http://urgent-responses.awid.org/WHRD/urgent-appeals-international-solidarity-and-communication-strategies/ y también http://www.awid.org/publications/urgent-responses-women-human-rights-defenders-risk. Inmaculada Barcia, Asociación de Derechos de las Mujeres en Desarrollo y Coalición Internacioanl de Defensoras de Derechos Humanos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information about this process, see http://www.achpr.org/communications/procedure/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054758Z" creationid="bitsofspace" creationdate="20160415T054758Z">
+        <seg>Para más información sobre este proceso, véase http://www.achpr.org/communications/procedure/ </seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,6 +3537,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T054948Z" creationid="bitsofspace" creationdate="20160413T054948Z">
         <seg>La Comisión creó una Unidad en defensoras y defensores de derechos humanos en 2001. En 2011 se cambió a llamar Oficina de Relatoría en la Situación de Defensoras y Defensores de Derechos Humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Commission has issued recommendations to States found to be in violation of the &lt;t1/&gt;Charter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054745Z" creationid="bitsofspace" creationdate="20160415T054745Z">
+        <seg>La Comisión ha dictado recomendaciones a los Estados que han violado la &lt;t1/&gt;Carta.</seg>
       </tuv>
     </tu>
     <tu>
