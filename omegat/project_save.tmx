@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Special Mechanisms:&lt;/f0&gt;&lt;f1&gt; The Commission has a system of mechanisms that includes rapporteurs, working groups, Committees and a study group that monitor and investigate human rights concerns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054214Z" creationid="bitsofspace" creationdate="20160415T054214Z">
+        <seg>&lt;f0&gt;Mecanismos Especiales:&lt;/f0&gt;&lt;f1&gt; La Comisión tiene un sistema de mecanismos que incluye relatores y relatores, grupos de trabajo, comités y un grupo de estudio que monitorea e investiga problemáticas entorno a los derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Special mechanisms: &lt;/f0&gt;The Commission has a system of special mechanisms that include thematic and country rapporteurs, and Units.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T043519Z" creationid="bitsofspace" creationdate="20160413T043519Z">
@@ -3749,6 +3757,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Special Rapporteurs can create urgent appeals, conduct country visits, and meet with NGOs and individuals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054246Z" creationid="bitsofspace" creationdate="20160415T054246Z">
+        <seg>Las y los relatores especiales pueden crear solicitudes urgentes, dirigir visitas a países y reunirse con ONGs e individuos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Special Rapporteurs on Human Rights Defenders have produced reports that put forth a strong feminist analysis about women human rights defenders&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T140153Z" creationid="bitsofspace" creationdate="20160414T140153Z">
@@ -3761,6 +3777,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T135457Z" creationid="bitsofspace" creationdate="20160414T135457Z">
         <seg>La Relatoría Especial en los derechos de libertad de reunión y asociación pacífica, la libertad de opinión y expresión, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The State under review is expected to hold inclusive and wide-ranging national consultations prior to preparation of the official national report.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054111Z" creationid="bitsofspace" creationdate="20160415T054111Z">
+        <seg>El Estado bajo revisión </seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,6 +5458,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T050210Z" creationid="bitsofspace" creationdate="20160414T050210Z">
         <seg>puede reforzar la defensa y promoción y ser monitoreados  por su conformidad a ello..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can work with their governments to help shape the official State reports; they can submit their own NGO documentation as an official submission to OHCHR; and, in a more circuitous process, they can engage with treaty body Committees, other special procedures and governments as they form their analyses and recommendations, which can then be used in subsequent UPR reviews.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T054025Z" creationid="bitsofspace" creationdate="20160415T054025Z">
+        <seg>pueden trabajar en sus gobiernos para ayudar a moldear los informes oficiales del Estado; pueden enviar su propia documentación de ONG como un envío oficial a la OHCHR; y, en procesos más enrevesados, pueden colaborar con los órganos creados en virtud de tratados, otros procedimientos especiales y gobiernos conforme van dando forma a sus análisis y recomendaciones, los cuales pueden ser usados en siguientes revisiones de la UPR. </seg>
       </tuv>
     </tu>
     <tu>
