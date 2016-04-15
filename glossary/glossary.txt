@@ -136,3 +136,4 @@ brought before	interponer
 on the basis of	basándose en
 Ultimately	en última instancia
 intricate	complejo
+permutations	combinaciones
