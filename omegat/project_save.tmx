@@ -480,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>African NGOs, including WHRD groups recognised by the African Union, can also ask for advisory opinions before the Court.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060320Z" creationid="bitsofspace" creationdate="20160415T060320Z">
-        <seg>Las ONGs Africanas, incluyendo grupos de defensoras de derechos humanos del Sindicato Africano, pueden solicitar opiniones consultivas ante el Tribunal.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060650Z" creationid="bitsofspace" creationdate="20160415T060320Z">
+        <seg>Las ONGs Africanas, incluyendo grupos de defensoras de derechos humanos de la Unión Africana, pueden solicitar opiniones consultivas ante el Tribunal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1510,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T050430Z" creationid="bitsofspace" creationdate="20160413T050430Z">
         <seg>Para más información sobre la Relatoría, véase http://oas.org/en/iachr/defenders/default.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on the Special Rapporteur on Human Rights Defenders see http://www.achpr.org/mechanisms/human-rights-defenders/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060925Z" creationid="bitsofspace" creationdate="20160415T060925Z">
+        <seg>Para más información, véase Relatora Especial sobre Defensoras y Defensores de Derechos Humanos, véase http://www.achpr.org/mechanisms/human-rights-defenders/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3573,6 +3581,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The African Commission created a special rapporteur on</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060856Z" creationid="bitsofspace" creationdate="20160415T060856Z">
+        <seg>La Comisión Africana creó una relatora especial sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The African Commission is a group of eleven independent members that promotes and protects human</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T055249Z" creationid="bitsofspace" creationdate="20160415T055249Z">
@@ -3735,8 +3751,8 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       <tuv lang="EN-US">
         <seg>The Court was set up to strengthen compliance of African Union States their obligations under the African Charter on Human and Peoples’ Rights.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060622Z" creationid="bitsofspace" creationdate="20160415T060622Z">
-        <seg>Este Tribunal surge como manera de fortalecer el cumplimiento de los Estados</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060746Z" creationid="bitsofspace" creationdate="20160415T060622Z">
+        <seg>Este Tribunal surge como manera de fortalecer el cumplimiento de las obligaciones de los Estados Unidos Africanos en el marco de la Carta Africana de Derechos Humanos y de las Personas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3881,6 +3897,14 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T060834Z" creationid="bitsofspace" creationdate="20160414T060834Z">
         <seg>La Organización de Seguridad y Cooperación en Europa (OSCE) que se enfoca en temas de seguridad, en paralelo a los derechos humanos, crearon un Punto Focal para Defensores y Defensoras de Derechos Humanos e Instituciones Nacionales de Derechos Humanos en 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Protocol to the African Charter on Human and Peoples’ Rights on the Rights of Women in Africa (sometimes called the Maputo Protocol) is particularly significant in terms of WHRDs, as it uses the African Charter to delineate a series of gender-related human rights concerns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060842Z" creationid="bitsofspace" creationdate="20160415T060842Z">
+        <seg>El protocolo de la Carta (a veces llamado Protocolo Maputo) es particularmente significativo en términos de defensoras de derechos humanos ya que usa la Carta para delinear una serie de inquietudes y prioridades relacionadas con temas de género en los derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,6 +5922,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T025721Z" creationid="bitsofspace" creationdate="20160415T025721Z">
         <seg>defensores de derechos humanos y apoyar su trabajo de documentación, monitoreo y denuncia en torno a los derechos humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human rights defenders in 2004 and it also has a special rapporteur on the rights of women, which was established in 1998&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T060952Z" creationid="bitsofspace" creationdate="20160415T060952Z">
+        <seg>defensoras y defensoras de derechos humanos en 2004 y también tuvo una relatoría especial sobre los derechos de las mujeres, lo cual se estableció en 1998.</seg>
       </tuv>
     </tu>
     <tu>
