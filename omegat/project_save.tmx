@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As is true within any intergovernmental proceedings, governments don’t like to be criticized publicly by other governments, so many take the UPR seriously in order not to be “shamed” in front of others.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044848Z" creationid="bitsofspace" creationdate="20160415T044848Z">
+        <seg>Como aplica en cualquier procedimiento intergubernamental, a los gobiernos no le gusta ser criticados públicamente por otros gobiernos, así que muchos toman en serio la UPR para no ser "humillados" delante de los demás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As noted above, special rapporteurs also issue detailed annual reports and present these to the Council and/or the General Assembly for government discussion.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T133405Z" creationid="bitsofspace" creationdate="20160414T133405Z">
@@ -913,6 +921,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T054334Z" creationid="bitsofspace" creationdate="20160414T054334Z">
         <seg>Comentarios sobre Togo (2009)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commission on Human Rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T045019Z" creationid="bitsofspace" creationdate="20160415T045019Z">
+        <seg>Comisión de Derechos Humanos de la O.N.U.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,6 +3753,22 @@ Alternativa: 'incidencia para el cambio social, protección, justicia y rendici�
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T134432Z" creationid="bitsofspace" creationdate="20160413T134432Z">
         <seg>Las Naciones Unidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The UPR is a fairly new monitoring system, as the Council itself was established only in 2006, to replace the U.N.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T045009Z" creationid="bitsofspace" creationdate="20160415T045009Z">
+        <seg>La UPR es un sistema de monitoreo relativamente nuevo puesto que el Consejo en sí mismo fue establecido tan sólo en el 2006, buscando reemplazar a la </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The UPR is very much influenced by governments’ relationships with one another.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T044934Z" creationid="bitsofspace" creationdate="20160415T044901Z">
+        <seg>La UPR está muy influenciada por las relaciones entre los gobiernos.</seg>
       </tuv>
     </tu>
     <tu>
