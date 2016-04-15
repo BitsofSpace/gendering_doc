@@ -131,3 +131,4 @@ circuitous	tortuoso
 circuitous	enrevesado
 treaty body Committees	órganos creados en virtud de tratados
 African Charter	Carta Africana
+allegedly	supuestamente
