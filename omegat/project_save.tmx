@@ -1744,8 +1744,8 @@
       <tuv lang="EN-US">
         <seg>INDEPENDENT EXPERT ON CULTURAL RIGHTS (2012)</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T034653Z" creationid="bitsofspace" creationdate="20160415T034653Z">
-        <seg>EXPERTÍA INDEPENDIENTE EN DERECHOS CULTURALES (2012)</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T040541Z" creationid="bitsofspace" creationdate="20160415T034653Z">
+        <seg>EXPERTICIA INDEPENDIENTE EN DERECHOS CULTURALES (2012)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2060,6 +2060,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224424Z" creationid="bitsofspace" creationdate="20160413T224424Z">
         <seg>¿Existe un precedente exitoso en los tribunales sobre las cuestiones específicas que se están considerando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Issues of legitimacy are a concern of gender equality advocates and women’s rights movements.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T040722Z" creationid="bitsofspace" creationdate="20160415T040722Z">
+        <seg>Las cuestiones de legitimidad son una prioridad para defensores y defensoras de equidad de género y movimientos de derechos de las mujeres.</seg>
       </tuv>
     </tu>
     <tu>
