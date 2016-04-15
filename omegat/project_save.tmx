@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After months of work to develop the strongest and most comprehensive content on WHRDs, some ideas were lost in final stages of government negotiation due to interventions of conservative governments and the Holy See&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T073709Z" creationid="bitsofspace" creationdate="20160415T073709Z">
+        <seg>Tras meses de trabajar para desarrollar el contenido más contundente e integral de defensoras de derechos humanos, algunas ideas se perideron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After receiving information about a human rights situation, some rapporteurs may request meetings with NGOs while they are on country visits.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T134345Z" creationid="bitsofspace" creationdate="20160414T134345Z">
@@ -2587,8 +2595,8 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       <tuv lang="EN-US">
         <seg>Its adoption was by no means smooth.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T073615Z" creationid="bitsofspace" creationdate="20160415T073615Z">
-        <seg>Su adopción no ha sido suave</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160415T073630Z" creationid="bitsofspace" creationdate="20160415T073615Z">
+        <seg>Su adopción no ha sido suave.</seg>
       </tuv>
     </tu>
     <tu>
