@@ -2365,6 +2365,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In many situations, though, those that are creating documentation are not the people who are the actual subjects of harms.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132113Z" creationid="bitsofspace" creationdate="20160420T132113Z">
+        <seg>SIn embargo, en muchas situaciones, las personas que crean la documentación no son directametne las personas afectadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si es necesario ya a estas alturas, capítulo 5, la actividad de la WHRD, pero por si acaso se está tomando sólo el capítulo de referencia, lo especifico la primera vez que aparecen las siglas para después sólo hace referencia a éstas últimas.</note>
       <tuv lang="EN-US">
         <seg>In other situations, documentation of the experiences of WHRDs helps to challenge authorities who maintain their political, religious, familial or cultural control through invalidating or punishing activists—or women in general.</seg>
@@ -3790,6 +3798,14 @@ by and for civil society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T103837Z" creationid="bitsofspace" creationdate="20160407T103837Z">
         <seg>A veces, los procesos de defensa y promoción son revolucionarias en sus efectos, ¡pero agotadoras en sus detalles!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes people create a firsthand and first person account about violations that they have experienced.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132044Z" creationid="bitsofspace" creationdate="20160420T132044Z">
+        <seg>A veces crean relatos propios en primera persona sobre las violaciones que han vivido.</seg>
       </tuv>
     </tu>
     <tu>
