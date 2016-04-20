@@ -1341,6 +1341,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>No estoy segura de la traducción de esta frase.</note>
+      <tuv lang="EN-US">
+        <seg>Did it foster coalition advocacy?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133705Z" creationid="bitsofspace" creationdate="20160420T133705Z">
+        <seg>¿Fomentó la incidencia y defensa desde las coaliciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Did it motivate other beneficial activities?</seg>
       </tuv>
@@ -1980,6 +1989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have they been able to expand their linkages and alliances as a result of speaking out?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133823Z" creationid="bitsofspace" creationdate="20160420T133823Z">
+        <seg>¿Han sido capaces de expandir sus vínculos y alianzas fruto de hablar públicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He had argued that Atala being a lesbian put the health and development of the children at risk.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T031541Z" creationid="bitsofspace" creationdate="20160413T031535Z">
@@ -2524,6 +2541,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T061115Z" creationid="bitsofspace" creationdate="20160415T061115Z">
         <seg>En términos de la región del Medio Oriente/Norte de África, aunque la Liga Árabe existe desde 1945, ha  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In terms of the individual WHRDs, has the process made a difference in their lives?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133741Z" creationid="bitsofspace" creationdate="20160420T133741Z">
+        <seg>En el ámbito de las vidas individuales de las defensoras, ¿el proceso ha generado diferencias en sus vidas?</seg>
       </tuv>
     </tu>
     <tu>
