@@ -936,6 +936,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>CHAPTER 4: How to Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T054906Z" creationid="bitsofspace" creationdate="20160420T054906Z">
+        <seg>CAPÍTULO 4: Cómo documentar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>1. También "Utilizando la documentación"
 
 </note>
@@ -1395,6 +1403,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T064035Z" creationid="bitsofspace" creationdate="20160415T063916Z">
         <seg>Documentar violaciones a los derechos humanos y hacer que esta información sea accesible es crítico en términos de visiblizar las violaciones y crear avances en las interpretaciones de los estándares de derechos humanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documenting human rights violations experienced by WHRDs is an extremely sensitive area of our work, and one that must be conducted with the greatest care and with the full consent and preparation of those who are experiencing, bearing witness to or otherwise exposing violations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T055127Z" creationid="bitsofspace" creationdate="20160420T055127Z">
+        <seg>Documentar las vivencias de violación de derechos humanos de las defensoras es un campo de trabajo extremadamente sensible y debe ser dirigida con mucho cuidado y completo consentimiento, además de preparar a las personas que están viviendo o siendo personas testigo </seg>
       </tuv>
     </tu>
     <tu>
