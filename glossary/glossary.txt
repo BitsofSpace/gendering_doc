@@ -140,3 +140,5 @@ permutations	combinaciones
 garner	obtener, recoger
 account	relato
 record	testimonio
+Preclude	impedir, excluir
+foster	fomentar, promover, alentar
