@@ -139,3 +139,4 @@ intricate	complejo
 permutations	combinaciones
 garner	obtener, recoger
 account	relato
+record	testimonio
