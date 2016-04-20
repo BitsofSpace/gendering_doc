@@ -1462,6 +1462,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Documenting Dissent is a project based in Lancaster, England that documents the “heritage of dissent” in that city; there is also a focus on women’s activism that highlights individual women activists who</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134519Z" creationid="bitsofspace" creationdate="20160420T134519Z">
+        <seg>"Documentando la Disidencia" es un proyecto con sede en Lancaster, Inglaterra que documenta la "herencia de la disidencia" de la ciudad; también hay un enfoque sobre el activismo de las mujeres a través del cual se destacan mujeres activistas que </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>También se puede mantener 'statu quo'.</note>
       <tuv lang="EN-US">
         <seg>Documenting for human rights-related purposes implies that something is wrong, and the status quo is not good enough.</seg>
@@ -2625,6 +2633,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these cases, it will be important to ensure that the information collected includes detailed and forensic evidence that is acceptable in law, and in relation to duly legalized affidavits.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134739Z" creationid="bitsofspace" creationdate="20160420T134739Z">
+        <seg>En estos casos, es importante asegurar que la información recolectada incluya evidencia detallada y forense que sea aceptada por la ley y en relación con declaraciones juradas legalizadas debidamente..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these situations, WHRDs may be relocated in a matter of hours—after those involved have quickly</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T051314Z" creationid="bitsofspace" creationdate="20160412T051314Z">
@@ -3783,6 +3799,14 @@ by and for civil society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T071756Z" creationid="bitsofspace" creationdate="20160415T071756Z">
         <seg>Véase UPR Info para más detalles sobre los procesos de la UPR y cómo la UPR ha abordado estas cuestiones de defensores http://www.upr-info.org/IMG/pdf/IA_Human_Rights_Defenders_FactSheet_S1-5.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See http://www.documentingdissent.org.uk/?page_id=15221#readmore</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134547Z" creationid="bitsofspace" creationdate="20160420T134547Z">
+        <seg>Véase http://www.documentingdissent.org.uk/?page_id=15221#readmore</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,6 +6785,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T052125Z" creationid="bitsofspace" creationdate="20160414T052125Z">
         <seg>el ejercicio pacífico de sus derechos, incluyendo estudiantes, profesores y profesoras, defensores y defensoras de derechos humanos (incluyendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fought for women’s right to vote in the early 1900s.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134542Z" creationid="bitsofspace" creationdate="20160420T134542Z">
+        <seg>luchan por el derecho del voto de la mujer en los inicios de 1900s.</seg>
       </tuv>
     </tu>
     <tu>
