@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A group of sex workers in Bangladesh made the film When We Walk the Streets, which sensitively documented their day-to-day lives.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134104Z" creationid="bitsofspace" creationdate="20160420T134104Z">
+        <seg>Un grupo de trabajadoras sexuales de Bangladesh hicieron una película "Cuando andan las calles" que documento con mucha sensibilidad su cotidianeidad..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A recommendation from a U.N.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T183518Z" creationid="bitsofspace" creationdate="20160413T183518Z">
@@ -1949,6 +1957,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has anyone experienced additional harm?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133934Z" creationid="bitsofspace" creationdate="20160420T133921Z">
+        <seg>¿Alguien ha experimentado más agravios y daños?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has anything been gained?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133941Z" creationid="bitsofspace" creationdate="20160420T133941Z">
+        <seg>¿Se ha obtenido algo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has documentation been a part of a broader strategy of seeking accountability and redress?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133146Z" creationid="bitsofspace" creationdate="20160420T133146Z">
@@ -1989,10 +2013,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has their advocacy or sense of empowerment been strengthened?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134023Z" creationid="bitsofspace" creationdate="20160420T134023Z">
+        <seg>¿Se ha afianzado su incidencia o sentido de empoderamiento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have new initiatives been formed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133948Z" creationid="bitsofspace" creationdate="20160420T133948Z">
+        <seg>¿Se han generado nuevas iniciativas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have they been able to expand their linkages and alliances as a result of speaking out?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133823Z" creationid="bitsofspace" creationdate="20160420T133823Z">
-        <seg>¿Han sido capaces de expandir sus vínculos y alianzas fruto de hablar públicamente</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133830Z" creationid="bitsofspace" creationdate="20160420T133823Z">
+        <seg>¿Han sido capaces de expandir sus vínculos y alianzas fruto de hablar públicamente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2098,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041353Z" creationid="bitsofspace" creationdate="20160411T041256Z">
         <seg>Cómo malo es las consecuencias si acceden a ellos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How best can those lessons be shared with others?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133847Z" creationid="bitsofspace" creationdate="20160420T133847Z">
+        <seg>¿Cuál es la mejor manera de compartir esas lecciones con otras personas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5817,6 +5865,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052717Z" creationid="bitsofspace" creationdate="20160411T052717Z">
         <seg>¿Cuáles son las implicaciones de estas decisiones sobre el orden de prioridad de los ámbitos de trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What could have been done differently to ensure more beneficial outcomes?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133903Z" creationid="bitsofspace" creationdate="20160420T133903Z">
+        <seg>¿Qué se podría haber hecho de otra manera para asegurar más resultados beneficiosos?</seg>
       </tuv>
     </tu>
     <tu>
