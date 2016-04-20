@@ -143,3 +143,4 @@ record	testimonio
 Preclude	impedir, excluir
 foster	fomentar, promover, alentar
 affidavits	declaraciones juradas
+assertions	afirmación, alegación, aseveración
