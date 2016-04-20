@@ -1213,6 +1213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating and ensuring the availability of documentation can play a critical role in holding perpetrators accountable and in bringing them to justice through formal and informal means.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T055431Z" creationid="bitsofspace" creationdate="20160420T055431Z">
+        <seg>Crear y asegurar la disponibilidad de la documentación puede desempeñar un papel críticio a la hora de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cultural notions, family obligations and perceived vulnerability should never be used as grounds on</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T041242Z" creationid="bitsofspace" creationdate="20160415T041228Z">
@@ -1409,8 +1417,8 @@
       <tuv lang="EN-US">
         <seg>Documenting human rights violations experienced by WHRDs is an extremely sensitive area of our work, and one that must be conducted with the greatest care and with the full consent and preparation of those who are experiencing, bearing witness to or otherwise exposing violations.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T055127Z" creationid="bitsofspace" creationdate="20160420T055127Z">
-        <seg>Documentar las vivencias de violación de derechos humanos de las defensoras es un campo de trabajo extremadamente sensible y debe ser dirigida con mucho cuidado y completo consentimiento, además de preparar a las personas que están viviendo o siendo personas testigo </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T055210Z" creationid="bitsofspace" creationdate="20160420T055127Z">
+        <seg>Documentar las vivencias de violación de derechos humanos de las defensoras es un campo de trabajo extremadamente sensible y debe ser dirigida con mucho cuidado y completo consentimiento, además de preparar a las personas que están viviendo o siendo testigos de violaciones. </seg>
       </tuv>
     </tu>
     <tu>
