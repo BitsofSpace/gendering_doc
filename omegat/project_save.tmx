@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are the risks different when the documentation is made public?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132846Z" creationid="bitsofspace" creationdate="20160420T132846Z">
+        <seg>¿Los riesgos varían cuando la documentación se hace pública?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article 9 of the Declaration states that there is a right to have the complaint promptly reviewed in a public hearing before an independent, impartial and competent judicial or other authority.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220722Z" creationid="bitsofspace" creationdate="20160413T220722Z">
@@ -1924,10 +1932,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has documentation been a part of a broader strategy of seeking accountability and redress?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133146Z" creationid="bitsofspace" creationdate="20160420T133146Z">
+        <seg>¿La documentación ha formado parte de la estrategia más amplia de buscar rendición de cuentas y resarcimiento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has it generated other acts of resistance or policy change?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133024Z" creationid="bitsofspace" creationdate="20160420T133024Z">
+        <seg>¿Ha generado otros actos de resistencia o cambio de políticas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has it helped people to become aware of the violations experienced by WHRDs?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132959Z" creationid="bitsofspace" creationdate="20160420T132959Z">
+        <seg>¿Qué ayudo a las personas darse cuenta de las experiencias de violaciones vividas por las defensoras?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has it received in­ formation on women human rights defenders before?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095028Z" creationid="bitsofspace" creationdate="20160407T095028Z">
         <seg>¿Ha recibido alguna vez información sobre defensoras de derechos humanos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has it strengthened campaigning against abuses?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133011Z" creationid="bitsofspace" creationdate="20160420T133011Z">
+        <seg>¿Ha fortalecido la campaña contra los abusos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2033,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T041353Z" creationid="bitsofspace" creationdate="20160411T041256Z">
         <seg>Cómo malo es las consecuencias si acceden a ellos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How have existing power dynamics been altered and shifted as a consequence of having this information available in the public domain?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133125Z" creationid="bitsofspace" creationdate="20160420T133125Z">
+        <seg>¿Cuántas dinámicas de poder han sido alteradas y desplazadas como consecuencia de tener información disponible y a ccesible en el dominio público?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2588,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T060621Z" creationid="bitsofspace" creationdate="20160414T060621Z">
         <seg>Iniciativa internacional de Planificación Familiar y Derechos Sexuales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is telling the story as important as a political outcome?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133035Z" creationid="bitsofspace" creationdate="20160420T133035Z">
+        <seg>¿Contar una historia es importante como resultado político?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5888,6 +5944,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T040739Z" creationid="bitsofspace" creationdate="20160411T040739Z">
         <seg>¿De quiénes los quieres proteger?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133044Z" creationid="bitsofspace" creationdate="20160420T133044Z">
+        <seg>¿Por qué?</seg>
       </tuv>
     </tu>
     <tu>
