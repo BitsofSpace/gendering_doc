@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A risk assessment can and should happen, as necessary, at different stages in the process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040312Z" creationid="bitsofspace" creationdate="20160422T040312Z">
+        <seg>Un diagnóstico de riesgos puede y debe realizarse en diferentes etapas del proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION ALERTS OR URGENT APPEALS</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T052940Z" creationid="bitsofspace" creationdate="20160411T052940Z">
@@ -739,6 +747,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132846Z" creationid="bitsofspace" creationdate="20160420T132846Z">
         <seg>¿Los riesgos varían cuando la documentación se hace pública?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are there physical or electronic risks that must be considered?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040350Z" creationid="bitsofspace" creationdate="20160422T040350Z">
+        <seg>¿Existen riesgos físico o electrónicos a tomar en cuenta?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2890,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there sufficient support available for the people who are at risk?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040406Z" creationid="bitsofspace" creationdate="20160422T040406Z">
+        <seg>¿Hay suficiente apoyo para aquellas personas en riesgo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issues of legitimacy are a concern of gender equality advocates and women’s rights movements.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T040722Z" creationid="bitsofspace" creationdate="20160415T040722Z">
@@ -3406,6 +3430,14 @@ by and for civil society.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ON RISK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040253Z" creationid="bitsofspace" creationdate="20160422T040253Z">
+        <seg>EN RIESGO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, non-State actors are directly accountable, as well, through national and sometimes international criminal law.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T055719Z" creationid="bitsofspace" creationdate="20160407T045953Z">
@@ -3506,6 +3538,14 @@ by and for civil society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T051447Z" creationid="bitsofspace" creationdate="20160412T051447Z">
         <seg>Una vez que las defensoras estén en un lugar más seguro, se puede brindar servicios legales de emergencia u de otro tipo, con el propósito de ayudarlas continuar su activismo o simplemente reestablecer sus vidas cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once exposed, will perpetrators of the violations be immediately threatened, and will they try to retaliate?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040453Z" creationid="bitsofspace" creationdate="20160422T040453Z">
+        <seg>Una vez expuesto el caso, ¿l</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6326,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where and how is it safest for WHRDs to tell their stories?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040331Z" creationid="bitsofspace" creationdate="20160422T040331Z">
+        <seg>¿Cuándo y cómo es más seguro que las defensoras cuenten sus vivencias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where family and community members pose a risk, other people should be engaged to provide support.54 Allies in activist organizations and movements are among those who could be approached.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035535Z" creationid="bitsofspace" creationdate="20160422T035409Z">
@@ -6394,6 +6442,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224947Z" creationid="bitsofspace" creationdate="20160413T224947Z">
         <seg>¿Los medios nacionales van a cubrir el caso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will that support be available</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040418Z" creationid="bitsofspace" creationdate="20160422T040418Z">
+        <seg>¿Este apoyo va a estar disponible</seg>
       </tuv>
     </tu>
     <tu>
@@ -8022,6 +8078,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T053905Z" creationid="bitsofspace" creationdate="20160412T053905Z">
         <seg>que no sean los motivos centales de la documentación, es importante tener en mente que entre sus objetivas está construir redes, habilidades y reputación pública.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>through and after the documentation process?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040429Z" creationid="bitsofspace" creationdate="20160422T040429Z">
+        <seg>a lo largo y después del proceso de documentación?</seg>
       </tuv>
     </tu>
     <tu>
