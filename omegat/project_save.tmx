@@ -6343,6 +6343,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is the specific plan of action if any of the risks noted above become real?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043058Z" creationid="bitsofspace" creationdate="20160422T043058Z">
+        <seg>¿Cuál es la ruta de acción concreta si cualquiera de los riesgos mencionados se ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What kind of experiences have they had?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T095315Z" creationid="bitsofspace" creationdate="20160407T095315Z">
@@ -6502,11 +6510,28 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>Simplificación de frase</note>
+      <tuv lang="EN-US">
+        <seg>Who else is at risk if documentation gets into the wrong hands, or if defenders’ files and materials are taken?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042916Z" creationid="bitsofspace" creationdate="20160422T042916Z">
+        <seg>¿Quiénes más están en riesgo si la documentación, archivos y materiales caen en manos equivocadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133044Z" creationid="bitsofspace" creationdate="20160420T133044Z">
         <seg>¿Por qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will WHRDs be at heightened risk, or will their families or colleagues?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043030Z" creationid="bitsofspace" creationdate="20160422T043030Z">
+        <seg>¿Quién estará en mayor riesgo?¿Las defensoras de derechos humanos o sus familiares, compañeras y compañeros?</seg>
       </tuv>
     </tu>
     <tu>
