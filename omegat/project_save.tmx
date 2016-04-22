@@ -661,6 +661,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>También, como alternativa: "exigen, reclaman, necesitan..."</note>
+      <tuv lang="EN-US">
+        <seg>Alternatively, are they requiring a documentation process?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042729Z" creationid="bitsofspace" creationdate="20160422T042706Z">
+        <seg>¿Requieren de un proceso de documentación,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Alternatively, having international exposure can add a level of protection for WHRDs and our advocacy.</seg>
       </tuv>
@@ -6550,10 +6559,27 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will they oppose the process?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042621Z" creationid="bitsofspace" creationdate="20160422T042621Z">
+        <seg>¿O se opondrán?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Fusión de dos frases</note>
+      <tuv lang="EN-US">
+        <seg>Will they require use of specific human rights documentation systems, and if yes, what are the</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042754Z" creationid="bitsofspace" creationdate="20160422T042754Z">
+        <seg>el uso de sistemas específicos de derechos humanos y, si fuera así, cuáles son las</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Will those who fund the organization support the documentation process, financially and otherwise?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042529Z" creationid="bitsofspace" creationdate="20160422T042529Z">
-        <seg>¿</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042614Z" creationid="bitsofspace" creationdate="20160422T042529Z">
+        <seg>¿Los financiadores de la organización también apoyarán el proceso de documentación, tanto en términos económicos como en otro sentidos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,6 +7468,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T184005Z" creationid="bitsofspace" creationdate="20160413T184005Z">
         <seg>implementación a través de incidencia local y tácticas de campaña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>implications, advantages and disadvantages of those?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042811Z" creationid="bitsofspace" creationdate="20160422T042811Z">
+        <seg>implicaciones, ventajas y desventajas de todo ello?</seg>
       </tuv>
     </tu>
     <tu>
