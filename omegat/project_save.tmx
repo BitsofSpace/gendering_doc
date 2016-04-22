@@ -6343,10 +6343,18 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is the protection plan if risks to physical security are potentially imminent?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043200Z" creationid="bitsofspace" creationdate="20160422T043200Z">
+        <seg>¿Cuál es el protocolo de protección si los riesgos hacia la integridad física son potenciales inminentes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is the specific plan of action if any of the risks noted above become real?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043058Z" creationid="bitsofspace" creationdate="20160422T043058Z">
-        <seg>¿Cuál es la ruta de acción concreta si cualquiera de los riesgos mencionados se ?</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043128Z" creationid="bitsofspace" creationdate="20160422T043058Z">
+        <seg>¿Cuál es la ruta de acción concreta si cualquiera de los riesgos mencionados se hacen realidad?</seg>
       </tuv>
     </tu>
     <tu>
