@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activists in South Africa protest violence against women.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044037Z" creationid="bitsofspace" creationdate="20160422T044037Z">
+        <seg>Activstas en Sudáfrica protestan contra la violencia de género.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activists must ask, among other questions:</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T224246Z" creationid="bitsofspace" creationdate="20160413T224246Z">
@@ -2268,6 +2276,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133847Z" creationid="bitsofspace" creationdate="20160420T133847Z">
         <seg>¿Cuál es la mejor manera de compartir esas lecciones con otras personas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can we define the political or social impact of “telling the story?” Has the documentation, or the</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044050Z" creationid="bitsofspace" creationdate="20160422T044011Z">
+        <seg>¿Cómo definimos el impacto político o social de "contar una historia"? La documentación o lsa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6343,6 +6359,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What does this empowerment look like, either for individuals or groups?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043943Z" creationid="bitsofspace" creationdate="20160422T043943Z">
+        <seg>¿Qué forma toma este empoderamiento, tanto para personas individuales como colectivamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What does this mean for the process as well as the content of documentation?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T134924Z" creationid="bitsofspace" creationdate="20160420T134924Z">
@@ -7408,11 +7432,12 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>Dudas de esta traducción</note>
       <tuv lang="EN-US">
         <seg>have been victims and survivors of violations as well as others in related communities, what do we mean?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043745Z" creationid="bitsofspace" creationdate="20160422T043745Z">
-        <seg>han sido víctimas y sobrevivientes de violaciones, al igual que otras personas en comunidades </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T043929Z" creationid="bitsofspace" creationdate="20160422T043745Z">
+        <seg>han sido víctimas y sobrevivientes de violaciones, al igual que otras personas en comunidades afines, a qué nos referimos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7703,6 +7728,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T041817Z" creationid="bitsofspace" creationdate="20160413T041817Z">
         <seg>los problemas de derechos humanos más relevantes e incluye recomendaciones para abordarlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>narrative that was shared within it, meant something to the community at large, including at local and</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044045Z" creationid="bitsofspace" creationdate="20160422T044045Z">
+        <seg>narrativas</seg>
       </tuv>
     </tu>
     <tu>
