@@ -533,6 +533,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>O "violencia hacia las mujeres"</note>
       <tuv lang="EN-US">
         <seg>Activists in South Africa protest violence against women.</seg>
       </tuv>
@@ -2282,8 +2283,8 @@
       <tuv lang="EN-US">
         <seg>How can we define the political or social impact of “telling the story?” Has the documentation, or the</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044050Z" creationid="bitsofspace" creationdate="20160422T044011Z">
-        <seg>¿Cómo definimos el impacto político o social de "contar una historia"? La documentación o lsa</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044123Z" creationid="bitsofspace" creationdate="20160422T044011Z">
+        <seg>¿Cómo definimos el impacto político o social de "contar una historia"? La documentación o las</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,8 +7735,8 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       <tuv lang="EN-US">
         <seg>narrative that was shared within it, meant something to the community at large, including at local and</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044045Z" creationid="bitsofspace" creationdate="20160422T044045Z">
-        <seg>narrativas</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044214Z" creationid="bitsofspace" creationdate="20160422T044045Z">
+        <seg>narrativas compartidas tomaron significado en la comunidad, a un nivel amplio, local</seg>
       </tuv>
     </tu>
     <tu>
@@ -7753,6 +7754,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T060019Z" creationid="bitsofspace" creationdate="20160412T060019Z">
         <seg>sistemas legales nacionales y oros sistemas, mecanismos y organismos que existen a escala regional e internacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>national levels?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044229Z" creationid="bitsofspace" creationdate="20160422T044229Z">
+        <seg>o nacional?</seg>
       </tuv>
     </tu>
     <tu>
