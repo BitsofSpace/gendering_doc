@@ -680,6 +680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agreement should be reached among all relevant parties regarding methods and methodologies for guaranteeing security of the information gathered, as well as for all those involved in the process including the documenters, the victims/survivors and other testifiers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T222739Z" creationid="bitsofspace" creationdate="20160422T222739Z">
+        <seg>Alcanzar acuerdos entre las partes relevantes sobre metodologías que aseguren tanto la información recopilada como las personas implicadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of these can add layers of protection to defenders at risk.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T053938Z" creationid="bitsofspace" creationdate="20160412T053938Z">
