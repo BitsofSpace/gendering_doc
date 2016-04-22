@@ -2740,6 +2740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In certain circumstances, more than one form of documentation may be useful or necessary to achieve certain outcomes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T052546Z" creationid="bitsofspace" creationdate="20160422T052546Z">
+        <seg>En determinadas circunstancias, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In certain situations when greater levels of confidentiality are needed, rapporteurs may meet individually with activists.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T134607Z" creationid="bitsofspace" creationdate="20160414T134607Z">
