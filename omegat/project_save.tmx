@@ -1160,6 +1160,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Care must be taken to explain and be clear within the documentation if confusion may arise from the use of certain terms or in translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T054049Z" creationid="bitsofspace" creationdate="20160422T054049Z">
+        <seg>Se debe tomar cuidado en explicar y ser claros </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No sé si "endogámico" es un término fuerte </note>
       <tuv lang="EN-US">
         <seg>Care must be taken to listen carefully to the terms the defenders embrace, with attention paid to slang and the possibility of conflicts between “insider language” and how terms may be perceived externally.</seg>
@@ -3684,8 +3692,8 @@ by and for civil society.</seg>
       <tuv lang="EN-US">
         <seg>On the other hand, offensive language may be used by some defenders about others.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T053843Z" creationid="bitsofspace" creationdate="20160422T053843Z">
-        <seg>Por otro lado, </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T054041Z" creationid="bitsofspace" creationdate="20160422T053843Z">
+        <seg>Por otro lado, el lenguaje ofensivo puede ser esgrimado por unas persona defensoras hacia otras.</seg>
       </tuv>
     </tu>
     <tu>
