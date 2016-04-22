@@ -405,6 +405,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>¿ser</note>
+      <tuv lang="EN-US">
+        <seg>A format for the documentation (written/audio/audiovisual/digital) should be developed and designed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T051824Z" creationid="bitsofspace" creationdate="20160422T051824Z">
+        <seg>El diseño y desarrollo de la documentación (escrita/audio-visual/digital) se debe construir de manera consultiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>A good place to start is by doing what is called a “Threat Modeling” process.</seg>
       </tuv>
