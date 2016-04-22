@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>59 Translation of terms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T050246Z" creationid="bitsofspace" creationdate="20160422T050246Z">
+        <seg>59 Traducción de términos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;To become more secure, you must determine what you need to protect, and from&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T035638Z" creationid="bitsofspace" creationdate="20160411T035638Z">
@@ -1143,11 +1151,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>No sé si "endogámico" es un término fuerte </note>
       <tuv lang="EN-US">
         <seg>Care must be taken to listen carefully to the terms the defenders embrace, with attention paid to slang and the possibility of conflicts between “insider language” and how terms may be perceived externally.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044755Z" creationid="bitsofspace" creationdate="20160422T044755Z">
-        <seg>Se debe tomar cuidado para escuchar los términos empleados por las personas defensoras, evitando la jerga y conflictos posibles de ".</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T050239Z" creationid="bitsofspace" creationdate="20160422T044755Z">
+        <seg>Se debe tomar cuidado para escuchar los términos empleados por las personas defensoras, evitando la jerga y conflictos posibles de "lenguajes más endogámicos" y cómo se pueden percibir desde afuera.</seg>
       </tuv>
     </tu>
     <tu>
