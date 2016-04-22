@@ -2790,8 +2790,8 @@
       <tuv lang="EN-US">
         <seg>In designing the format for documentation, those engaged in the process should keep in mind that many prevailing methods and existing “standard formats” are framed around the norm of experiences of male human rights defenders, and therefore focus on certain kinds of violations that occur in certain kinds of places.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T064508Z" creationid="bitsofspace" creationdate="20160422T063923Z">
-        <seg>A la hora de diseñar el formato de la documentación, aquellas personas comprometidas en el proceso deben tomar en cuenta que muchos métodos predominantes y "formatos estándares" existentesson enmarcados alrededor del cánon de experiencias de defensores hombres de derechos humanos y, por lo tanto, se centran en determinados tipos de violaciones que ocurren en ciertos tipos de lugares.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T064642Z" creationid="bitsofspace" creationdate="20160422T063923Z">
+        <seg>A la hora de diseñar el formato de la documentación, aquellas personas comprometidas en el proceso deben tomar en cuenta que muchos métodos predominantes y "formatos estándares" existentes son enmarcados alrededor del cánon de experiencias de defensores hombres de derechos humanos y, por lo tanto, se centran en determinados tipos de violaciones que ocurren en ciertos tipos de lugares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6609,6 +6609,15 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T133316Z" creationid="bitsofspace" creationdate="20160414T133316Z">
         <seg>Cuando reciben información sobre situaciones de derechos humanos, pueden dictar llamamientos immediatos a los gobiernos para intervenir ("solicitudes urgentes" o "cartas de denuncia")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"these" aquí es...¿qué?</note>
+      <tuv lang="EN-US">
+        <seg>When these are used as a documentation basis for WHRDs, they should be built upon and transformed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T064804Z" creationid="bitsofspace" creationdate="20160422T064543Z">
+        <seg>Cuando éstos son empleados como cimiento de la documentación para defensoras, debe ser  </seg>
       </tuv>
     </tu>
     <tu>
