@@ -1309,6 +1309,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Databases and the transmission of information about WHRDs should be secure, and copies of materials should be made if they are to be sent anywhere or given to others.55</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035704Z" creationid="bitsofspace" creationdate="20160422T035704Z">
+        <seg>Las bases de dato y la transmisión de información sobre las defensoras debe estar asegurada, con copias repartidas en puntos de confianza. 55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deciding what to do with documentation</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T051347Z" creationid="bitsofspace" creationdate="20160407T051347Z">
@@ -1507,6 +1515,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160411T133936Z" creationid="bitsofspace" creationdate="20160411T133936Z">
         <seg>Documentar la campaña en si también es útiil para los activismos que buscan narrar la historia de su movimiento social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documenters should be able to protect the information they collect and should be skilled in methods of ensuring its safety and security.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035605Z" creationid="bitsofspace" creationdate="20160422T035605Z">
+        <seg>Las personas que documentan deben poder proteger la información que recolectan y tener habilidades en los métodos que puedan asegurarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,6 +5652,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is important for all stages of the documentation process, including in those before the documentation is released as a “final product”.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035628Z" creationid="bitsofspace" creationdate="20160422T035628Z">
+        <seg>Ésto es importante en todas las etapas del proceso de documentación, incluyendo aquellas antes del lanzamiento de la documentación como "resultado final".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is true for issues such as the death penalty, military occupation, crackdowns on NGO activism, torture and patterns of assaults against women in times of conflict, as &lt;t1/&gt;just some examples.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T233839Z" creationid="bitsofspace" creationdate="20160413T233839Z">
@@ -6199,8 +6223,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>Where family and community members pose a risk, other people should be engaged to provide support.54 Allies in activist organizations and movements are among those who could be approached.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035409Z" creationid="bitsofspace" creationdate="20160422T035409Z">
-        <seg>Cuando l</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035535Z" creationid="bitsofspace" creationdate="20160422T035409Z">
+        <seg>Cuando las integrantes de la familia y la comunidad suponen un riesgo, las demás personas deben comprometerse a brindar apoyo.54. Las personas aliadas de las organizaciones y los movimientos activistas forman parte de este círculo. </seg>
       </tuv>
     </tu>
     <tu>
