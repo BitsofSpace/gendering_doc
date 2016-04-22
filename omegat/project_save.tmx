@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Will WHRDs be at heightened risk, or will their &lt;/f0&gt;&lt;f1&gt;f&lt;/f1&gt;&lt;f2&gt;amilies or colleagues?&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041928Z" creationid="bitsofspace" creationdate="20160422T041928Z">
+        <seg>&lt;f0&gt;¿Quién estará en mayor riesgo?¿Las defensoras de derechos humanos o &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;sus familiares, compañeras y compañeros?&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;human rights defenders they may defy cultural, religious or social norms about femininity and the role of women in a particular country or society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053946Z" creationid="bitsofspace" creationdate="20160414T053946Z">
@@ -3614,6 +3622,14 @@ by and for civil society.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or will they fear exposure?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042012Z" creationid="bitsofspace" creationdate="20160422T042006Z">
+        <seg>¿O temerán ser expuestas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other European bodies</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T060719Z" creationid="bitsofspace" creationdate="20160414T060719Z">
@@ -6474,6 +6490,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041628Z" creationid="bitsofspace" creationdate="20160422T041120Z">
         <seg>¿Las personas que forman parte de la familia y la comunidad brindarán apoyo o representarán abusos adicionales? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will other defenders provide a sense of community and protection?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042001Z" creationid="bitsofspace" creationdate="20160422T042001Z">
+        <seg>¿Las demás personas defensoras ofrecerán un sentido de comunidad y protección?</seg>
       </tuv>
     </tu>
     <tu>
