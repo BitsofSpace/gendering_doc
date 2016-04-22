@@ -2295,6 +2295,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How will the government respond once the story is made public?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041014Z" creationid="bitsofspace" creationdate="20160422T041014Z">
+        <seg>¿O responderá una vez que el caso se hace público?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040955Z" creationid="bitsofspace" creationdate="20160422T040955Z">
+        <seg>¿Cómo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, in most situations, the violations addressed must take into account national laws &lt;f0&gt;and regional human rights instruments.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160415T063747Z" creationid="bitsofspace" creationdate="20160415T063747Z">
@@ -2854,6 +2870,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132817Z" creationid="bitsofspace" creationdate="20160420T132817Z">
         <seg>¿El análisis de abusos cambia cuando los "sujetos" de la documentación son personas defensoras?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the government implicated?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041000Z" creationid="bitsofspace" creationdate="20160422T041000Z">
+        <seg>¿El gobierno está implicado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,8 +3568,8 @@ by and for civil society.</seg>
       <tuv lang="EN-US">
         <seg>Once exposed, will perpetrators of the violations be immediately threatened, and will they try to retaliate?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040453Z" creationid="bitsofspace" creationdate="20160422T040453Z">
-        <seg>Una vez expuesto el caso, ¿l</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040951Z" creationid="bitsofspace" creationdate="20160422T040453Z">
+        <seg>Una vez expuesto el caso, ¿tomarán represalías los perpetradores de las violaciones o serán inmediatamente amenazados?</seg>
       </tuv>
     </tu>
     <tu>
