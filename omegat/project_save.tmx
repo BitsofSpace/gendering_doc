@@ -2472,6 +2472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If yes, by whom?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042224Z" creationid="bitsofspace" creationdate="20160422T042224Z">
+        <seg>Si fuera así. ¿por quiénes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If yes, how?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132831Z" creationid="bitsofspace" creationdate="20160420T132831Z">
@@ -6350,6 +6358,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What will it cost financially to engage in a proper documentation process?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042331Z" creationid="bitsofspace" creationdate="20160422T042331Z">
+        <seg>¿Cuáles son los costes económicos que implica participar en un proceso de documentación adecuado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What will the expected political ramifications be—threats to confidentiality?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T225233Z" creationid="bitsofspace" creationdate="20160413T225118Z">
@@ -6474,6 +6490,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T133044Z" creationid="bitsofspace" creationdate="20160420T133044Z">
         <seg>¿Por qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will WHRDs be pressured to suppress the info&lt;f0&gt;r&lt;/f0&gt;mation about the abuses, or to drop their cases, if there is a legal action as a result?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042218Z" creationid="bitsofspace" creationdate="20160422T042218Z">
+        <seg>¿Se sentirán presionadas en acallar la información&lt;f0&gt;&lt;/f0&gt;sobre los abusos o soltar su caso si se toman acciones legales?</seg>
       </tuv>
     </tu>
     <tu>
