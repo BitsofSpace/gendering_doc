@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A decision to obtain documentation about a specific violation or a range of violations of rights of women human rights defenders will most often be taken by an organisation working on social justice, women’s human rights or general human rights issues, in a context in which any or all of the below are possible:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200401Z" creationid="bitsofspace" creationdate="20160422T200401Z">
+        <seg>Generalmente la decisión de obtener documentación sobre una violación específica o un repertorio de violaciones de defensoras de derechos humanos se toma por una organización que trabaja en justicia social, derechos de las mujeres o en general derechos humanos, en el contexto donde cualquiera de estos puntos sucede:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dispute resolution process should be agreed upon at the very outset of the process of documentation to ensure a system is in place in case of conflict.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T191715Z" creationid="bitsofspace" creationdate="20160422T191636Z">
@@ -5754,6 +5762,22 @@ are connected to judicial or intergovernmental processes.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044352Z" creationid="bitsofspace" creationdate="20160422T044352Z">
         <seg>Los términos y el vocabulario empleados en la recopilación y presentación de una información relacionada con violaciones debe ser consensuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The violation is one of a series that reveals a pattern or systematic violations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200448Z" creationid="bitsofspace" creationdate="20160422T200448Z">
+        <seg>La violación forma parte de toda una serie de violaciones que revela un patrón y sistematicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The violation is severe enough to consider recording details</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200418Z" creationid="bitsofspace" creationdate="20160422T200418Z">
+        <seg>La violación es suficientemente severa como para considerar registrar los detalles</seg>
       </tuv>
     </tu>
     <tu>
