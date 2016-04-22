@@ -936,6 +936,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>No sé si hay que traducir ésto</note>
+      <tuv lang="EN-US">
+        <seg>Boulder, CO: Paradigm.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035903Z" creationid="bitsofspace" creationdate="20160422T035903Z">
+        <seg>Boulder, CO: Paradigma.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Build ongoing relationships with treaty body members to help promote certain themes over</seg>
       </tuv>
@@ -2383,6 +2392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If family members pose risk, documenters must undertake additional assessments about security.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040013Z" creationid="bitsofspace" creationdate="20160422T040013Z">
+        <seg>Si los familiares suponen un riegso, las personas que documentan deben emprender un diagnóstico complementario de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If possible, work collaboratively with your own government to call attention to specific human</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T055705Z" creationid="bitsofspace" creationdate="20160414T055630Z">
@@ -2669,6 +2686,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160331T191159Z" creationid="funga" creationdate="20160329T000823Z">
         <seg>En algunas situaciones, documentar ayuda a defensoras y defensores asegurar una representación legal, paso crítico y necesario en muchos casos para obtener resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some situations, it is family and immediate community members who may have perpetrated the abuses being documented.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035941Z" creationid="bitsofspace" creationdate="20160422T035941Z">
+        <seg>En algunas situaciones, es la propia familia y miembros cercanos de la comunidad quienes perpetúan los abuses que han sido documentados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +3924,14 @@ by and for civil society.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 6 on Digital Security and the related Annex for more on the safer use of new technologies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040037Z" creationid="bitsofspace" creationdate="20160422T040037Z">
+        <seg>Véase Capítulo 6 sobre Seguridad Digital y el anexo relacionado para leer más sobre un uso más seguro de las nuevas tecnologías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapters 1 and 2 for fuller description of gender “norms” in documentation.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T135120Z" creationid="bitsofspace" creationdate="20160420T135120Z">
@@ -3933,8 +3966,8 @@ by and for civil society.</seg>
       <tuv lang="EN-US">
         <seg>See, among other resources, the writing of Margo Okazawa-Rey (whose analysis guided much of this chapter), Activist Scholarship: Social Movements and Emancipatory Knowledge (2009).</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035747Z" creationid="bitsofspace" creationdate="20160422T035747Z">
-        <seg>Véase, entre otros recursos, el escrito de Margo Okazawa-Rey (cuyo análisis ha guiado una gran parte de este capítulo) "</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035850Z" creationid="bitsofspace" creationdate="20160422T035747Z">
+        <seg>Véase, entre otros recursos, el escrito de Margo Okazawa-Rey (cuyo análisis ha guiado una gran parte de este capítulo) "Beca Activista: Movimientos Sociales y Conocimientos Emancipadores (2009)"</seg>
       </tuv>
     </tu>
     <tu>
