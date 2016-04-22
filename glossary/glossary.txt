@@ -145,3 +145,4 @@ foster	fomentar, promover, alentar
 affidavits	declaraciones juradas
 assertions	afirmación, alegación, aseveración
 undertaking	emprender, desarrollar, comprometerse a 
+enact	promulgar, establecer, ejecutar, representar
