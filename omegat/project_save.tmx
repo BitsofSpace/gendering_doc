@@ -767,6 +767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are there risks to the defenders’ organizations, such as closure, freezing of funds, office vandalism, police raids and confiscation of office files and computers?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042444Z" creationid="bitsofspace" creationdate="20160422T042444Z">
+        <seg>¿Existen riesgos hacia las organizaciones de las personas defensoras como clausuras, congelación de fondos, vandalismo hacia sus oficinas y confiscación de archivos y equipo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article 9 of the Declaration states that there is a right to have the complaint promptly reviewed in a public hearing before an independent, impartial and competent judicial or other authority.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160413T220722Z" creationid="bitsofspace" creationdate="20160413T220722Z">
@@ -6538,6 +6546,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041112Z" creationid="bitsofspace" creationdate="20160422T041112Z">
         <seg>¿Los medios de comunicación subrayarán el caso y, si lo hacen, qué beneficios o riesgos emergerán?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will those who fund the organization support the documentation process, financially and otherwise?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042529Z" creationid="bitsofspace" creationdate="20160422T042529Z">
+        <seg>¿</seg>
       </tuv>
     </tu>
     <tu>
