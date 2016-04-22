@@ -2879,8 +2879,8 @@
       <tuv lang="EN-US">
         <seg>In certain situations, WHRDs may decide to record our own activism for any number of strategic purposes, including creating a legacy of social justice advocacy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T195858Z" creationid="bitsofspace" creationdate="20160422T195858Z">
-        <seg>En determinadas situaciones, las defensoras de derechos humanos deciden reg</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200059Z" creationid="bitsofspace" creationdate="20160422T195858Z">
+        <seg>En determinadas situaciones, las defensoras de derechos humanos deciden registrar su propio activismo por muchos propósitos estratégico, incluyendo la creación de un legado de incidencia de justicia social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4471,14 @@ http://www.golfxsconprincipios.com/lamoscacojonera/crossdressing-vs-travestismo/
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160412T052429Z" creationid="bitsofspace" creationdate="20160412T052429Z">
         <seg>Algunas ONGs son capaces de responder a solicitudes inmediatas que estén bien documentados o bien argumentados con fundamentos de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some activists assert that there should be much more work in this area and that WHRDs should focus as</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200143Z" creationid="bitsofspace" creationdate="20160422T200143Z">
+        <seg>Algunas personas activistas alegan que se debería trabajar mucho más esta área y que las defensoras deberían centrarse en</seg>
       </tuv>
     </tu>
     <tu>
