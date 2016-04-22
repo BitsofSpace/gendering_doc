@@ -5327,8 +5327,8 @@ are connected to judicial or intergovernmental processes.</seg>
       <tuv lang="EN-US">
         <seg>The documenters should incorporate and be aware of the uses of both qualitative and quantitative data, and of reliable sources of statistical information, where it exists.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T081350Z" creationid="bitsofspace" creationdate="20160422T081350Z">
-        <seg>Al documentar, se deberían tomar en cuenta e incorporar los usos tanto de los datos cualitativos como cuantitativos, fuentes confiables de información estadística.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T081418Z" creationid="bitsofspace" creationdate="20160422T081350Z">
+        <seg>Al documentar, se deberían tomar en cuenta e incorporar los usos tanto de los datos cualitativos como cuantitativos, y, en caso de que existan, fuentes confiables de información estadística.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6096,6 +6096,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T044450Z" creationid="bitsofspace" creationdate="20160422T044412Z">
         <seg>Ésto es particularmente importante en situaciones que implican traducciones y cuando se requiere de una atención particular a determinadas identidades o áreas de incidencia de las defensoras de derechos humanos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is especially useful because States often use statistics to combat or deny allegations of egregious or systematic violations of human rights raised by activists and civil society organisations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T081528Z" creationid="bitsofspace" creationdate="20160422T081528Z">
+        <seg>Ésto es especialmente útil porque los Estados suelen usar estadísticas de combate o niegan las alegaciones de violaciones atroces o sistemáticas contra los derechos humanos .</seg>
       </tuv>
     </tu>
     <tu>
