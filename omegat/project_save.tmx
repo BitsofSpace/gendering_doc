@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Will WHRDs be trained in this process, and will they take away additional skills?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T194204Z" creationid="bitsofspace" creationdate="20160424T194204Z">
+        <seg>&lt;f0&gt;¿Recibirán capacitación las defensoras de derechos humanos?¿Adqurirán habilidades adicionales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;human rights defenders they may defy cultural, religious or social norms about femininity and the role of women in a particular country or society.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T053946Z" creationid="bitsofspace" creationdate="20160414T053946Z">
