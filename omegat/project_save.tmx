@@ -7078,6 +7078,15 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>no me convence del todo</note>
+      <tuv lang="EN-US">
+        <seg>What makes a specific activist undertaking potentially exciting or useful?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T192627Z" creationid="bitsofspace" creationdate="20160424T192627Z">
+        <seg>¿Cómo se vuelve potencialmente estimulante o útil acciones activistas específicas?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>What makes documenting WHRDs as activistsand defenders of rights different from docu­</seg>
       </tuv>
@@ -7121,8 +7130,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>What’s the purpose of recording that project over time, and is this best tracked over a shorter</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T192434Z" creationid="bitsofspace" creationdate="20160424T192434Z">
-        <seg>¿CUál es el propósito </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T192657Z" creationid="bitsofspace" creationdate="20160424T192434Z">
+        <seg>¿Cuál es el propósito de registrar un proyecto a lo largo tiempo? ¿Se monitorea mejor a corto </seg>
       </tuv>
     </tu>
     <tu>
@@ -8690,6 +8699,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T054016Z" creationid="bitsofspace" creationdate="20160407T035350Z">
         <seg>o para la justicia social en general)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or longer duration?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T192659Z" creationid="bitsofspace" creationdate="20160424T192659Z">
+        <seg>o largo plazo?</seg>
       </tuv>
     </tu>
     <tu>
