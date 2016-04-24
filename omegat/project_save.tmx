@@ -455,6 +455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A particular campaign?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T194032Z" creationid="bitsofspace" creationdate="20160424T194032Z">
+        <seg>¿Una campaña determinada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A protection plan for use in the event that the WHRDs who have given information to the documenters come under threat should be prepared collaboratively.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T204449Z" creationid="bitsofspace" creationdate="20160422T204449Z">
@@ -749,6 +757,14 @@
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T054242Z" creationid="bitsofspace" creationdate="20160414T054242Z">
         <seg>Entre los grupos más vulnerables de defensores de derechos humanos en Armenia, uno de ellos es el de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An individual activist?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T194025Z" creationid="bitsofspace" creationdate="20160424T194025Z">
+        <seg>¿Una persona activista?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3231,6 +3247,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is that of an organization?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T193945Z" creationid="bitsofspace" creationdate="20160424T193945Z">
+        <seg>¿Pertenece a una organización??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the analysis of abuses different when the “subjects” of documentation are defenders?</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160420T132817Z" creationid="bitsofspace" creationdate="20160420T132817Z">
@@ -3243,6 +3267,17 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T041000Z" creationid="bitsofspace" creationdate="20160422T041000Z">
         <seg>¿El gobierno está implicado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>herencia, patrimonio
+
+No sé si me convence algo tan "grandioso" como legado o hablar más bien de si se construye sobre algo o quiere dejar algo para la posteridad</note>
+      <tuv lang="EN-US">
+        <seg>Is there a legacy the documentation is trying to create or protect?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T193905Z" creationid="bitsofspace" creationdate="20160424T193905Z">
+        <seg>¿La documentación intenta crear o proteger un legado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7403,6 +7438,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will you deplete your resources in this kind of project, or create potential to garner more?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T194053Z" creationid="bitsofspace" creationdate="20160424T194053Z">
+        <seg>¿Se consumirán los recursos en este tipo de proyecto o creará el potencial de obtener más?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the rallying call of “Free the Feminist Five!” an immediate international outcry ensued that demanded the release of the activists and dropping of charges.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160407T092158Z" creationid="bitsofspace" creationdate="20160407T092158Z">
@@ -7991,6 +8034,14 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T202252Z" creationid="bitsofspace" creationdate="20160422T202217Z">
         <seg>, conformaron el Colectivo "Women's Video" (WVC) para documentar el Campamento Seneca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>coalition?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160424T193950Z" creationid="bitsofspace" creationdate="20160424T193950Z">
+        <seg>¿coalición?</seg>
       </tuv>
     </tu>
     <tu>
