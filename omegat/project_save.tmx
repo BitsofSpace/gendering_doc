@@ -1635,6 +1635,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Determining the objective, use and intended “destination” of the documentation will shape the type of information that is gathered.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T044556Z" creationid="bitsofspace" creationdate="20160425T044556Z">
+        <seg>Determinar el objetivo, uso y destino intencionado de la documentación le dará forma a la información que se recopilará.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No estoy segura de la traducción de esta frase.</note>
       <tuv lang="EN-US">
         <seg>Did it foster coalition advocacy?</seg>
