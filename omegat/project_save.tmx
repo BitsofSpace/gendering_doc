@@ -747,8 +747,8 @@
       <tuv lang="EN-US">
         <seg>Alternatively, are they requiring a documentation process?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042729Z" creationid="bitsofspace" creationdate="20160422T042706Z">
-        <seg>¿Requieren de un proceso de documentación,</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T143959Z" creationid="bitsofspace" creationdate="20160422T042706Z">
+        <seg>¿Requieren de un proceso de documentación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -857,6 +857,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>¿Electrónicos?</note>
       <tuv lang="EN-US">
         <seg>Are there physical or electronic risks that must be considered?</seg>
       </tuv>
@@ -9729,8 +9730,8 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       <tuv lang="EN-US">
         <seg>through and after the documentation process?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040429Z" creationid="bitsofspace" creationdate="20160422T040429Z">
-        <seg>a lo largo y después del proceso de documentación?</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T143741Z" creationid="bitsofspace" creationdate="20160422T040429Z">
+        <seg>durante y después del proceso de documentación?</seg>
       </tuv>
     </tu>
     <tu>
