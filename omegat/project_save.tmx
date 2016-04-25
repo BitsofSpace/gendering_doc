@@ -6608,6 +6608,14 @@ Opté por "lucha" en vez de "incidencia".</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is especially true in cases where the information will most likely be generated for purposes of litigation within the formal justice system, or where its submission to various international</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T045143Z" creationid="bitsofspace" creationdate="20160425T045143Z">
+        <seg>Ésto es especialmente cierto cuando la información probablemente se genere con fines de litigación en un sistema judicial formal o cuando se está planeando someterla a mecanismos internacionales de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is especially useful because States often use statistics to combat or deny allegations of egregious or systematic violations of human rights raised by activists and civil society organisations.</seg>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160422T081548Z" creationid="bitsofspace" creationdate="20160422T081528Z">
@@ -8443,6 +8451,14 @@ http://www.acnur.org/t3/fileadmin/Documentos/BDL/2015/10140.pdf?view=1</note>
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160414T125508Z" creationid="bitsofspace" creationdate="20160414T125442Z">
         <seg>defensoras de derechos humanos, para promocionar un diálogo participativo y constructivo con ellas con aras de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>human rights mechanisms is planned.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T045146Z" creationid="bitsofspace" creationdate="20160425T045146Z">
+        <seg>derechos humanos.</seg>
       </tuv>
     </tu>
     <tu>
