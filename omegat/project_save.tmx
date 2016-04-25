@@ -1807,8 +1807,8 @@
       <tuv lang="EN-US">
         <seg>Documenters should be able to protect the information they collect and should be skilled in methods of ensuring its safety and security.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T142450Z" creationid="bitsofspace" creationdate="20160422T035605Z">
-        <seg>Las personas que documentan deben poder proteger la información que recolectan y tener habilidades en los métodos que puedan asegurarla.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T142543Z" creationid="bitsofspace" creationdate="20160422T035605Z">
+        <seg>Las personas que documentan deben poder proteger la información que recolectan y ser hábiles en los métodos que puedan asegurarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6844,8 +6844,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>This is important for all stages of the documentation process, including in those before the documentation is released as a “final product”.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T035628Z" creationid="bitsofspace" creationdate="20160422T035628Z">
-        <seg>Ésto es importante en todas las etapas del proceso de documentación, incluyendo aquellas antes del lanzamiento de la documentación como "resultado final".</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T142558Z" creationid="bitsofspace" creationdate="20160422T035628Z">
+        <seg>Ésto es importante en todas las etapas del proceso de documentación, incluyendo aquellas antes de su lanzamiento.</seg>
       </tuv>
     </tu>
     <tu>
