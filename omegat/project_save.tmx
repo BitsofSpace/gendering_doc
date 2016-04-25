@@ -7737,6 +7737,7 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>Esta frase se repite</note>
       <tuv lang="EN-US">
         <seg>Will WHRDs be at heightened risk, or will their families or colleagues?</seg>
       </tuv>
@@ -7805,8 +7806,8 @@ Opté por "lucha" en vez de "incidencia".</note>
       <tuv lang="EN-US">
         <seg>Will they require use of specific human rights documentation systems, and if yes, what are the</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T042754Z" creationid="bitsofspace" creationdate="20160422T042754Z">
-        <seg>el uso de sistemas específicos de derechos humanos y, si fuera así, cuáles son las</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T144100Z" creationid="bitsofspace" creationdate="20160422T042754Z">
+        <seg>¿y de un uso de sistemas específicos de documentación de derechos humanos. Si fuera así, ¿cuáles son las</seg>
       </tuv>
     </tu>
     <tu>
