@@ -1815,8 +1815,8 @@
       <tuv lang="EN-US">
         <seg>Documenters sometimes face the challenge of placing what has been recounted by the defenders “into” human rights and international law terminology, since that language may not be used by activists themselves.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T051737Z" creationid="bitsofspace" creationdate="20160425T051737Z">
-        <seg>Las personas que documentan a veces se enfrentan con el reto de </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T051929Z" creationid="bitsofspace" creationdate="20160425T051737Z">
+        <seg>Las personas que documentan a veces se enfrentan con el reto de traducir a terminología legal e internacionalista lo que las personas defensoras han relatado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,6 +3195,14 @@ de los Derechos Humanos de las Mujeres, ayuda a desafiar a las autoridades que m
       </tuv>
       <tuv lang="ES" changeid="bitsofspace" changedate="20160425T044308Z" creationid="bitsofspace" creationdate="20160425T044308Z">
         <seg>En dichos casos, se deberían seguir los procesos de consulta y construcción de consenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such situations, when the documenters may “interpret” or “translate” the voice of the women human rights defender in order to shape the case for a specific audience or recipient, it is very important to retain a record of the “original” version and language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T052036Z" creationid="bitsofspace" creationdate="20160425T052036Z">
+        <seg>En dichas situaciones, cuando las personas defensoras pueden "interpretar" o "traducir" la voz de las defensoras para darle forma a un caso para un determinado público, es importante que preserven registro de la versión "original".</seg>
       </tuv>
     </tu>
     <tu>
