@@ -909,8 +909,8 @@
       <tuv lang="EN-US">
         <seg>As in the previous section, the following exploration assumes a more formal process that is undertaken with documenters who may be outside the community directly involved.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T072054Z" creationid="bitsofspace" creationdate="20160422T072054Z">
-        <seg>Al igual que la sección anterior, la siguiente exploración asume un proceso más formal que es emprendido por personas documentalistas que puede ser externa a la comunidad directamente implicada.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T171316Z" creationid="bitsofspace" creationdate="20160422T072054Z">
+        <seg>Al igual que la sección anterior, la siguiente exploración asume un proceso más formal de documentación emprendido por personas más externas a la comunidad directamente implicada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,7 +7519,7 @@ Opté por "lucha" en vez de "incidencia".</note>
       </tuv>
     </tu>
     <tu>
-      <note>"these" aquí es...¿qué?</note>
+      <note>"These" aquí es...¿qué? ¿Métodos?</note>
       <tuv lang="EN-US">
         <seg>When these are used as a documentation basis for WHRDs, they should be built upon and transformed</seg>
       </tuv>
