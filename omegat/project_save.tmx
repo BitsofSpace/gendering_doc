@@ -3505,6 +3505,14 @@ No sé si me convence algo tan "grandioso" como legado o hablar más bien de si 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>It is helpful to explain the verification process from the outset so WHRDs don’t feel they are being mistrusted after giving information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T051454Z" creationid="bitsofspace" creationdate="20160425T051454Z">
+        <seg>Es útil explicar el proceso de verificación desde el principio para que las defensoras no sienten que desconfían en ellas después de dar información. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>También se puede decir "recursos humanos".</note>
       <tuv lang="EN-US">
         <seg>It is important to consider the human capacity and expertise at hand as well as financial resources available when determining what advocacy strategy or forum to use.</seg>
