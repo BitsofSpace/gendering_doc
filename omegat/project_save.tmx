@@ -1671,8 +1671,8 @@
       <tuv lang="EN-US">
         <seg>Different kinds of people document human rights violations: women human rights defenders tell our own stories, and in many circumstances people who are not themselves WHRDs record and document our experiences for political purposes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160420T131918Z" creationid="bitsofspace" creationdate="20160420T131918Z">
-        <seg>Hay muchos tipos de personas que documentan las violaciones a los derechos humanos: defensoras que narran sus propias historias y, en muchas circunstancias, también las personas que no son defensoras registran y documentan sus experiencias con fines políticos. </seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T134749Z" creationid="bitsofspace" creationdate="20160420T131918Z">
+        <seg>Hay muchos tipos de personas que documentan violaciones a los derechos humanos: tanto defensoras que narran sus propias historias, como personas que no son defensoras, pero que registran y documentan sus experiencias con fines políticos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2796,6 +2796,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>También podría ser "cambio social progresista" o "cambio social progresivo", según la acepción de "progressive".</note>
       <tuv lang="EN-US">
         <seg>Ideally, a core commitment to progressive social change and the social transformation that brings an end to discrimination and violations against WHRDs will always guide processes of documentation, no matter what its content.</seg>
       </tuv>
