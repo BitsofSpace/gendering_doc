@@ -860,8 +860,8 @@
       <tuv lang="EN-US">
         <seg>Are there physical or electronic risks that must be considered?</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T040350Z" creationid="bitsofspace" creationdate="20160422T040350Z">
-        <seg>¿Existen riesgos físico o electrónicos a tomar en cuenta?</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T143700Z" creationid="bitsofspace" creationdate="20160422T040350Z">
+        <seg>¿Existen riesgos físico o digitales a tomar en cuenta?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3101,11 +3101,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Dudas con el término "registrar" vs "anotar", "escribir"</note>
       <tuv lang="EN-US">
         <seg>In certain situations, WHRDs may decide to record our own activism for any number of strategic purposes, including creating a legacy of social justice advocacy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="bitsofspace" changedate="20160422T200059Z" creationid="bitsofspace" creationdate="20160422T195858Z">
-        <seg>En determinadas situaciones, las defensoras de derechos humanos deciden registrar su propio activismo por muchos propósitos estratégico, incluyendo la creación de un legado de incidencia de justicia social.</seg>
+      <tuv lang="ES" changeid="bitsofspace" changedate="20160425T143654Z" creationid="bitsofspace" creationdate="20160422T195858Z">
+        <seg>En determinadas situaciones, las defensoras de derechos humanos deciden escribir sobre su propio activismo con fines estratégicos, incluyendo la creación de un legado de incidencia de justicia social.</seg>
       </tuv>
     </tu>
     <tu>
